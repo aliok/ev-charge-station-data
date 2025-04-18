@@ -26,7 +26,7 @@ jobs:
       #   run: npm ci
 
       - name: Run Fetch Script and Commit Changes
-        run: .github/scripts/run_and_commit.sh # Path to your script
+        run: .github/scripts/run.sh # Path to your script
 
       # Optional: Action to handle failures explicitly if needed,
       # though GitHub Actions notifies on step failure by default.
