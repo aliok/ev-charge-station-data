@@ -8,7 +8,7 @@ echo "--- Running EV Station Data Fetch Script ---"
 # Execute the Node.js script
 # If this script exits with a non-zero status (as designed in your JS),
 # 'set -e' will cause this bash script to exit immediately, failing the workflow step.
-node fetch-stations.js
+node index.js
 
 echo "--- Script Execution Finished ---"
 
