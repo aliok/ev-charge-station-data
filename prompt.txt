@@ -304,3 +304,6 @@ And the GitHub workflow should still commit things when there's a non-zero statu
 
 It should not update the stations.json file if the file it is working on is not complete though.
 
+----------
+
+Prevent the workflow to run concurrently. There should be only 1 instance running.
