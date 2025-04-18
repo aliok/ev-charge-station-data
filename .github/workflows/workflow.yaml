@@ -1,0 +1,35 @@
+name: Fetch EV Station Data
+
+on:
+  schedule:
+    # Example: Run daily at 3 AM UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes back
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Or your desired Node.js version
+          cache: 'npm' # Optional: cache npm dependencies if you have any
+
+      # Optional: Install dependencies if you have a package.json
+      # - name: Install dependencies
+      #   run: npm ci
+
+      - name: Run Fetch Script and Commit Changes
+        run: .github/scripts/run_and_commit.sh # Path to your script
+
+      # Optional: Action to handle failures explicitly if needed,
+      # though GitHub Actions notifies on step failure by default.
+      # - name: Notify on failure
+      #   if: failure()
+      #   run: echo "Data fetch job failed!" # Replace with actual notification logic (e.g., Slack, email)

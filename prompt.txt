@@ -1,0 +1,298 @@
+SYSTEM PROMPT
+
+You are a helpful coding assistant. Your task is to generate or modify the contents of a single Javascript file based on the user's instructions. Follow these rules strictly:
+- Explain your changes. Ask questions if needed.
+- Always return the complete and valid Javascript file, including the imports.
+- Do not add any explanatory comments, such as "this is the changed part" or "here's the updated code". The output must be code-only.
+- Do not make changes unrelated to the user's request. Preserve existing formatting, content, and structure unless explicitly instructed otherwise.
+- Follow best practices in modern Javascript.
+- Be concise and avoid unnecessary boilerplate.
+- Your output should reflect the updated state of the file with the requested changes fully applied.
+
+------------------
+
+Some preliminary information:
+
+```
+curl --location 'https://sarjtr.epdk.gov.tr:443/sarjet/api/stations' \
+--header 'User-Agent: Dart/3.1 (dart:io)' \
+--header 'Accept-Encoding: gzip' \
+--header 'Host: sarjtr.epdk.gov.tr'
+``
+
+Returns a JSON response with a list of stations as an array.
+
+Example:
+
+```
+[
+  {
+    "id": 14551709,
+    "lat": 39.535522,
+    "lng": 31.662464,
+    "green": "EVET",
+    "sockets": [
+      {
+        "id": 352530
+      },
+      {
+        "id": 352531
+      }
+    ],
+    "available": true
+  },
+  ...
+]
+```
+
+Then there's the details for each station:
+
+```
+curl --location https://sarjtr.epdk.gov.tr:443/sarjet/api/stations/id/14551821/2025-04-15%2000:00:00 \
+--header 'User-Agent: Dart/3.1 (dart:io)' \
+--header 'Accept-Encoding: gzip' \
+--header 'Host: sarjtr.epdk.gov.tr'
+```
+
+Outputs:
+```
+{
+  "id": 14551821,
+  "title": "Ramada by Wyndham Soma",
+  "address": "KOZANLI BERGAMA  SOMA/MANİSA",
+  "lat": 39.184314,
+  "lng": 27.548794,
+  "phone": "08503399937",
+  "reportUrl": "https://zes.net/bize-ulasin",
+  "reservationUrl": null,
+  "operatorid": "919287",
+  "operatortitle": "ZES DİJİTAL TİCARET ANONİM ŞİRKETİ",
+  "licenceActive": true,
+  "licenceStatus": 1,
+  "stationActive": true,
+  "serviceType": "HALKA_ACIK",
+  "green": "EVET",
+  "brand": "zes",
+  "cityid": "45",
+  "districtid": "628",
+  "sockets": [
+    {
+      "id": 352754,
+      "type": "AC",
+      "subType": "AC_TYPE2",
+      "socketNumber": "SKT/2990",
+      "price": 8.99,
+      "power": 22.0,
+      "prices": [
+        {
+          "active": 1,
+          "price": 8.99,
+          "startTime": "2025-01-04T00:00:00",
+          "endTime": null
+        }
+      ],
+      "availability": [
+        {
+          "id": 0,
+          "active": 1,
+          "status": "FREE",
+          "startTime": "2025-04-15T00:00:00",
+          "endTime": "2025-04-15T23:59:59.999999999",
+          "reservationid": 0
+        }
+      ]
+    },
+    {
+      "id": 352755,
+      "type": "AC",
+      "subType": "AC_TYPE2",
+      "socketNumber": "SKT/2991",
+      "price": 8.99,
+      "power": 22.0,
+      "prices": [
+        {
+          "active": 1,
+          "price": 8.99,
+          "startTime": "2025-01-04T00:00:00",
+          "endTime": null
+        }
+      ],
+      "availability": [
+        {
+          "id": 0,
+          "active": 1,
+          "status": "FREE",
+          "startTime": "2025-04-15T00:00:00",
+          "endTime": "2025-04-15T23:59:59.999999999",
+          "reservationid": 0
+        }
+      ]
+    }
+  ],
+  "paymentTypes": [
+    {
+      "name": "MOBILODEME"
+    }
+  ]
+}
+```
+
+I want to write a program that fetches the list of stations, and then for each station, fetches the details. The details should be embedded in the station object. The final output should be a list of stations with their details.
+
+I will run this program in the cloud periodically. Since the operation takes very long, I want to be able to limit the number of calls in each run of the program, say 1000 requests at a time. The program should be able to handle errors gracefully and retry failed requests. That means, it should store the status of a station's status in the same file, if it has been successfully fetched or not. And the number of errors for a station (max 3). Re-running the program with the same file should continue from where it left off. The program should also be able to handle rate limiting by the server, so it should wait for a certain amount of time before retrying failed requests. The program should also be able to handle network errors and other unexpected errors gracefully.
+
+--------------
+
+cause: Error: unable to verify the first certificate
+Getting this
+
+-------------
+
+ made these changes:
+Added process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'; // Disable TLS certificate validation (not recommended for production) at the top. Ok for now
+const MAX_REQUESTS_PER_RUN = 10; // Max detail requests per script execution
+Use code with caution.
+const FETCH_HEADERS = {
+'User-Agent': 'Dart/3.1 (dart:io)',
+'Accept-Encoding': 'gzip',
+'Host': 'sarjtr.epdk.gov.tr'
+};
+
+----------
+
+The script should generate a stations.json file at the end, stripping the process related details.
+
+---------
+
+stations.json should be created, even for the stations that don't have details. So, when the program exits, that should be created. Like, whenever something is written to station_data.json
+
+---------
+
+Remove availability related information in stations and sockets.
+
+--------------
+
+Also remove the paymentType, green, price informations
+
+----------------
+
+Write a funciton to normalize the station and socket entries. E.g.
+
+```
+{
+    "id": 14524425,
+    "lat": 37.878798,
+    "lng": 30.82327,
+    "title": "TR-32-007 Harmoni Pastanesi",
+    "address": "İstasyon İstasyon 16  EĞİRDİR/ISPARTA",
+    "phone": "05421238123",
+    "reportUrl": "https://chargers.sarj.com.tr/tr/kontakty",
+    "reservationUrl": "https://chargers.sarj.com.tr",
+    "operatorid": "1037283",
+    "operatortitle": "ŞARJPLUS ELEKTRİKLİ ARAÇ ŞARJ SİSTEMLERİ LİMİTED ŞİRKETİ",
+    "serviceType": "HALKA_ACIK",
+    "brand": "ŞARJPLUS",
+    "cityid": "32",
+    "districtid": "392",
+    "sockets": [
+      {
+        "id": 289478,
+        "type": "AC",
+        "subType": "AC_TYPE2",
+        "socketNumber": "SKT/8900",
+        "power": 22
+      },
+      {
+        "id": 289479,
+        "type": "AC",
+        "subType": "AC_TYPE2",
+        "socketNumber": "SKT/8901",
+        "power": 11
+      },
+      {
+        "id": 289480,
+        "type": "AC",
+        "subType": "AC_TYPE2",
+        "socketNumber": "SKT/8902",
+        "power": 11
+      }
+    ]
+  },
+```
+
+What can be the normalized output look like?
+
+-------------
+
+Looks good. Rewrite the whole file now.
+
+-----------
+
+I made this change
+
+```
+const REQUEST_DELAY_MS = 500; // Delay between detail requests to be polite
+```
+
+In normalization
+- Do not touch the brand name
+- Change "serviceType": "halka_acik", to `public` (not sure about other possible values yet, add a TODO for it.)
+- Change subtype value to lower camel case
+- Make these fields' words start with a capital letter but not the whole thing: title, address, operatorTitle,
+
+----------
+
+These are not good
+
+```
+"operatorTitle": "şArjplus Elektri̇Kli̇ Araç şArj Si̇Stemleri̇ Li̇Mi̇Ted şİRketi̇"
+"title": "Tr-16-002 Lineer KalıP Makine",
+"address": "Tahtalı Ficanoz 22/1  Ni̇LüFer/Bursa",
+```
+
+There's still uppercase letters in the middle, also some words don't start with uppercase.
+
+----------
+
+`"address": "Hamamlıkızık Şehitler 504  Yıldırım/bursa", ` should be `"address": "Hamamlıkızık Şehitler 504  Yıldırım/Bursa",`
+
+----------
+
+The output files will be very large I think. What would be your estimate? We have 10K stations and each station has 3 sockets on average.
+
+---------
+
+Good! Then I don't need to split the file into multiple files.
+
+I want to run this in GitHub actions.
+
+I need to do these:
+- Add a timestamp to the file name.
+- When the program runs, it checks a folder, where I can have files for multiple executions.
+- The program continues from the last file that's incomplete.
+- The program deletes earliest files after 10 files.
+- The program won't do anything if all files are incomplete and the last completion date is less than a week ago.
+- It exits with a non-zero code if the file its working on can't be completed (retries exhausted, etc)
+
+-------------
+
+Write me a bash script that I will run in the GitHub workflow.
+
+It should run the program and commit changes. If there's a non-zero exit, is there a way to let me know?
+
+-----------------
+
+ The state files should also be checked in.
+I will run this workflow periodically and it needs to continue from where it has left off.
+
+---
+
+I want to be able to find out the latest complete file.
+
+In the program, can you add a logic to create a stations.json file with the content from the latest complete file?
+
+---
+
+In addition to max request count before stopping, I also want the program to stop after N minutes (by default, 15 minutes).
+BTW, what's the longest duration for GitHub workflows?
+
