@@ -419,11 +419,16 @@ async function fetchStationDetails(station) {
     }
 }
 
-/** Checks if the state indicates all processing is complete. */
+/** Checks if the state indicates all processing is complete (no pending or retryable stations). */
 function isStateComplete(stations) {
-    if (!Array.isArray(stations)) return false; // Incomplete if state is invalid
-    // Check if *any* station still needs processing
+    if (!Array.isArray(stations)) return false;
     return !stations.some(s => s && (s.fetchStatus === 'pending' || (s.fetchStatus === 'failed' && s.fetchAttempts < MAX_RETRIES)));
+}
+
+/** Checks if the state contains any permanently failed stations (retries exhausted). */
+function hasPermanentlyFailedStations(stations) {
+    if (!Array.isArray(stations)) return false; // Or maybe true, depending on desired behavior for invalid state
+    return stations.some(s => s && s.fetchStatus === 'failed' && s.fetchAttempts >= MAX_RETRIES);
 }
 
 
@@ -578,6 +583,7 @@ async function cleanupOldFiles() {
 
 /**
  * Finds the latest complete run and copies its output to stations.json.
+ * This function searches historical files.
  */
 async function updateLatestCompleteOutput() {
     console.log(`\n--- Updating ${LATEST_OUTPUT_FILENAME} ---`);
@@ -594,15 +600,15 @@ async function updateLatestCompleteOutput() {
             console.log(`   Checking state file: ${stateFilename}...`);
             const stations = await loadState(stateFilePath); // Use loadState to read and parse
 
-            if (stations && isStateComplete(stations)) {
+            if (stations && isStateComplete(stations) && !hasPermanentlyFailedStations(stations)) { // Ensure it's complete *and* had no permanent errors
                 latestCompleteStateFile = stateFilename;
                 latestCompleteTimestamp = getTimestampFromFilename(stateFilename);
-                console.log(`   Found latest complete state: ${latestCompleteStateFile}`);
-                break; // Stop searching once the latest complete one is found
+                console.log(`   Found latest valid complete state: ${latestCompleteStateFile}`);
+                break; // Stop searching once the latest valid complete one is found
             } else if (!stations) {
                 console.log(`   Skipping check for ${stateFilename} due to load error.`);
             } else {
-                console.log(`   State ${stateFilename} is not complete.`);
+                console.log(`   State ${stateFilename} is not complete or has errors.`);
             }
         }
 
@@ -625,7 +631,7 @@ async function updateLatestCompleteOutput() {
                 console.warn(`   Corresponding output file not found for latest complete state: ${sourceOutputPath}`);
             }
         } else {
-            console.log(`   No complete state file found. ${LATEST_OUTPUT_FILENAME} not updated.`);
+            console.log(`   No valid complete state file found. ${LATEST_OUTPUT_FILENAME} not updated.`);
         }
 
     } catch (error) {
@@ -646,6 +652,7 @@ async function updateLatestCompleteOutput() {
     let currentStations = null;
     let currentStateFilePath = null;
     let currentOutputFilePath = null;
+    let runPerformedProcessing = false; // Flag to track if processing actually happened
 
     console.log("--- Starting EV Station Data Fetcher ---");
 
@@ -657,7 +664,6 @@ async function updateLatestCompleteOutput() {
         // --- Determine Run State ---
         let latestStateFilePath = null;
         let latestTimestamp = null;
-        let latestStateIsComplete = false;
         let startNewRun = true; // Assume new run unless we find an incomplete one
 
         const stateFiles = (await readdir(STATE_DIR))
@@ -669,27 +675,29 @@ async function updateLatestCompleteOutput() {
             console.log(`Latest state file found: ${latestStateFilePath}`);
             currentStations = await loadState(latestStateFilePath); // Attempt to load
             if (currentStations) {
-                latestStateIsComplete = isStateComplete(currentStations);
+                // Check if the loaded state needs more processing (is not complete or has permanent failures needing a new run)
+                const needsProcessing = !isStateComplete(currentStations) || hasPermanentlyFailedStations(currentStations);
                 latestTimestamp = getTimestampFromFilename(stateFiles[0]);
-                const latestDate = parseTimestamp(latestTimestamp); // Use refined parseTimestamp
+                const latestDate = parseTimestamp(latestTimestamp);
 
-                if (!latestStateIsComplete) {
-                    // Continue the latest incomplete run
+                if (needsProcessing) {
+                    // Continue the latest run if it's incomplete or had permanent failures (allow restarting from a failed state)
                     startNewRun = false;
                     currentStateFilePath = latestStateFilePath;
                     currentOutputFilePath = path.join(OUTPUT_DIR, `${OUTPUT_FILENAME_PREFIX}${latestTimestamp}${FILENAME_SUFFIX}`);
-                    console.log(`Continuing incomplete run from ${latestTimestamp}...`);
-                } else if (latestDate) { // Only check age if timestamp was valid
-                    // Latest run was complete, check its age
+                    console.log(`Continuing run from ${latestTimestamp} (needs processing)...`);
+                } else if (latestDate) { // State is complete and has no permanent errors
+                    // Latest run was complete and valid, check its age
                     const daysAgo = (new Date() - latestDate) / (1000 * 60 * 60 * 24);
                     if (daysAgo < MIN_INTERVAL_DAYS_IF_COMPLETE) {
                         console.log(`Last run completed successfully ${daysAgo.toFixed(1)} days ago (less than ${MIN_INTERVAL_DAYS_IF_COMPLETE} days). No new run needed.`);
-                        await updateLatestCompleteOutput(); // Update stations.json even if not running
+                        // Even if not running, ensure stations.json reflects the latest known good state
+                        await updateLatestCompleteOutput();
                         await cleanupOldFiles(); // Still cleanup
                         process.exit(0); // Exit successfully
                     } else {
                         console.log(`Last run completed ${daysAgo.toFixed(1)} days ago. Starting a fresh run.`);
-                        // startNewRun remains true
+                        startNewRun = true; // Force new run
                     }
                 } else {
                     // Could not parse timestamp from latest file, better to start fresh
@@ -720,31 +728,42 @@ async function updateLatestCompleteOutput() {
                 await saveState(currentStations, currentStateFilePath, currentOutputFilePath);
             } catch (error) {
                 console.error("CRITICAL: Failed to fetch initial station list. Cannot proceed.");
-                process.exit(1); // Exit with error if initial fetch fails
+                exitCode = 1; // Set error exit code for critical failure
+                // Skip further processing and jump towards finally block
+                currentStations = null; // Prevent further processing attempts
             }
         }
 
         // --- Process Stations ---
         if (currentStations && currentStateFilePath && currentOutputFilePath) {
-            const processingNeeded = !isStateComplete(currentStations);
-            if (processingNeeded) {
+            const needsProcessingCheck = !isStateComplete(currentStations); // Check if processing is needed
+            if (needsProcessingCheck) {
                 // Pass scriptStartTime to processStations
                 await processStations(currentStations, currentStateFilePath, currentOutputFilePath, scriptStartTime);
+                runPerformedProcessing = true; // Mark that processing occurred
             } else {
                 console.log("Loaded state is already complete. No processing needed for this run.");
-                // Ensure output file is updated if state was just loaded and is complete
-                await saveState(currentStations, currentStateFilePath, currentOutputFilePath);
+                // If we loaded a complete state, ensure its output file is consistent
+                if (!startNewRun) { // Only save if we loaded an existing complete state
+                    await saveState(currentStations, currentStateFilePath, currentOutputFilePath);
+                }
             }
 
-            // --- Determine Exit Code ---
+            // --- Determine Exit Code (Revised Logic) ---
             // Check the final state *after* processing attempt
-            const finalStateIsComplete = isStateComplete(currentStations);
-            if (!finalStateIsComplete) {
-                console.warn("\nWARNING: Run finished, but processing is still incomplete (pending/retryable stations remain, or time limit reached).");
-                exitCode = 1; // Set non-zero exit code for incomplete state
+            const permanentFailuresExist = hasPermanentlyFailedStations(currentStations);
+
+            if (permanentFailuresExist) {
+                console.error("\nERROR: Run finished, but one or more stations failed permanently after retries.");
+                exitCode = 1; // Non-zero exit code ONLY for permanent failures
             } else {
-                console.log("\nProcessing complete. Final state and output files are up-to-date.");
-                exitCode = 0;
+                const finalStateIsComplete = isStateComplete(currentStations);
+                if (!finalStateIsComplete) {
+                    console.warn("\nWARNING: Run finished, but processing is incomplete (pending/retryable stations remain, or time/request limit reached). Exiting cleanly (0).");
+                } else {
+                    console.log("\nProcessing complete. All stations fetched successfully. Exiting cleanly (0).");
+                }
+                exitCode = 0; // Exit code 0 if complete OR incomplete without permanent failures
             }
 
             // --- Print Summary ---
@@ -766,15 +785,20 @@ async function updateLatestCompleteOutput() {
             console.log("---------------------\n");
 
 
-        } else {
+        } else if (exitCode === 0) { // Handle case where initial fetch failed
             console.error("CRITICAL: Station data is missing or file paths are invalid. Cannot proceed.");
             exitCode = 1;
         }
 
-        // --- Update Latest Complete Output File ---
-        // This runs regardless of whether processing happened in this specific execution,
-        // ensuring stations.json reflects the absolute latest complete data available.
-        await updateLatestCompleteOutput();
+        // --- Update Latest Complete Output File (Conditional) ---
+        // Only update stations.json if the script is exiting successfully (exitCode 0)
+        // This ensures it reflects the latest data *only if* the run was considered successful
+        // (either fully complete, or incomplete without permanent errors).
+        if (exitCode === 0) {
+            await updateLatestCompleteOutput();
+        } else {
+            console.log(`\nSkipping update of ${LATEST_OUTPUT_FILENAME} due to script exiting with non-zero status.`);
+        }
 
         // --- Cleanup ---
         await cleanupOldFiles();

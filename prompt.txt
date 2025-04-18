@@ -285,14 +285,25 @@ It should run the program and commit changes. If there's a non-zero exit, is the
  The state files should also be checked in.
 I will run this workflow periodically and it needs to continue from where it has left off.
 
----
+----------
 
 I want to be able to find out the latest complete file.
 
 In the program, can you add a logic to create a stations.json file with the content from the latest complete file?
 
----
+----------
 
 In addition to max request count before stopping, I also want the program to stop after N minutes (by default, 15 minutes).
 BTW, what's the longest duration for GitHub workflows?
 
+-----------
+
+The  program should only exit with a non-zero status when a file can't be completed (due to retries exhausted).
+
+And the GitHub workflow should still commit things when there's a non-zero status.
+
+It should not update the stations.json file if the file it is working on is not complete though.
+
+----------
+
+Also, I don't want to mark a file incomplete
