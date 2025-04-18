@@ -28,7 +28,7 @@ const FILENAME_SUFFIX = '.json';
 const MAX_HISTORY_FILES = 10; // Keep the latest 10 state/output file pairs
 const MIN_INTERVAL_DAYS_IF_COMPLETE = 7; // Min days before running again if last run was complete
 
-const MAX_REQUESTS_PER_RUN = 10; // Max detail requests per script execution (stops after this many *requests*)
+const MAX_REQUESTS_PER_RUN = 1000; // Max detail requests per script execution (stops after this many *requests*)
 const MAX_RUN_MINUTES = 15; // Max duration in minutes for processing stations in a single run (stops after this much *time*)
 const MAX_RETRIES = 3; // Max retries for failed detail requests
 const REQUEST_DELAY_MS = 500; // Delay between detail requests to be polite

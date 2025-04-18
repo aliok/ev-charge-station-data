@@ -304,6 +304,3 @@ And the GitHub workflow should still commit things when there's a non-zero statu
 
 It should not update the stations.json file if the file it is working on is not complete though.
 
-----------
-
-Also, I don't want to mark a file incomplete

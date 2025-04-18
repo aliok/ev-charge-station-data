@@ -2,8 +2,8 @@ name: Fetch EV Station Data
 
 on:
   schedule:
-    # Example: Run daily at 3 AM UTC
-    - cron: '0 3 * * *'
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -26,10 +26,5 @@ jobs:
       #   run: npm ci
 
       - name: Run Fetch Script and Commit Changes
-        run: .github/scripts/run_and_commit.sh # Path to your script
-
-      # Optional: Action to handle failures explicitly if needed,
-      # though GitHub Actions notifies on step failure by default.
-      # - name: Notify on failure
-      #   if: failure()
-      #   run: echo "Data fetch job failed!" # Replace with actual notification logic (e.g., Slack, email)
+        # Assumes the bash script is at this location
+        run: .github/scripts/run_and_commit.sh
