@@ -317,7 +317,7 @@ I already have some existing state files. Don't make breaking changes.
 
 ----------
 
+Increase retry count to 5.
+Do not return non-zero exit code if there's only a few that permanently failed. The threshold should be 2%.
 
-TODO:
-- Increase retry count to 5.
-- Do not return non-zero exit code if there's only a few that permanently failed. The threshold should be 5%.
+---------

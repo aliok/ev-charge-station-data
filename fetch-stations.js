@@ -30,7 +30,8 @@ const MIN_INTERVAL_DAYS_IF_COMPLETE = 7; // Min days before running again if las
 
 const MAX_REQUESTS_PER_RUN = 1000; // Max detail requests per script execution (stops after this many *requests*)
 const MAX_RUN_MINUTES = 15; // Max duration in minutes for processing stations in a single run (stops after this much *time*)
-const MAX_RETRIES = 3; // Max retries for failed detail requests (across multiple runs)
+const MAX_RETRIES = 5; // Max retries for failed detail requests (across multiple runs)
+const PERMANENT_FAILURE_THRESHOLD_PERCENT = 1; // Max percentage of permanently failed stations to allow before exiting with error code
 const REQUEST_DELAY_MS = 500; // Delay between detail requests to be polite
 const FETCH_TIMEOUT_MS = 30000; // Timeout for fetch requests (30 seconds)
 
@@ -430,6 +431,12 @@ function hasPermanentlyFailedStations(stations) {
     return stations.some(s => s && s.fetchStatus === 'failed' && s.fetchAttempts >= MAX_RETRIES);
 }
 
+/** Counts the number of permanently failed stations */
+function countPermanentlyFailedStations(stations) {
+    if (!Array.isArray(stations)) return 0;
+    return stations.filter(s => s && s.fetchStatus === 'failed' && s.fetchAttempts >= MAX_RETRIES).length;
+}
+
 
 /**
  * Processes stations for the current run, respecting request and time limits.
@@ -470,13 +477,13 @@ async function processStations(stations, stateFilePath, outputFilePath, scriptSt
 
         if (!station || !station.id) {
             console.warn("Skipping invalid station object during processing loop:", station);
-            processedCount++;
+            processedCount++; // Still count it as 'processed' for loop control
             continue;
         }
         const stationIndex = stations.findIndex(s => s && s.id === station.id);
         if (stationIndex === -1) {
             console.warn(`Station ${station.id} from processing list not found in main state array. Skipping.`);
-            processedCount++;
+            processedCount++; // Still count it as 'processed' for loop control
             continue; // Safety check
         }
 
@@ -501,7 +508,7 @@ async function processStations(stations, stateFilePath, outputFilePath, scriptSt
             failureCount++;
             if (stations[stationIndex].fetchAttempts >= MAX_RETRIES) {
                 stations[stationIndex].fetchStatus = 'failed'; // Mark as terminally failed
-                console.error(`   [FAIL] Station ${station.id} failed after ${stations[stationIndex].fetchAttempts} attempts (max reached): ${result.error}`);
+                console.error(`   [FAIL] Station ${station.id} failed after ${stations[stationIndex].fetchAttempts} attempts (max ${MAX_RETRIES} reached): ${result.error}`);
             } else {
                 stations[stationIndex].fetchStatus = 'failed'; // Mark as failed, eligible for retry in a *future* run
                 console.warn(`   [WARN] Station ${station.id} failed attempt ${stations[stationIndex].fetchAttempts}/${MAX_RETRIES}. Will retry in next run if needed. Error: ${result.error}`);
@@ -594,16 +601,27 @@ async function updateLatestCompleteOutput() {
             console.log(`   Checking state file: ${stateFilename}...`);
             const stations = await loadState(stateFilePath); // Use loadState to read and parse
 
-            if (stations && isStateComplete(stations) && !hasPermanentlyFailedStations(stations)) { // Ensure it's complete *and* had no permanent errors
-                latestCompleteStateFile = stateFilename;
-                latestCompleteTimestamp = getTimestampFromFilename(stateFilename);
-                console.log(`   Found latest valid complete state: ${latestCompleteStateFile}`);
-                break; // Stop searching once the latest valid complete one is found
-            } else if (!stations) {
+            if (!stations) {
                 console.log(`   Skipping check for ${stateFilename} due to load error.`);
+                continue;
+            }
+
+            const totalCount = stations.length;
+            const permFailedCount = countPermanentlyFailedStations(stations);
+            const permFailedPercent = totalCount > 0 ? (permFailedCount / totalCount) * 100 : 0;
+
+            // Check if complete AND permanent failures are below threshold
+            if (isStateComplete(stations)) {
+                if (permFailedPercent <= PERMANENT_FAILURE_THRESHOLD_PERCENT) {
+                    latestCompleteStateFile = stateFilename;
+                    latestCompleteTimestamp = getTimestampFromFilename(stateFilename);
+                    console.log(`   Found latest usable complete state: ${latestCompleteStateFile} (${permFailedCount} permanent failures, ${permFailedPercent.toFixed(1)}% <= ${PERMANENT_FAILURE_THRESHOLD_PERCENT}%)`);
+                    break; // Stop searching
+                } else {
+                    console.log(`   State ${stateFilename} is complete but has too many permanent failures (${permFailedCount}, ${permFailedPercent.toFixed(1)}% > ${PERMANENT_FAILURE_THRESHOLD_PERCENT}%).`);
+                }
             } else {
-                const reason = isStateComplete(stations) ? "has permanent errors" : "is not complete";
-                console.log(`   State ${stateFilename} is not usable as latest complete (${reason}).`);
+                console.log(`   State ${stateFilename} is not complete.`);
             }
         }
 
@@ -623,10 +641,10 @@ async function updateLatestCompleteOutput() {
                     console.error(`Error copying ${sourceOutputFilename} to ${LATEST_OUTPUT_FILENAME}:`, copyError);
                 }
             } else {
-                console.warn(`   Corresponding output file not found for latest complete state: ${sourceOutputPath}`);
+                console.warn(`   Corresponding output file not found for latest usable state: ${sourceOutputPath}`);
             }
         } else {
-            console.log(`   No valid complete state file found. ${LATEST_OUTPUT_FILENAME} not updated.`);
+            console.log(`   No usable complete state file found (completed and within failure threshold). ${LATEST_OUTPUT_FILENAME} not updated.`);
         }
 
     } catch (error) {
@@ -670,28 +688,32 @@ async function updateLatestCompleteOutput() {
             console.log(`Latest state file found: ${latestStateFilePath}`);
             currentStations = await loadState(latestStateFilePath); // Attempt to load
             if (currentStations) {
-                // Check if the loaded state needs more processing (is not complete or has permanent failures needing a new run)
-                const needsProcessing = !isStateComplete(currentStations) || hasPermanentlyFailedStations(currentStations);
-                latestTimestamp = getTimestampFromFilename(stateFiles[0]);
+                const totalCount = currentStations.length;
+                const permFailedCount = countPermanentlyFailedStations(currentStations);
+                const permFailedPercent = totalCount > 0 ? (permFailedCount / totalCount) * 100 : 0;
+                const isLatestComplete = isStateComplete(currentStations);
+                const latestTimestamp = getTimestampFromFilename(stateFiles[0]);
                 const latestDate = parseTimestamp(latestTimestamp);
 
+                // Decide if we need to continue processing this state
+                // Continue if it's NOT complete, OR if it IS complete but EXCEEDS the failure threshold (meaning it wasn't 'good enough' last time)
+                const needsProcessing = !isLatestComplete || (isLatestComplete && permFailedPercent > PERMANENT_FAILURE_THRESHOLD_PERCENT);
+
                 if (needsProcessing) {
-                    // Continue the latest run if it's incomplete or had permanent failures (allow restarting from a failed state)
                     startNewRun = false;
                     currentStateFilePath = latestStateFilePath;
                     currentOutputFilePath = path.join(OUTPUT_DIR, `${OUTPUT_FILENAME_PREFIX}${latestTimestamp}${FILENAME_SUFFIX}`);
-                    console.log(`Continuing run from ${latestTimestamp} (needs processing)...`);
-                } else if (latestDate) { // State is complete and has no permanent errors
-                    // Latest run was complete and valid, check its age
+                    const reason = !isLatestComplete ? "incomplete" : `exceeded failure threshold (${permFailedPercent.toFixed(1)}% > ${PERMANENT_FAILURE_THRESHOLD_PERCENT}%)`;
+                    console.log(`Continuing run from ${latestTimestamp} (${reason})...`);
+                } else if (latestDate) { // State is complete AND within failure threshold
                     const daysAgo = (new Date() - latestDate) / (1000 * 60 * 60 * 24);
                     if (daysAgo < MIN_INTERVAL_DAYS_IF_COMPLETE) {
-                        console.log(`Last run completed successfully ${daysAgo.toFixed(1)} days ago (less than ${MIN_INTERVAL_DAYS_IF_COMPLETE} days). No new run needed.`);
-                        // Even if not running, ensure stations.json reflects the latest known good state
-                        await updateLatestCompleteOutput();
+                        console.log(`Last run was usable and completed ${daysAgo.toFixed(1)} days ago (less than ${MIN_INTERVAL_DAYS_IF_COMPLETE} days). No new run needed.`);
+                        await updateLatestCompleteOutput(); // Ensure stations.json reflects this state
                         await cleanupOldFiles(); // Still cleanup
                         process.exit(0); // Exit successfully
                     } else {
-                        console.log(`Last run completed ${daysAgo.toFixed(1)} days ago. Starting a fresh run.`);
+                        console.log(`Last usable run completed ${daysAgo.toFixed(1)} days ago. Starting a fresh run.`);
                         startNewRun = true; // Force new run
                     }
                 } else {
@@ -731,7 +753,7 @@ async function updateLatestCompleteOutput() {
 
         // --- Process Stations ---
         if (currentStations && currentStateFilePath && currentOutputFilePath) {
-            const needsProcessingCheck = !isStateComplete(currentStations); // Check if processing is needed
+            const needsProcessingCheck = !isStateComplete(currentStations); // Check if processing is needed *before* the run
             if (needsProcessingCheck) {
                 // Pass scriptStartTime to processStations
                 await processStations(currentStations, currentStateFilePath, currentOutputFilePath, scriptStartTime);
@@ -744,34 +766,43 @@ async function updateLatestCompleteOutput() {
                 }
             }
 
-            // --- Determine Exit Code (Revised Logic) ---
-            // Check the final state *after* processing attempt
-            const permanentFailuresExist = hasPermanentlyFailedStations(currentStations);
+            // --- Determine Exit Code (Threshold Logic) ---
+            const totalStations = currentStations.length;
+            const permanentlyFailedCount = countPermanentlyFailedStations(currentStations);
+            const permanentlyFailedPercent = totalStations > 0 ? (permanentlyFailedCount / totalStations) * 100 : 0;
+            const finalStateIsComplete = isStateComplete(currentStations);
 
-            if (permanentFailuresExist) {
-                console.error("\nERROR: Run finished, but one or more stations failed permanently after retries.");
-                exitCode = 1; // Non-zero exit code ONLY for permanent failures
+            if (permanentlyFailedCount > 0) {
+                console.log(`\nRun finished. Found ${permanentlyFailedCount} permanently failed stations out of ${totalStations} (${permanentlyFailedPercent.toFixed(1)}%).`);
+                if (permanentlyFailedPercent > PERMANENT_FAILURE_THRESHOLD_PERCENT) {
+                    console.error(`ERROR: Permanent failure rate (${permanentlyFailedPercent.toFixed(1)}%) exceeds threshold (${PERMANENT_FAILURE_THRESHOLD_PERCENT}%). Exiting with error code 1.`);
+                    exitCode = 1;
+                } else {
+                    console.warn(`WARNING: Permanent failure rate (${permanentlyFailedPercent.toFixed(1)}%) is within threshold (${PERMANENT_FAILURE_THRESHOLD_PERCENT}%). Exiting cleanly (0).`);
+                    exitCode = 0; // Treat as success if within threshold
+                }
             } else {
-                const finalStateIsComplete = isStateComplete(currentStations);
+                // No permanent failures
+                exitCode = 0; // Success
                 if (!finalStateIsComplete) {
                     console.warn("\nWARNING: Run finished, but processing is incomplete (pending/retryable stations remain, or time/request limit reached). Exiting cleanly (0).");
                 } else {
-                    console.log("\nProcessing complete. All stations fetched successfully. Exiting cleanly (0).");
+                    console.log("\nProcessing complete. All stations fetched successfully or failed within threshold. Exiting cleanly (0).");
                 }
-                exitCode = 0; // Exit code 0 if complete OR incomplete without permanent failures
             }
+
 
             // --- Print Summary ---
             const validStations = currentStations.filter(s => s && typeof s === 'object');
             const pendingCount = validStations.filter(s => s.fetchStatus === 'pending').length;
             const retryableCount = validStations.filter(s => s.fetchStatus === 'failed' && s.fetchAttempts < MAX_RETRIES).length;
             const successCount = validStations.filter(s => s.fetchStatus === 'success').length;
-            const permanentlyFailedCount = validStations.filter(s => s.fetchStatus === 'failed' && s.fetchAttempts >= MAX_RETRIES).length;
+            // Permanently failed count already calculated
 
             console.log("\n--- Fetch Summary ---");
-            console.log(`Total Stations in State: ${currentStations.length}`);
-            if (currentStations.length !== validStations.length) {
-                console.warn(`WARNING: Found ${currentStations.length - validStations.length} invalid entries in state data.`);
+            console.log(`Total Stations in State: ${totalStations}`);
+            if (totalStations !== validStations.length) {
+                console.warn(`WARNING: Found ${totalStations - validStations.length} invalid entries in state data.`);
             }
             console.log(`Successfully Fetched: ${successCount}`);
             console.log(`Pending (Not Attempted): ${pendingCount}`);
@@ -787,8 +818,8 @@ async function updateLatestCompleteOutput() {
 
         // --- Update Latest Complete Output File (Conditional) ---
         // Only update stations.json if the script is exiting successfully (exitCode 0)
-        // This ensures it reflects the latest data *only if* the run was considered successful
-        // (either fully complete, or incomplete without permanent errors).
+        // This means the run was either fully complete with no errors,
+        // incomplete without permanent errors, OR complete with permanent errors below the threshold.
         if (exitCode === 0) {
             await updateLatestCompleteOutput();
         } else {
