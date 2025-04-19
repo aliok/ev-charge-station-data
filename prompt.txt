@@ -307,3 +307,17 @@ It should not update the stations.json file if the file it is working on is not 
 ----------
 
 Prevent the workflow to run concurrently. There should be only 1 instance running.
+
+----------
+
+I am re-running the workflow periodically. Hence, I am able to retry the failed requests in the next run. So, I don't need to retry the failed requests in the same run.
+Retries should be done in a later execution. No need for backoff or something. Don't block the program retrying a failed call.
+
+I already have some existing state files. Don't make breaking changes.
+
+----------
+
+
+TODO:
+- Increase retry count to 5.
+- Do not return non-zero exit code if there's only a few that permanently failed. The threshold should be 5%.

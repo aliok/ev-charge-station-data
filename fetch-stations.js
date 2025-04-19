@@ -30,9 +30,8 @@ const MIN_INTERVAL_DAYS_IF_COMPLETE = 7; // Min days before running again if las
 
 const MAX_REQUESTS_PER_RUN = 1000; // Max detail requests per script execution (stops after this many *requests*)
 const MAX_RUN_MINUTES = 15; // Max duration in minutes for processing stations in a single run (stops after this much *time*)
-const MAX_RETRIES = 3; // Max retries for failed detail requests
+const MAX_RETRIES = 3; // Max retries for failed detail requests (across multiple runs)
 const REQUEST_DELAY_MS = 500; // Delay between detail requests to be polite
-const RETRY_DELAY_BASE_MS = 1000; // Initial delay before retrying a failed request (will increase exponentially)
 const FETCH_TIMEOUT_MS = 30000; // Timeout for fetch requests (30 seconds)
 
 const FETCH_HEADERS = {
@@ -481,13 +480,8 @@ async function processStations(stations, stateFilePath, outputFilePath, scriptSt
             continue; // Safety check
         }
 
+        // Apply delay *before* fetching
         if (processedCount > 0) await delay(REQUEST_DELAY_MS);
-
-        if (station.fetchStatus === 'failed' && station.fetchAttempts > 0) {
-            const retryDelay = RETRY_DELAY_BASE_MS * Math.pow(2, station.fetchAttempts - 1);
-            console.log(`   Retrying station ${station.id} (Attempt ${station.fetchAttempts + 1}). Waiting ${retryDelay}ms...`);
-            await delay(retryDelay);
-        }
 
         const result = await fetchStationDetails(station);
 
@@ -497,7 +491,7 @@ async function processStations(stations, stateFilePath, outputFilePath, scriptSt
         if (result.success) {
             stations[stationIndex].details = result.details; // Store raw details
             stations[stationIndex].fetchStatus = 'success';
-            stations[stationIndex].fetchAttempts += 1;
+            stations[stationIndex].fetchAttempts += 1; // Increment attempts even on success for tracking? No, keep 0 for success? Let's increment to show it *was* attempted.
             stations[stationIndex].errorInfo = null;
             successCount++;
             console.log(`   [OK] Station ${station.id} details fetched.`);
@@ -507,10 +501,10 @@ async function processStations(stations, stateFilePath, outputFilePath, scriptSt
             failureCount++;
             if (stations[stationIndex].fetchAttempts >= MAX_RETRIES) {
                 stations[stationIndex].fetchStatus = 'failed'; // Mark as terminally failed
-                console.error(`   [FAIL] Station ${station.id} failed after ${MAX_RETRIES} attempts: ${result.error}`);
+                console.error(`   [FAIL] Station ${station.id} failed after ${stations[stationIndex].fetchAttempts} attempts (max reached): ${result.error}`);
             } else {
-                stations[stationIndex].fetchStatus = 'failed'; // Still marked as failed, eligible for retry
-                console.warn(`   [WARN] Station ${station.id} failed attempt ${stations[stationIndex].fetchAttempts}/${MAX_RETRIES}: ${result.error}`);
+                stations[stationIndex].fetchStatus = 'failed'; // Mark as failed, eligible for retry in a *future* run
+                console.warn(`   [WARN] Station ${station.id} failed attempt ${stations[stationIndex].fetchAttempts}/${MAX_RETRIES}. Will retry in next run if needed. Error: ${result.error}`);
             }
         }
         processedCount++;
@@ -608,7 +602,8 @@ async function updateLatestCompleteOutput() {
             } else if (!stations) {
                 console.log(`   Skipping check for ${stateFilename} due to load error.`);
             } else {
-                console.log(`   State ${stateFilename} is not complete or has errors.`);
+                const reason = isStateComplete(stations) ? "has permanent errors" : "is not complete";
+                console.log(`   State ${stateFilename} is not usable as latest complete (${reason}).`);
             }
         }
 
@@ -780,7 +775,7 @@ async function updateLatestCompleteOutput() {
             }
             console.log(`Successfully Fetched: ${successCount}`);
             console.log(`Pending (Not Attempted): ${pendingCount}`);
-            console.log(`Needs Retry (${retryableCount} stations)`);
+            console.log(`Needs Retry in Future Run (${retryableCount} stations)`);
             console.log(`Permanently Failed (${permanentlyFailedCount} stations)`);
             console.log("---------------------\n");
 
