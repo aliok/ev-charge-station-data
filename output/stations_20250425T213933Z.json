@@ -306126,23 +306126,31 @@
     "id": 14685818,
     "lat": 37.936737,
     "lng": 41.925869,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Siirt Park, Siirt Merkez - Dc",
+    "address": "Kooperatif 1757 10  Merkez/Siirt",
+    "phone": "+0850 242 42 47",
+    "reportUrl": "https://otopriz.com.tr/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "133819",
+    "operatorTitle": "Dicle Kök Enerji Yatırım Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Otopriz",
+    "cityId": "56",
+    "districtId": "750",
     "sockets": [
       {
-        "id": 496314
+        "id": 496314,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/13982",
+        "power": 120
       },
       {
-        "id": 496315
+        "id": 496315,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/13983",
+        "power": 120
       }
     ]
   },
