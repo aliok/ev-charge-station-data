@@ -1618,45 +1618,6 @@
     ]
   },
   {
-    "id": 14534124,
-    "lat": 37.925924,
-    "lng": 40.164121,
-    "title": "Divan Otel",
-    "address": "Fırat 146  Kayapınar/Diyarbakır",
-    "phone": "05558229135",
-    "reportUrl": "https://turuncusarj.com/nedmin/production/sikayet.php",
-    "reservationUrl": "https://turuncusarj.com/nedmin/production/randevu.php",
-    "operatorId": "918800",
-    "operatorTitle": "Turuncu Mühendislik Elektrik Taah.san.ve Dış Tic. Ltd. Şti.",
-    "serviceType": "public",
-    "brand": "turuncu mühendislik",
-    "cityId": "21",
-    "districtId": "270",
-    "sockets": [
-      {
-        "id": 310077,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/4255",
-        "power": 50
-      },
-      {
-        "id": 310078,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4373",
-        "power": 22
-      },
-      {
-        "id": 310079,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4374",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14534136,
     "lat": 37.906244,
     "lng": 41.119927,
@@ -4111,45 +4072,6 @@
     ]
   },
   {
-    "id": 14551751,
-    "lat": 40.690701,
-    "lng": 30.219695,
-    "title": "Ng Hotels Sapanca Enjoy",
-    "address": "Tepebaşı Şht.cevdet Koç 73  Sapanca/Sakarya",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "54",
-    "districtId": "725",
-    "sockets": [
-      {
-        "id": 352612,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2792",
-        "power": 22
-      },
-      {
-        "id": 352613,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/3258",
-        "power": 22
-      },
-      {
-        "id": 352614,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/3259",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14551752,
     "lat": 40.653905,
     "lng": 27.055097,
@@ -5341,38 +5263,6 @@
         "type": "ac",
         "subType": "acType2",
         "socketNumber": "SKT/2975",
-        "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14551812,
-    "lat": 38.606528,
-    "lng": 27.367331,
-    "title": "Holiday Lnn Express Manisa",
-    "address": "Keçili 5608. 5  Yunusemre/Manisa",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "45",
-    "districtId": "986",
-    "sockets": [
-      {
-        "id": 352740,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2976",
-        "power": 22
-      },
-      {
-        "id": 352741,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2977",
         "power": 22
       }
     ]
@@ -6641,38 +6531,6 @@
         "type": "ac",
         "subType": "acType2",
         "socketNumber": "SKT/3438",
-        "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14551880,
-    "lat": 40.977023,
-    "lng": 28.803516,
-    "title": "Kaşıbeyaz Florya",
-    "address": "Şenlik Çatal 19  Bakırköy/İstanbul",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "34",
-    "districtId": "421",
-    "sockets": [
-      {
-        "id": 352848,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/3456",
-        "power": 22
-      },
-      {
-        "id": 352849,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/3457",
         "power": 22
       }
     ]
@@ -9443,38 +9301,6 @@
         "type": "ac",
         "subType": "acType2",
         "socketNumber": "SKT/4958",
-        "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14552018,
-    "lat": 39.856826,
-    "lng": 32.64508,
-    "title": "Besa Karina Ankara",
-    "address": "Yaşamkent 332.  Çankaya/Ankara",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "6",
-    "districtId": "80",
-    "sockets": [
-      {
-        "id": 353134,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4969",
-        "power": 22
-      },
-      {
-        "id": 353135,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4970",
         "power": 22
       }
     ]
@@ -12282,38 +12108,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/5268",
         "power": 60
-      }
-    ]
-  },
-  {
-    "id": 14552137,
-    "lat": 40.959718,
-    "lng": 39.963216,
-    "title": "Arsen Hotel & A.k.c Petrol",
-    "address": "Yeşilyalı Necmettin Karaduman 1  Arsin/Trabzon",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "61",
-    "districtId": "802",
-    "sockets": [
-      {
-        "id": 353365,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/5269",
-        "power": 22
-      },
-      {
-        "id": 353366,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/5270",
-        "power": 22
       }
     ]
   },
@@ -25622,52 +25416,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/12085",
         "power": 11
-      }
-    ]
-  },
-  {
-    "id": 14572786,
-    "lat": 41.04232,
-    "lng": 29.011973,
-    "title": "Four Seasons Hotel",
-    "address": "Çırağan Cd 28  Beşiktaş/İstanbul",
-    "phone": "08502415775",
-    "reportUrl": "https://solarsarj.org/",
-    "reservationUrl": "https://solarsarj.org/",
-    "operatorId": "1039122",
-    "operatorTitle": "Solar Araç Şarj Hizmetleri Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "solarşarj",
-    "cityId": "34",
-    "districtId": "428",
-    "sockets": [
-      {
-        "id": 396601,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/8059",
-        "power": 22
-      },
-      {
-        "id": 396602,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/8242",
-        "power": 22
-      },
-      {
-        "id": 396603,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/9137",
-        "power": 60
-      },
-      {
-        "id": 396604,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/9138",
-        "power": 60
       }
     ]
   },
@@ -58563,38 +58311,6 @@
     ]
   },
   {
-    "id": 14585964,
-    "lat": 38.196955,
-    "lng": 27.309765,
-    "title": "La Şarapçılık Torbalı",
-    "address": "Kuşçuburun Başmimar Sinan  Torbalı/İzmir",
-    "phone": "0850 339 99 37",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": "https://zes.net/bize-ulasin",
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "35",
-    "districtId": "479",
-    "sockets": [
-      {
-        "id": 424526,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/13826",
-        "power": 22
-      },
-      {
-        "id": 424527,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/13827",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14585965,
     "lat": 36.657022,
     "lng": 30.555901,
@@ -74612,56 +74328,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/16796",
         "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14599901,
-    "lat": 40.272397,
-    "lng": 28.602021,
-    "title": "Oksijen O122 Muratlı İstanbul Yönü",
-    "address": "Muratlı Muratlı 119  Karacabey/Bursa",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "16",
-    "districtId": "193",
-    "sockets": [
-      {
-        "id": 428154,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/11510",
-        "power": 180
-      }
-    ]
-  },
-  {
-    "id": 14599902,
-    "lat": 40.273502,
-    "lng": 28.598191,
-    "title": "Oksijen O122 Muratlı İzmir Yönü",
-    "address": "Muratlı Muratlı 119  Karacabey/Bursa",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "16",
-    "districtId": "193",
-    "sockets": [
-      {
-        "id": 428155,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/11509",
-        "power": 180
       }
     ]
   },
@@ -92345,38 +92011,6 @@
     ]
   },
   {
-    "id": 14606034,
-    "lat": 39.89934,
-    "lng": 32.865738,
-    "title": "Limak Ambassadore Hotel Ankara",
-    "address": "Gaziosman Paşa Boğaz 19  Çankaya/Ankara",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "6",
-    "districtId": "80",
-    "sockets": [
-      {
-        "id": 431105,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1379",
-        "power": 22
-      },
-      {
-        "id": 431106,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1380",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14606036,
     "lat": 39.911547,
     "lng": 32.856218,
@@ -96421,38 +96055,6 @@
     ]
   },
   {
-    "id": 14606266,
-    "lat": 41.66598,
-    "lng": 26.574686,
-    "title": "Rys Hotel & Restaurant Edirne",
-    "address": "1.murat Talatpaşa 82  Merkez/Edirne",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "22",
-    "districtId": "284",
-    "sockets": [
-      {
-        "id": 431514,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1772",
-        "power": 22
-      },
-      {
-        "id": 431515,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1773",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14606267,
     "lat": 41.636783,
     "lng": 26.609535,
@@ -97532,31 +97134,6 @@
     ]
   },
   {
-    "id": 14606333,
-    "lat": 40.690569,
-    "lng": 30.213175,
-    "title": "Ng Sapanca Hotel",
-    "address": "Tepebaşı Şht.cevdet Koç 73  Sapanca/Sakarya",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "54",
-    "districtId": "725",
-    "sockets": [
-      {
-        "id": 431638,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1941",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14606335,
     "lat": 40.721366,
     "lng": 30.382027,
@@ -98455,38 +98032,6 @@
         "type": "ac",
         "subType": "acType2",
         "socketNumber": "SKT/2035",
-        "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14606374,
-    "lat": 37.937148,
-    "lng": 32.51345,
-    "title": "Selçuklu Kongre Merkezi",
-    "address": "Horozluhan Yeni İstanbul 62  Selçuklu/Konya",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "42",
-    "districtId": "579",
-    "sockets": [
-      {
-        "id": 431718,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2036",
-        "power": 22
-      },
-      {
-        "id": 431719,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/3277",
         "power": 22
       }
     ]
@@ -108428,31 +107973,6 @@
     ]
   },
   {
-    "id": 14607257,
-    "lat": 41.102579,
-    "lng": 29.29134,
-    "title": "Ica Reşadiye Bi' Mola Dt",
-    "address": "Ömerli-kocaeli Yönü  Çekmeköy/İstanbul",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "34",
-    "districtId": "450",
-    "sockets": [
-      {
-        "id": 433481,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1241",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14607258,
     "lat": 40.874819,
     "lng": 26.636711,
@@ -110245,52 +109765,6 @@
     ]
   },
   {
-    "id": 14607375,
-    "lat": 37.897811,
-    "lng": 28.278837,
-    "title": "Bamboo Nazilli Avm",
-    "address": "İsabeyli 11. 34-3/C  Nazilli/Aydın",
-    "phone": "0850 339 99 37",
-    "reportUrl": "https://zes.net/anasayfa",
-    "reservationUrl": "https://zes.net/anasayfa",
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "9",
-    "districtId": "121",
-    "sockets": [
-      {
-        "id": 433756,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/8494",
-        "power": 22
-      },
-      {
-        "id": 433757,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/8495",
-        "power": 22
-      },
-      {
-        "id": 433758,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/15392",
-        "power": 60
-      },
-      {
-        "id": 433759,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/15393",
-        "power": 60
-      }
-    ]
-  },
-  {
     "id": 14607395,
     "lat": 39.936255,
     "lng": 32.820898,
@@ -110897,66 +110371,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/20184",
         "power": 60
-      }
-    ]
-  },
-  {
-    "id": 14607431,
-    "lat": 37.417418,
-    "lng": 27.417192,
-    "title": "Maxeria Blue Didyma Hotel",
-    "address": "Akbük 5649 10  Didim/Aydın",
-    "phone": "0850 339 99 37",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": "https://zes.net/bize-ulasin",
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "9",
-    "districtId": "112",
-    "sockets": [
-      {
-        "id": 433948,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/13830",
-        "power": 22
-      },
-      {
-        "id": 433949,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/13831",
-        "power": 22
-      },
-      {
-        "id": 433950,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/20186",
-        "power": 22
-      },
-      {
-        "id": 433951,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/20187",
-        "power": 22
-      },
-      {
-        "id": 433952,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/20188",
-        "power": 22
-      },
-      {
-        "id": 433953,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/20189",
-        "power": 22
       }
     ]
   },
@@ -123452,108 +122866,6 @@
     ]
   },
   {
-    "id": 14618518,
-    "lat": 38.738857,
-    "lng": 35.539099,
-    "title": "Migall Gross Market Kayseri",
-    "address": "Yıldırım Beyazıt 208  Melikgazi/Kayseri",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "38",
-    "districtId": "519",
-    "sockets": [
-      {
-        "id": 435820,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1570",
-        "power": 22
-      },
-      {
-        "id": 435821,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1571",
-        "power": 22
-      },
-      {
-        "id": 435822,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21788",
-        "power": 22
-      },
-      {
-        "id": 435823,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21789",
-        "power": 22
-      },
-      {
-        "id": 435824,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21790",
-        "power": 22
-      },
-      {
-        "id": 435825,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21791",
-        "power": 22
-      },
-      {
-        "id": 435826,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21792",
-        "power": 22
-      },
-      {
-        "id": 435827,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21793",
-        "power": 22
-      },
-      {
-        "id": 435828,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21794",
-        "power": 22
-      },
-      {
-        "id": 435829,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21795",
-        "power": 22
-      },
-      {
-        "id": 435830,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21796",
-        "power": 22
-      },
-      {
-        "id": 435831,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/21797",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14618525,
     "lat": 39.790798,
     "lng": 30.449764,
@@ -127162,7 +126474,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "6",
@@ -127194,7 +126506,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "6",
@@ -132601,7 +131913,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -137246,7 +136558,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "41",
@@ -137271,7 +136583,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "15",
@@ -137296,7 +136608,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "15",
@@ -137321,7 +136633,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "39",
@@ -137346,7 +136658,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "59",
@@ -137371,7 +136683,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "41",
@@ -137396,7 +136708,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "6",
@@ -137421,7 +136733,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "35",
@@ -137446,7 +136758,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "35",
@@ -137471,7 +136783,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -137496,7 +136808,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "10",
@@ -137528,7 +136840,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "10",
@@ -137553,7 +136865,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -137585,7 +136897,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -137610,7 +136922,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "52",
@@ -137656,7 +136968,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "20",
@@ -137688,7 +137000,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "20",
@@ -137720,7 +137032,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -137752,7 +137064,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "55",
@@ -137777,7 +137089,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "35",
@@ -137823,7 +137135,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "6",
@@ -137855,7 +137167,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -137887,7 +137199,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -137933,7 +137245,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "45",
@@ -137965,7 +137277,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "7",
@@ -138004,7 +137316,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "6",
@@ -138043,7 +137355,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "6",
@@ -138960,7 +138272,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "3",
@@ -138992,7 +138304,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "77",
@@ -139017,7 +138329,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -139925,80 +139237,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/18247",
         "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14620548,
-    "lat": 37.6062,
-    "lng": 36.791,
-    "title": "Kahramanmaraş Expo-1",
-    "address": "Hasancıklı  Onikişubat/Kahramanmaraş",
-    "phone": "05494950142",
-    "reportUrl": "https://bolgem.com.tr/bolgemmobility/",
-    "reservationUrl": null,
-    "operatorId": "1037659",
-    "operatorTitle": "Bölgem Mühendislik İnşaat Elektrik Makine Sanayi Ve Ticaret Limited Şirketi",
-    "serviceType": "public",
-    "brand": "BÖLGEM mobilite",
-    "cityId": "46",
-    "districtId": "984",
-    "sockets": [
-      {
-        "id": 439133,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/18227",
-        "power": 11
-      },
-      {
-        "id": 439134,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/18228",
-        "power": 11
-      },
-      {
-        "id": 439135,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/18229",
-        "power": 11
-      },
-      {
-        "id": 439136,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/18230",
-        "power": 11
-      },
-      {
-        "id": 439137,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/18231",
-        "power": 11
-      },
-      {
-        "id": 439138,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/18232",
-        "power": 11
-      },
-      {
-        "id": 439139,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/18233",
-        "power": 11
-      },
-      {
-        "id": 439140,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/18234",
-        "power": 11
       }
     ]
   },
@@ -152140,45 +151378,6 @@
     ]
   },
   {
-    "id": 14622197,
-    "lat": 38.63037,
-    "lng": 34.74364,
-    "title": "Monark Hotel Nevşehir",
-    "address": "Esentepe Ürgüp 72  Merkez/Nevşehir",
-    "phone": "0850 339 99 37",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": "https://zes.net/bize-ulasin",
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "50",
-    "districtId": "674",
-    "sockets": [
-      {
-        "id": 442239,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/25414",
-        "power": 22
-      },
-      {
-        "id": 442240,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/25415",
-        "power": 22
-      },
-      {
-        "id": 442241,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/25416",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14622207,
     "lat": 40.734486,
     "lng": 31.570537,
@@ -152443,7 +151642,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -152482,7 +151681,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -159439,7 +158638,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "59",
@@ -163758,66 +162957,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/8939",
         "power": 40
-      }
-    ]
-  },
-  {
-    "id": 14623380,
-    "lat": 39.954695,
-    "lng": 32.628301,
-    "title": "A Life Hastanesi Etimesgut",
-    "address": "Elvan 1935 5 D:1  Etimesgut/Ankara",
-    "phone": "4441453",
-    "reportUrl": "https://nevasarj.com/iletisim.php",
-    "reservationUrl": "https://nevasarj.com/urun-7.html",
-    "operatorId": "930960",
-    "operatorTitle": "Neva İç Ve Dış Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "NEVA ŞARJ",
-    "cityId": "6",
-    "districtId": "64",
-    "sockets": [
-      {
-        "id": 444228,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4757",
-        "power": 22
-      },
-      {
-        "id": 444229,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4758",
-        "power": 22
-      },
-      {
-        "id": 444230,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4759",
-        "power": 22
-      },
-      {
-        "id": 444231,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4760",
-        "power": 22
-      },
-      {
-        "id": 444232,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4761",
-        "power": 22
-      },
-      {
-        "id": 444233,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/4762",
-        "power": 22
       }
     ]
   },
@@ -170061,52 +169200,6 @@
     ]
   },
   {
-    "id": 14623928,
-    "lat": 40.973491,
-    "lng": 29.240562,
-    "title": "Rings Avm İstanbul",
-    "address": "Veysel Karani Osmangazi 158  Sancaktepe/İstanbul",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "34",
-    "districtId": "442",
-    "sockets": [
-      {
-        "id": 445282,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2913",
-        "power": 22
-      },
-      {
-        "id": 445283,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2914",
-        "power": 22
-      },
-      {
-        "id": 445284,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/27557",
-        "power": 180
-      },
-      {
-        "id": 445285,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/27558",
-        "power": 180
-      }
-    ]
-  },
-  {
     "id": 14623930,
     "lat": 41.256444,
     "lng": 36.32852,
@@ -170778,59 +169871,6 @@
     ]
   },
   {
-    "id": 14624057,
-    "lat": 36.875846,
-    "lng": 30.622561,
-    "title": "Kadi Konaklari Sitesi",
-    "address": "Uluc 1179. 16  Konyaaltı/Antalya",
-    "phone": "08503099950",
-    "reportUrl": "https://www.acropolsarj.com",
-    "reservationUrl": null,
-    "operatorId": "931324",
-    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
-    "serviceType": "public",
-    "brand": "ACROPOL",
-    "cityId": "7",
-    "districtId": "95",
-    "sockets": [
-      {
-        "id": 445419,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/26843",
-        "power": 60
-      },
-      {
-        "id": 445420,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/26844",
-        "power": 22
-      },
-      {
-        "id": 445421,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/26846",
-        "power": 22
-      },
-      {
-        "id": 445422,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/26848",
-        "power": 22
-      },
-      {
-        "id": 445423,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/26851",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14624099,
     "lat": 36.898947,
     "lng": 30.621247,
@@ -170912,52 +169952,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/25629",
         "power": 120
-      }
-    ]
-  },
-  {
-    "id": 14624137,
-    "lat": 36.938974,
-    "lng": 30.673918,
-    "title": "Panorama 1 Evleri",
-    "address": "Cankaya Mahallesi Cem Karaca No:26  Kepez/Antalya",
-    "phone": "08503099950",
-    "reportUrl": "https://www.acropolsarj.com",
-    "reservationUrl": null,
-    "operatorId": "931324",
-    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
-    "serviceType": "public",
-    "brand": "ACROPOL",
-    "cityId": "7",
-    "districtId": "94",
-    "sockets": [
-      {
-        "id": 445551,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/26856",
-        "power": 60
-      },
-      {
-        "id": 445552,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/26857",
-        "power": 22
-      },
-      {
-        "id": 445553,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/26858",
-        "power": 22
-      },
-      {
-        "id": 445554,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/26859",
-        "power": 22
       }
     ]
   },
@@ -171283,52 +170277,6 @@
         "type": "ac",
         "subType": "acType2",
         "socketNumber": "SKT/27749",
-        "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14624230,
-    "lat": 37.020916,
-    "lng": 30.640741,
-    "title": "Vali Konaklari Sitesi",
-    "address": "Altinkale Mahallesi Selcuklu Cad. No:1  Döşemealtı/Antalya",
-    "phone": "08503099950",
-    "reportUrl": "https://www.acropolsarj.com",
-    "reservationUrl": null,
-    "operatorId": "931324",
-    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
-    "serviceType": "public",
-    "brand": "ACROPOL",
-    "cityId": "7",
-    "districtId": "87",
-    "sockets": [
-      {
-        "id": 445733,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/27088",
-        "power": 22
-      },
-      {
-        "id": 445734,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/27090",
-        "power": 22
-      },
-      {
-        "id": 445735,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/27092",
-        "power": 22
-      },
-      {
-        "id": 445736,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/27094",
         "power": 22
       }
     ]
@@ -171715,7 +170663,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "7",
@@ -173080,7 +172028,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "35",
@@ -173326,7 +172274,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "67",
@@ -181606,38 +180554,6 @@
     ]
   },
   {
-    "id": 14625269,
-    "lat": 39.961764,
-    "lng": 32.688149,
-    "title": "Gökdemir West Sitesi A Blok",
-    "address": "Batı Sitesi 2328 Sokak 1/A  Yenimahalle/Ankara",
-    "phone": "444 02 77",
-    "reportUrl": "https://www.sarjtak.com",
-    "reservationUrl": null,
-    "operatorId": "1129136",
-    "operatorTitle": "Tayran Grup İnşaat Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "ŞARJTAK",
-    "cityId": "6",
-    "districtId": "78",
-    "sockets": [
-      {
-        "id": 447536,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29102",
-        "power": 7.4
-      },
-      {
-        "id": 447537,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29177",
-        "power": 7.4
-      }
-    ]
-  },
-  {
     "id": 14625272,
     "lat": 41.077994,
     "lng": 29.010228,
@@ -181801,38 +180717,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/29190",
         "power": 3.7
-      }
-    ]
-  },
-  {
-    "id": 14625282,
-    "lat": 39.961579,
-    "lng": 32.687979,
-    "title": "Gökdemir West Sitesi",
-    "address": "Batı Sitesi 2328 1  Yenimahalle/Ankara",
-    "phone": "444 02 77",
-    "reportUrl": "https://www.sarjtak.com",
-    "reservationUrl": null,
-    "operatorId": "1129136",
-    "operatorTitle": "Tayran Grup İnşaat Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "ŞARJTAK",
-    "cityId": "6",
-    "districtId": "78",
-    "sockets": [
-      {
-        "id": 447564,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29200",
-        "power": 7.4
-      },
-      {
-        "id": 447565,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29201",
-        "power": 7.4
       }
     ]
   },
@@ -182188,73 +181072,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/29224",
         "power": 300
-      }
-    ]
-  },
-  {
-    "id": 14625311,
-    "lat": 37.782429,
-    "lng": 30.564396,
-    "title": "Isparta Centrum Garden",
-    "address": "Sanayi 73  Merkez/Isparta",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "32",
-    "districtId": "396",
-    "sockets": [
-      {
-        "id": 447617,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/1113",
-        "power": 22
-      },
-      {
-        "id": 447618,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/21771",
-        "power": 180
-      },
-      {
-        "id": 447619,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/21772",
-        "power": 180
-      },
-      {
-        "id": 447620,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29251",
-        "power": 22
-      },
-      {
-        "id": 447621,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29252",
-        "power": 43
-      },
-      {
-        "id": 447622,
-        "type": "dc",
-        "subType": "dcChademo",
-        "socketNumber": "SKT/29253",
-        "power": 60
-      },
-      {
-        "id": 447623,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/29254",
-        "power": 120
       }
     ]
   },
@@ -183632,31 +182449,6 @@
     ]
   },
   {
-    "id": 14625449,
-    "lat": 40.68269,
-    "lng": 36.56367,
-    "title": "Özgür Petrol Erbaa",
-    "address": "Kelkit 166/2  Erbaa/Tokat",
-    "phone": "4446099",
-    "reportUrl": "http://www.ispirlisarj.com/",
-    "reservationUrl": null,
-    "operatorId": "1037665",
-    "operatorTitle": "İspirli Şarj Hizmetleri Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "İSPİRLİ",
-    "cityId": "60",
-    "districtId": "791",
-    "sockets": [
-      {
-        "id": 447981,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/15629",
-        "power": 180
-      }
-    ]
-  },
-  {
     "id": 14625451,
     "lat": 39.765578,
     "lng": 30.51807,
@@ -183666,7 +182458,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "26",
@@ -185842,38 +184634,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/9033",
         "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14625809,
-    "lat": 40.235665,
-    "lng": 29.133154,
-    "title": "Hardisan Tekstil",
-    "address": "Samanlı İsmetiye 16/2  Yıldırım/Bursa",
-    "phone": "08502428068",
-    "reportUrl": "https://mercurysarj.com.tr/iletisim/",
-    "reservationUrl": null,
-    "operatorId": "1107660",
-    "operatorTitle": "Mercury Şarj Hizmetleri Sanayi Ve Ticaret Limited Şirketi",
-    "serviceType": "public",
-    "brand": "MERCURY",
-    "cityId": "16",
-    "districtId": "203",
-    "sockets": [
-      {
-        "id": 448503,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/29946",
-        "power": 160
-      },
-      {
-        "id": 448504,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/29947",
-        "power": 160
       }
     ]
   },
@@ -188865,7 +187625,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -188904,7 +187664,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -188950,7 +187710,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -188982,7 +187742,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -189014,7 +187774,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -189046,7 +187806,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -189078,7 +187838,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "54",
@@ -189110,7 +187870,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "81",
@@ -190941,7 +189701,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -190966,7 +189726,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "58",
@@ -193527,7 +192287,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "7",
@@ -198385,7 +197145,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "35",
@@ -199235,59 +197995,6 @@
         "type": "ac",
         "subType": "acType2",
         "socketNumber": "SKT/31219",
-        "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14626821,
-    "lat": 40.4672,
-    "lng": 39.4638,
-    "title": "Balyemez Konağı",
-    "address": "Özcan Kale Deresi  Merkez/Gümüşhane",
-    "phone": "08503092909",
-    "reportUrl": "https://www.wattreise.com",
-    "reservationUrl": null,
-    "operatorId": "1107200",
-    "operatorTitle": "Santa Solar Enerji Limited Şirketi",
-    "serviceType": "public",
-    "brand": "WATTREISE",
-    "cityId": "29",
-    "districtId": "371",
-    "sockets": [
-      {
-        "id": 450740,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/29975",
-        "power": 25
-      },
-      {
-        "id": 450741,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/29976",
-        "power": 50
-      },
-      {
-        "id": 450742,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29977",
-        "power": 22
-      },
-      {
-        "id": 450743,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/31224",
-        "power": 25
-      },
-      {
-        "id": 450744,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/31225",
         "power": 22
       }
     ]
@@ -214408,7 +213115,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "15",
@@ -220270,7 +218977,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": null,
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -220316,7 +219023,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -228840,7 +227547,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "44",
@@ -228872,7 +227579,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "44",
@@ -231100,45 +229807,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/28293",
         "power": 200
-      }
-    ]
-  },
-  {
-    "id": 14649387,
-    "lat": 39.884709,
-    "lng": 32.846151,
-    "title": "Tavacı Recep Usta Dikmen",
-    "address": "Güzeltepe 2  Çankaya/Ankara",
-    "phone": "05558251453",
-    "reportUrl": "https://www.nevasarj.com/iletisim/",
-    "reservationUrl": "https://www.nevasarj.com/iletisim/",
-    "operatorId": "930960",
-    "operatorTitle": "Neva İç Ve Dış Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "NEVA ŞARJ",
-    "cityId": "6",
-    "districtId": "80",
-    "sockets": [
-      {
-        "id": 465553,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/34421",
-        "power": 44
-      },
-      {
-        "id": 465554,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/34422",
-        "power": 44
-      },
-      {
-        "id": 465555,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/34423",
-        "power": 22
       }
     ]
   },
@@ -241547,73 +240215,6 @@
     ]
   },
   {
-    "id": 14650269,
-    "lat": 40.238293,
-    "lng": 29.1221,
-    "title": "Metsan Group",
-    "address": "Samanlı İsmetiye 51  Yıldırım/Bursa",
-    "phone": "08502428068",
-    "reportUrl": "https://mercurysarj.com.tr/iletisim/",
-    "reservationUrl": null,
-    "operatorId": "1107660",
-    "operatorTitle": "Mercury Şarj Hizmetleri Sanayi Ve Ticaret Limited Şirketi",
-    "serviceType": "public",
-    "brand": "MERCURY",
-    "cityId": "16",
-    "districtId": "203",
-    "sockets": [
-      {
-        "id": 466966,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/33432",
-        "power": 160
-      },
-      {
-        "id": 466967,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/33433",
-        "power": 22
-      },
-      {
-        "id": 466968,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/33434",
-        "power": 22
-      },
-      {
-        "id": 466969,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/33435",
-        "power": 22
-      },
-      {
-        "id": 466970,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/33436",
-        "power": 22
-      },
-      {
-        "id": 466971,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/33437",
-        "power": 22
-      },
-      {
-        "id": 466972,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/35319",
-        "power": 160
-      }
-    ]
-  },
-  {
     "id": 14650277,
     "lat": 37.029005,
     "lng": 30.626605,
@@ -248315,7 +246916,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "41",
@@ -249506,38 +248107,6 @@
     ]
   },
   {
-    "id": 14661215,
-    "lat": 40.948236,
-    "lng": 38.701724,
-    "title": "Ferhat Önal Petrol",
-    "address": "Esentepe 90  Espiye/Giresun",
-    "phone": "08507778658",
-    "reportUrl": "https://www.voltrun.com/",
-    "reservationUrl": null,
-    "operatorId": "1093161",
-    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "VOLTRUN",
-    "cityId": "28",
-    "districtId": "356",
-    "sockets": [
-      {
-        "id": 468729,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/36308",
-        "power": 11
-      },
-      {
-        "id": 468730,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/36309",
-        "power": 11
-      }
-    ]
-  },
-  {
     "id": 14661216,
     "lat": 41.016053,
     "lng": 39.593008,
@@ -249814,31 +248383,6 @@
         "type": "ac",
         "subType": "acType2",
         "socketNumber": "SKT/2614",
-        "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14661282,
-    "lat": 36.683147,
-    "lng": 29.075492,
-    "title": "Fethiye Sensatori Barut Hotel",
-    "address": "Kargı 202 Manolya 4  Fethiye/Muğla",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "48",
-    "districtId": "653",
-    "sockets": [
-      {
-        "id": 468855,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2617",
         "power": 22
       }
     ]
@@ -255069,7 +253613,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "7",
@@ -258661,38 +257205,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/36988",
         "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14662078,
-    "lat": 39.953893,
-    "lng": 32.86076,
-    "title": "Yunus Emre Halk Pazarı /Otopark",
-    "address": "Ziraat Mahallesi 3/B  Altındağ/Ankara",
-    "phone": "444 02 77",
-    "reportUrl": "https://www.sarjtak.com",
-    "reservationUrl": null,
-    "operatorId": "1129136",
-    "operatorTitle": "Tayran Grup İnşaat Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "ŞARJTAK",
-    "cityId": "6",
-    "districtId": "59",
-    "sockets": [
-      {
-        "id": 470085,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/37371",
-        "power": 3.7
-      },
-      {
-        "id": 470086,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/37372",
-        "power": 3.7
       }
     ]
   },
@@ -266533,7 +265045,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -266565,7 +265077,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "54",
@@ -273391,52 +271903,6 @@
     ]
   },
   {
-    "id": 14683469,
-    "lat": 37.799535,
-    "lng": 27.840409,
-    "title": "Ops Mall",
-    "address": "Çeştepe 107  Efeler/Aydın",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": "https://zes.net/bize-ulasin",
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "9",
-    "districtId": "975",
-    "sockets": [
-      {
-        "id": 492239,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/39013",
-        "power": 400
-      },
-      {
-        "id": 492240,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/39014",
-        "power": 400
-      },
-      {
-        "id": 492241,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/39015",
-        "power": 400
-      },
-      {
-        "id": 492242,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/39016",
-        "power": 400
-      }
-    ]
-  },
-  {
     "id": 14683470,
     "lat": 36.795667,
     "lng": 34.622323,
@@ -279924,38 +278390,6 @@
     ]
   },
   {
-    "id": 14684210,
-    "lat": 39.962831,
-    "lng": 32.771424,
-    "title": "Podium Avm Açık Otopark Ankara",
-    "address": "Mehmet Akif Ersoy Bağdat 286. 60  Yenimahalle/Ankara",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "6",
-    "districtId": "78",
-    "sockets": [
-      {
-        "id": 493378,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/20225",
-        "power": 60
-      },
-      {
-        "id": 493379,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/20226",
-        "power": 60
-      }
-    ]
-  },
-  {
     "id": 14684211,
     "lat": 37.600274,
     "lng": 36.820953,
@@ -280190,31 +278624,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/28901",
         "power": 60
-      }
-    ]
-  },
-  {
-    "id": 14684218,
-    "lat": 41.330758,
-    "lng": 36.291561,
-    "title": "Yeşilyurt Avm Samsun",
-    "address": "Mimar Sinan 114  Atakum/Samsun",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "55",
-    "districtId": "731",
-    "sockets": [
-      {
-        "id": 493396,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/20249",
-        "power": 22
       }
     ]
   },
@@ -311385,38 +309794,6 @@
     ]
   },
   {
-    "id": 14686186,
-    "lat": 38.366231,
-    "lng": 27.197727,
-    "title": "Üniversite Öğrenci Evi",
-    "address": "Kuruçeşme 205/12 5  Buca/İzmir",
-    "phone": "08504008277",
-    "reportUrl": "https://varr.com.tr/iletisim-6",
-    "reservationUrl": null,
-    "operatorId": "60858",
-    "operatorTitle": "Desa Enerji Elektrik Üretim Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "varr TM",
-    "cityId": "35",
-    "districtId": "462",
-    "sockets": [
-      {
-        "id": 497096,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/29016",
-        "power": 100
-      },
-      {
-        "id": 497097,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29017",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14686187,
     "lat": 36.944266,
     "lng": 28.185228,
@@ -314357,31 +312734,6 @@
     ]
   },
   {
-    "id": 14686396,
-    "lat": 38.256287,
-    "lng": 27.381139,
-    "title": "Antmare Otel İzmir",
-    "address": "Alaçatı 18000 28/1  Çeşme/İzmir",
-    "phone": "+90 850 777 86 58",
-    "reportUrl": "https://www.voltrun.com/iletisim/",
-    "reservationUrl": null,
-    "operatorId": "1093161",
-    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "VOLTRUN",
-    "cityId": "35",
-    "districtId": "482",
-    "sockets": [
-      {
-        "id": 497530,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/828",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14686397,
     "lat": 38.317733,
     "lng": 26.342536,
@@ -315547,52 +313899,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/41084",
         "power": 30
-      }
-    ]
-  },
-  {
-    "id": 14686494,
-    "lat": 40.97834,
-    "lng": 28.873425,
-    "title": "Carousel Avm",
-    "address": "Zeytinlik Fişekhane 5  Bakırköy/İstanbul",
-    "phone": "+90 850 777 86 58",
-    "reportUrl": "https://www.voltrun.com/iletisim/",
-    "reservationUrl": null,
-    "operatorId": "1093161",
-    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "VOLTRUN",
-    "cityId": "34",
-    "districtId": "421",
-    "sockets": [
-      {
-        "id": 497763,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/7297",
-        "power": 120
-      },
-      {
-        "id": 497764,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/7298",
-        "power": 120
-      },
-      {
-        "id": 497765,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/13920",
-        "power": 22
-      },
-      {
-        "id": 497766,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/13921",
-        "power": 22
       }
     ]
   },
@@ -317416,59 +315722,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/2862",
         "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14686613,
-    "lat": 41.051706,
-    "lng": 28.987777,
-    "title": "Lotus Walk Avm",
-    "address": "Halaskargazi Halaskargazi 26  Şişli/İstanbul",
-    "phone": "+90 850 777 86 58",
-    "reportUrl": "https://www.voltrun.com/iletisim/",
-    "reservationUrl": null,
-    "operatorId": "1093161",
-    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "VOLTRUN",
-    "cityId": "34",
-    "districtId": "454",
-    "sockets": [
-      {
-        "id": 497957,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/6280",
-        "power": 22
-      },
-      {
-        "id": 497958,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/6281",
-        "power": 22
-      },
-      {
-        "id": 497959,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/6283",
-        "power": 22
-      },
-      {
-        "id": 497960,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/18623",
-        "power": 120
-      },
-      {
-        "id": 497961,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/18624",
-        "power": 120
       }
     ]
   },
@@ -320684,102 +318937,6 @@
     ]
   },
   {
-    "id": 14686803,
-    "lat": 40.306647,
-    "lng": 29.061576,
-    "title": "Teknik Oto Bursa Ovaakça",
-    "address": "Çeşmebaşı Mah İstanbul Yolu 661  Osmangazi/Bursa",
-    "phone": "02123402760",
-    "reportUrl": "https://www.borenco.com.tr/Iletisim",
-    "reservationUrl": "https://www.borenco.com.tr/Iletisim",
-    "operatorId": "1040808",
-    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "5 şarj",
-    "cityId": "16",
-    "districtId": "201",
-    "sockets": [
-      {
-        "id": 498394,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/26377",
-        "power": 180
-      },
-      {
-        "id": 498395,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/26378",
-        "power": 180
-      }
-    ]
-  },
-  {
-    "id": 14686804,
-    "lat": 38.453936,
-    "lng": 27.198041,
-    "title": "Özgörkey Otomotiv",
-    "address": "Kazım Dirik Üniversite 66  Bornova/İzmir",
-    "phone": "02123402760",
-    "reportUrl": "https://www.borenco.com.tr/Iletisim",
-    "reservationUrl": "https://www.borenco.com.tr/Iletisim",
-    "operatorId": "1040808",
-    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "5 şarj",
-    "cityId": "35",
-    "districtId": "461",
-    "sockets": [
-      {
-        "id": 498396,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/27536",
-        "power": 180
-      },
-      {
-        "id": 498397,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/27537",
-        "power": 180
-      }
-    ]
-  },
-  {
-    "id": 14686806,
-    "lat": 40.772945,
-    "lng": 29.968474,
-    "title": "Öztorun Oto Kocaeli",
-    "address": "Yenişehir Araç 55  İzmit/Kocaeli",
-    "phone": "02123402760",
-    "reportUrl": "https://www.borenco.com.tr/Iletisim",
-    "reservationUrl": "https://www.borenco.com.tr/Iletisim",
-    "operatorId": "1040808",
-    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "5 şarj",
-    "cityId": "41",
-    "districtId": "555",
-    "sockets": [
-      {
-        "id": 498400,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/26601",
-        "power": 180
-      },
-      {
-        "id": 498401,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/26602",
-        "power": 180
-      }
-    ]
-  },
-  {
     "id": 14686807,
     "lat": 37.055987,
     "lng": 27.371859,
@@ -321408,45 +319565,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/3652",
         "power": 180
-      }
-    ]
-  },
-  {
-    "id": 14686856,
-    "lat": 41.04082,
-    "lng": 28.810167,
-    "title": "Oasıs Cadde",
-    "address": "15 Temmuz Bahar 45  Bağcılar/İstanbul",
-    "phone": "+90 850 777 86 58",
-    "reportUrl": "https://www.voltrun.com/iletisim/",
-    "reservationUrl": null,
-    "operatorId": "1093161",
-    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "VOLTRUN",
-    "cityId": "34",
-    "districtId": "423",
-    "sockets": [
-      {
-        "id": 498498,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2419",
-        "power": 22
-      },
-      {
-        "id": 498499,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2420",
-        "power": 22
-      },
-      {
-        "id": 498500,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/2421",
-        "power": 22
       }
     ]
   },
@@ -327761,7 +325879,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "6",
@@ -330807,7 +328925,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": null,
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -331170,45 +329288,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/41609",
         "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14707410,
-    "lat": 36.55057,
-    "lng": 32.04295,
-    "title": "Another World J Blok",
-    "address": "Ciplakli Mahallesi 3002 Sok No:4/K  Alanya/Antalya",
-    "phone": "08503099950",
-    "reportUrl": "https://www.acropolsarj.com",
-    "reservationUrl": null,
-    "operatorId": "931324",
-    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
-    "serviceType": "public",
-    "brand": "ACROPOL",
-    "cityId": "7",
-    "districtId": "85",
-    "sockets": [
-      {
-        "id": 519587,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/40517",
-        "power": 22
-      },
-      {
-        "id": 519588,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/40518",
-        "power": 3.3
-      },
-      {
-        "id": 519589,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/40519",
-        "power": 3.3
       }
     ]
   },
@@ -332566,101 +330645,6 @@
     ]
   },
   {
-    "id": 14707610,
-    "lat": 41.119,
-    "lng": 28.7655,
-    "title": "V-metroway Avm",
-    "address": "Kayaşehir 45  Başakşehir/İstanbul",
-    "phone": "08507778658",
-    "reportUrl": "https://www.voltrun.com/",
-    "reservationUrl": null,
-    "operatorId": "1093161",
-    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "VOLTRUN",
-    "cityId": "34",
-    "districtId": "424",
-    "sockets": [
-      {
-        "id": 519981,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41804",
-        "power": 22
-      },
-      {
-        "id": 519982,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41805",
-        "power": 22
-      },
-      {
-        "id": 519983,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41806",
-        "power": 22
-      },
-      {
-        "id": 519984,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41807",
-        "power": 22
-      },
-      {
-        "id": 519985,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41808",
-        "power": 22
-      },
-      {
-        "id": 519986,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41809",
-        "power": 22
-      },
-      {
-        "id": 519987,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41810",
-        "power": 22
-      },
-      {
-        "id": 519988,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41811",
-        "power": 22
-      },
-      {
-        "id": 519989,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41812",
-        "power": 22
-      },
-      {
-        "id": 519990,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41814",
-        "power": 22
-      },
-      {
-        "id": 519991,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/41817",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14707611,
     "lat": 41.055437,
     "lng": 29.188318,
@@ -333536,7 +331520,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "35",
@@ -334994,105 +332978,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/41987",
         "power": 180
-      }
-    ]
-  },
-  {
-    "id": 14707752,
-    "lat": 40.994229,
-    "lng": 29.121401,
-    "title": "Metropol İstanbul Dc",
-    "address": "Atatürk  Ataşehir/İstanbul",
-    "phone": "08503399937",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": null,
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "34",
-    "districtId": "418",
-    "sockets": [
-      {
-        "id": 520323,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/20204",
-        "power": 180
-      },
-      {
-        "id": 520324,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29247",
-        "power": 22
-      },
-      {
-        "id": 520325,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29248",
-        "power": 43
-      },
-      {
-        "id": 520326,
-        "type": "dc",
-        "subType": "dcChademo",
-        "socketNumber": "SKT/29249",
-        "power": 60
-      },
-      {
-        "id": 520327,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/29250",
-        "power": 120
-      }
-    ]
-  },
-  {
-    "id": 14707753,
-    "lat": 40.997755,
-    "lng": 29.13488,
-    "title": "Metropol Istanbul",
-    "address": "Atatürk Ertuğrulgazi 2  Ataşehir/İstanbul",
-    "phone": "0850 339 99 37",
-    "reportUrl": "https://zes.net/bize-ulasin",
-    "reservationUrl": "https://zes.net/bize-ulasin",
-    "operatorId": "919287",
-    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "zes",
-    "cityId": "34",
-    "districtId": "418",
-    "sockets": [
-      {
-        "id": 520328,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/19057",
-        "power": 22
-      },
-      {
-        "id": 520329,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/19058",
-        "power": 22
-      },
-      {
-        "id": 520330,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/19059",
-        "power": 22
-      },
-      {
-        "id": 520331,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/19060",
-        "power": 22
       }
     ]
   },
@@ -337517,38 +335402,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/42043",
         "power": 22
-      }
-    ]
-  },
-  {
-    "id": 14707861,
-    "lat": 40.748617,
-    "lng": 29.954432,
-    "title": "Po İzmit (karlas)",
-    "address": "Körfez Fırat 112  İzmit/Kocaeli",
-    "phone": "08507620708",
-    "reportUrl": "https://5sarj.com/tr/contact",
-    "reservationUrl": "https://5sarj.com/tr/contact",
-    "operatorId": "1040808",
-    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "5 şarj",
-    "cityId": "41",
-    "districtId": "555",
-    "sockets": [
-      {
-        "id": 520563,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/42044",
-        "power": 50
-      },
-      {
-        "id": 520564,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/42045",
-        "power": 50
       }
     ]
   },
@@ -340719,73 +338572,6 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/42339",
         "power": 50
-      }
-    ]
-  },
-  {
-    "id": 14708096,
-    "lat": 36.879287,
-    "lng": 30.707913,
-    "title": "Antalya Millet Bahçesi -1 Otopark",
-    "address": "Bahçelievler Tarık Akıltopu 2  Muratpaşa/Antalya",
-    "phone": "0850 755 98 98",
-    "reportUrl": "https://www.watmobilite.com/",
-    "reservationUrl": null,
-    "operatorId": "929436",
-    "operatorTitle": "Wat Mobilite Çözümleri Teknoloji Ve Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "wat mobilite",
-    "cityId": "7",
-    "districtId": "99",
-    "sockets": [
-      {
-        "id": 520986,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/42321",
-        "power": 22
-      },
-      {
-        "id": 520987,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/42322",
-        "power": 22
-      },
-      {
-        "id": 520988,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/42323",
-        "power": 22
-      },
-      {
-        "id": 520989,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/42324",
-        "power": 22
-      },
-      {
-        "id": 520990,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/42325",
-        "power": 22
-      },
-      {
-        "id": 520991,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/42327",
-        "power": 120
-      },
-      {
-        "id": 520992,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/42328",
-        "power": 120
       }
     ]
   },
@@ -344879,7 +342665,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "6",
@@ -346749,7 +344535,7 @@
     "reportUrl": "https://zeplinenerji.com.tr/",
     "reservationUrl": "https://zeplinenerji.com.tr/",
     "operatorId": "993552",
-    "operatorTitle": "Zeplin Turizm Taşımacılık Yatırım Sanayi Ve Ticaret Limited Şirketi",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
     "serviceType": "public",
     "brand": "ZEPLİN CAR rental",
     "cityId": "34",
@@ -346918,31 +344704,6 @@
     ]
   },
   {
-    "id": 14708469,
-    "lat": 39.883873,
-    "lng": 32.883772,
-    "title": "Luxry Park Otel",
-    "address": "Birlik 448 95  Çankaya/Ankara",
-    "phone": "444 02 77",
-    "reportUrl": "https://www.sarjtak.com",
-    "reservationUrl": null,
-    "operatorId": "1129136",
-    "operatorTitle": "Tayran Grup İnşaat Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "ŞARJTAK",
-    "cityId": "6",
-    "districtId": "80",
-    "sockets": [
-      {
-        "id": 521720,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/29189",
-        "power": 22
-      }
-    ]
-  },
-  {
     "id": 14708474,
     "lat": 38.460377,
     "lng": 27.114342,
@@ -347003,45 +344764,6 @@
         "subType": "acType2",
         "socketNumber": "SKT/42812",
         "power": 11
-      }
-    ]
-  },
-  {
-    "id": 14708477,
-    "lat": 38.6861,
-    "lng": 35.5655,
-    "title": "Talas Erguvan Kafe Yanı",
-    "address": "Tablakaya Demirkalaç  Talas/Kayseri",
-    "phone": "08508118638",
-    "reportUrl": "https://ksarj.com/",
-    "reservationUrl": null,
-    "operatorId": "992908",
-    "operatorTitle": "Hunat Enerji Yatırım Ve Danışmanlık Sanayi Ticaret Anonim Şirketi",
-    "serviceType": "public",
-    "brand": "K-ŞARJ",
-    "cityId": "38",
-    "districtId": "523",
-    "sockets": [
-      {
-        "id": 521727,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/42813",
-        "power": 80
-      },
-      {
-        "id": 521728,
-        "type": "dc",
-        "subType": "dcCcs",
-        "socketNumber": "SKT/42814",
-        "power": 80
-      },
-      {
-        "id": 521729,
-        "type": "ac",
-        "subType": "acType2",
-        "socketNumber": "SKT/42815",
-        "power": 22
       }
     ]
   },
@@ -349754,6 +347476,38 @@
     ]
   },
   {
+    "id": 14708683,
+    "lat": 40.192367,
+    "lng": 29.143819,
+    "title": "Po Yıldırım (acar)",
+    "address": "Esenevler Ankara Yolu 520  Yıldırım/Bursa",
+    "phone": "08507620708",
+    "reportUrl": "https://5sarj.com/tr/contact",
+    "reservationUrl": "https://5sarj.com/tr/contact",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "16",
+    "districtId": "203",
+    "sockets": [
+      {
+        "id": 522021,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43066",
+        "power": 150
+      },
+      {
+        "id": 522022,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43067",
+        "power": 150
+      }
+    ]
+  },
+  {
     "id": 14708685,
     "lat": 37.97181,
     "lng": 34.68429,
@@ -350123,6 +347877,4267 @@
         "subType": "dcCcs",
         "socketNumber": "SKT/43092",
         "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14708732,
+    "lat": 40.4672,
+    "lng": 39.4638,
+    "title": "Balyemez Konağı",
+    "address": "Özcan Kale Deresi  Merkez/Gümüşhane",
+    "phone": "08503092909",
+    "reportUrl": "https://www.wattreise.com",
+    "reservationUrl": null,
+    "operatorId": "1107200",
+    "operatorTitle": "Santa Solar Enerji Limited Şirketi",
+    "serviceType": "public",
+    "brand": "WATTREISE",
+    "cityId": "29",
+    "districtId": "371",
+    "sockets": [
+      {
+        "id": 522066,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/29975",
+        "power": 100
+      },
+      {
+        "id": 522067,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/29976",
+        "power": 100
+      },
+      {
+        "id": 522068,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/29977",
+        "power": 22
+      },
+      {
+        "id": 522069,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/31225",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14708734,
+    "lat": 39.884709,
+    "lng": 32.846151,
+    "title": "Tavacı Recep Usta Dikmen",
+    "address": "Güzeltepe 2  Çankaya/Ankara",
+    "phone": "05558251453",
+    "reportUrl": "https://www.nevasarj.com/iletisim/",
+    "reservationUrl": "https://www.nevasarj.com/iletisim/",
+    "operatorId": "930960",
+    "operatorTitle": "Neva İç Ve Dış Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "NEVA ŞARJ",
+    "cityId": "6",
+    "districtId": "80",
+    "sockets": [
+      {
+        "id": 522073,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/34423",
+        "power": 22
+      },
+      {
+        "id": 522074,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43110",
+        "power": 22
+      },
+      {
+        "id": 522075,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43111",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14708735,
+    "lat": 39.954695,
+    "lng": 32.628301,
+    "title": "A Life Hastanesi Etimesgut",
+    "address": "Elvan 1935 5 D:1  Etimesgut/Ankara",
+    "phone": "4441453",
+    "reportUrl": "https://nevasarj.com/iletisim.php",
+    "reservationUrl": "https://nevasarj.com/urun-7.html",
+    "operatorId": "930960",
+    "operatorTitle": "Neva İç Ve Dış Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "NEVA ŞARJ",
+    "cityId": "6",
+    "districtId": "64",
+    "sockets": [
+      {
+        "id": 522076,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/4757",
+        "power": 22
+      },
+      {
+        "id": 522077,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/4758",
+        "power": 22
+      },
+      {
+        "id": 522078,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/4759",
+        "power": 22
+      },
+      {
+        "id": 522079,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/4761",
+        "power": 22
+      },
+      {
+        "id": 522080,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43112",
+        "power": 44
+      },
+      {
+        "id": 522081,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43113",
+        "power": 44
+      }
+    ]
+  },
+  {
+    "id": 14708736,
+    "lat": 39.962091,
+    "lng": 32.769531,
+    "title": "Podium Avm Ankara",
+    "address": "Mehmet Akif Ersoy Bağdat 60  Yenimahalle/Ankara",
+    "phone": "4441453",
+    "reportUrl": "https://www.nevasarj.com/",
+    "reservationUrl": "https://www.nevasarj.com/iletisim/",
+    "operatorId": "930960",
+    "operatorTitle": "Neva İç Ve Dış Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "NEVA ŞARJ",
+    "cityId": "6",
+    "districtId": "78",
+    "sockets": [
+      {
+        "id": 522082,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43114",
+        "power": 240
+      },
+      {
+        "id": 522083,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43115",
+        "power": 240
+      },
+      {
+        "id": 522084,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43116",
+        "power": 240
+      },
+      {
+        "id": 522085,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43117",
+        "power": 240
+      }
+    ]
+  },
+  {
+    "id": 14708746,
+    "lat": 36.611276,
+    "lng": 31.778341,
+    "title": "Armas Green Fuğla",
+    "address": "Türkler Fuğla Köyü 79  Alanya/Antalya",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "7",
+    "districtId": "85",
+    "sockets": [
+      {
+        "id": 522103,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43134",
+        "power": 22
+      },
+      {
+        "id": 522104,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43135",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14708747,
+    "lat": 37.911067,
+    "lng": 28.851129,
+    "title": "Aydın Denizli Otoyolu 96.km Aydın Yönü",
+    "address": "Kumluca Kumluca 1  Sarayköy/Denizli",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "20",
+    "districtId": "256",
+    "sockets": [
+      {
+        "id": 522105,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43136",
+        "power": 400
+      },
+      {
+        "id": 522106,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43137",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14708748,
+    "lat": 37.908172,
+    "lng": 28.851493,
+    "title": "Aydın Denizli Otoyolu 96.km Denizli Yönü",
+    "address": "Kumluca Kumluca 1  Sarayköy/Denizli",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "20",
+    "districtId": "256",
+    "sockets": [
+      {
+        "id": 522107,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43138",
+        "power": 400
+      },
+      {
+        "id": 522108,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43139",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14708749,
+    "lat": 41.028017,
+    "lng": 29.211341,
+    "title": "Çekmeköy Belediyesi Güngören Sosyal Tesisleri",
+    "address": "Güngören Pelit 36  Çekmeköy/İstanbul",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "34",
+    "districtId": "450",
+    "sockets": [
+      {
+        "id": 522109,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43140",
+        "power": 60
+      },
+      {
+        "id": 522110,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43141",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14708750,
+    "lat": 41.027445,
+    "lng": 29.232759,
+    "title": "Çekmeköy Nikah Sarayı",
+    "address": "Taşdelen Ayça  Çekmeköy/İstanbul",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "34",
+    "districtId": "450",
+    "sockets": [
+      {
+        "id": 522111,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43142",
+        "power": 60
+      },
+      {
+        "id": 522112,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43143",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14708751,
+    "lat": 38.394746,
+    "lng": 27.04394,
+    "title": "Ege Park Avm",
+    "address": "Bahçelerarası Mithatpasa 1460  Balçova/İzmir",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "35",
+    "districtId": "456",
+    "sockets": [
+      {
+        "id": 522113,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43144",
+        "power": 400
+      },
+      {
+        "id": 522114,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43145",
+        "power": 400
+      },
+      {
+        "id": 522115,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43146",
+        "power": 400
+      },
+      {
+        "id": 522116,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43147",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14708752,
+    "lat": 39.875657,
+    "lng": 32.651688,
+    "title": "Elya Center Avm",
+    "address": "Konutkent Dumlupınar 381  Çankaya/Ankara",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "6",
+    "districtId": "80",
+    "sockets": [
+      {
+        "id": 522117,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43148",
+        "power": 400
+      },
+      {
+        "id": 522118,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43149",
+        "power": 400
+      },
+      {
+        "id": 522119,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43150",
+        "power": 400
+      },
+      {
+        "id": 522120,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43151",
+        "power": 400
+      },
+      {
+        "id": 522121,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43152",
+        "power": 400
+      },
+      {
+        "id": 522122,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43153",
+        "power": 400
+      },
+      {
+        "id": 522123,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43154",
+        "power": 400
+      },
+      {
+        "id": 522124,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43155",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14708753,
+    "lat": 39.245385,
+    "lng": 31.401429,
+    "title": "Gülnar Dinlenme Tesisleri",
+    "address": "Gülçayır Gülçayır 72  Sivrihisar/Eskişehir",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "26",
+    "districtId": "339",
+    "sockets": [
+      {
+        "id": 522125,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43156",
+        "power": 400
+      },
+      {
+        "id": 522126,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43157",
+        "power": 400
+      },
+      {
+        "id": 522127,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43158",
+        "power": 400
+      },
+      {
+        "id": 522128,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43159",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14708754,
+    "lat": 38.900436,
+    "lng": 27.836254,
+    "title": "Kayalı Akaryakıt Manisa",
+    "address": "Hürriyet 15 218/1  Akhisar/Manisa",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "45",
+    "districtId": "615",
+    "sockets": [
+      {
+        "id": 522129,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43160",
+        "power": 180
+      },
+      {
+        "id": 522130,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43161",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14708755,
+    "lat": 41.402245,
+    "lng": 27.344717,
+    "title": "Minimall Lüleburgaz",
+    "address": "Yılmaz Edirne 1  Lüleburgaz/Kırklareli",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "39",
+    "districtId": "532",
+    "sockets": [
+      {
+        "id": 522131,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43162",
+        "power": 60
+      },
+      {
+        "id": 522132,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43163",
+        "power": 60
+      },
+      {
+        "id": 522133,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43164",
+        "power": 60
+      },
+      {
+        "id": 522134,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43165",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14708757,
+    "lat": 41.232464,
+    "lng": 36.421183,
+    "title": "Tunalar Kia Samsun Bayi",
+    "address": "Şabanoğlu 181  Tekkeköy/Samsun",
+    "phone": "0850 550 45 45",
+    "reportUrl": "https://www.wattarya.com/",
+    "reservationUrl": null,
+    "operatorId": "1145208",
+    "operatorTitle": "Wattarya Enerji Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Wattarya",
+    "cityId": "55",
+    "districtId": "740",
+    "sockets": [
+      {
+        "id": 522137,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43168",
+        "power": 120
+      },
+      {
+        "id": 522138,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43169",
+        "power": 120
+      },
+      {
+        "id": 522139,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43170",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718757,
+    "lat": 38.6861,
+    "lng": 35.5655,
+    "title": "Talas Erguvan Kafe Yanı",
+    "address": "Tablakaya Demirkalaç  Talas/Kayseri",
+    "phone": "08508118638",
+    "reportUrl": "https://ksarj.com/",
+    "reservationUrl": null,
+    "operatorId": "992908",
+    "operatorTitle": "Hunat Enerji Yatırım Ve Danışmanlık Sanayi Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "K-ŞARJ",
+    "cityId": "38",
+    "districtId": "523",
+    "sockets": [
+      {
+        "id": 532137,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/42813",
+        "power": 80
+      },
+      {
+        "id": 532138,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/42814",
+        "power": 80
+      },
+      {
+        "id": 532139,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/42815",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718762,
+    "lat": 40.906007,
+    "lng": 29.36357,
+    "title": "Otojet - Totalenergies Mehmetçik Vakfı Kurtköy İstanbul Yönü",
+    "address": "Fatih Kanuni 2/6  Tuzla/İstanbul",
+    "phone": "5395195703",
+    "reportUrl": "https://www.oto-jet.com.tr/bize-ulasin.html",
+    "reservationUrl": "https://www.oto-jet.com.tr/bize-ulasin.html",
+    "operatorId": "5533",
+    "operatorTitle": "Otojet Enerji Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Otojet",
+    "cityId": "34",
+    "districtId": "447",
+    "sockets": [
+      {
+        "id": 532140,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43171",
+        "power": 480
+      },
+      {
+        "id": 532141,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43172",
+        "power": 480
+      },
+      {
+        "id": 532142,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43173",
+        "power": 480
+      },
+      {
+        "id": 532143,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43174",
+        "power": 480
+      },
+      {
+        "id": 532144,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43175",
+        "power": 480
+      },
+      {
+        "id": 532145,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43176",
+        "power": 480
+      },
+      {
+        "id": 532146,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43177",
+        "power": 480
+      },
+      {
+        "id": 532147,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43178",
+        "power": 480
+      },
+      {
+        "id": 532148,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43179",
+        "power": 480
+      },
+      {
+        "id": 532149,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43180",
+        "power": 480
+      },
+      {
+        "id": 532150,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43181",
+        "power": 480
+      },
+      {
+        "id": 532151,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43182",
+        "power": 480
+      },
+      {
+        "id": 532152,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43183",
+        "power": 480
+      },
+      {
+        "id": 532153,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43184",
+        "power": 480
+      },
+      {
+        "id": 532154,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43185",
+        "power": 480
+      },
+      {
+        "id": 532155,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43186",
+        "power": 480
+      },
+      {
+        "id": 532156,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43187",
+        "power": 360
+      },
+      {
+        "id": 532157,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43188",
+        "power": 360
+      }
+    ]
+  },
+  {
+    "id": 14718763,
+    "lat": 36.754454,
+    "lng": 31.448318,
+    "title": "Monachus Family Resort Sorgun",
+    "address": "Göynük 12  Manavgat/Antalya",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "7",
+    "districtId": "98",
+    "sockets": [
+      {
+        "id": 532158,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43189",
+        "power": 60
+      },
+      {
+        "id": 532159,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43190",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718764,
+    "lat": 36.605053,
+    "lng": 34.308544,
+    "title": "Novacity Avm",
+    "address": "Merkez Alparslan Türkeş 78  Erdemli/Mersin",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "33",
+    "districtId": "407",
+    "sockets": [
+      {
+        "id": 532160,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43191",
+        "power": 400
+      },
+      {
+        "id": 532161,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43192",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14718765,
+    "lat": 41.281635,
+    "lng": 27.590036,
+    "title": "Zorluteks Lüleburgaz",
+    "address": "Büyükkarıştıran  Lüleburgaz/Kırklareli",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "39",
+    "districtId": "532",
+    "sockets": [
+      {
+        "id": 532162,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43193",
+        "power": 22
+      },
+      {
+        "id": 532163,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43194",
+        "power": 22
+      },
+      {
+        "id": 532164,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43195",
+        "power": 22
+      },
+      {
+        "id": 532165,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43196",
+        "power": 22
+      },
+      {
+        "id": 532166,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43197",
+        "power": 22
+      },
+      {
+        "id": 532167,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43198",
+        "power": 22
+      },
+      {
+        "id": 532168,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43199",
+        "power": 22
+      },
+      {
+        "id": 532169,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43200",
+        "power": 22
+      },
+      {
+        "id": 532170,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43201",
+        "power": 22
+      },
+      {
+        "id": 532171,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43202",
+        "power": 22
+      },
+      {
+        "id": 532172,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43203",
+        "power": 22
+      },
+      {
+        "id": 532173,
+        "type": "dc",
+        "subType": "dcChademo",
+        "socketNumber": "SKT/43204",
+        "power": 60
+      },
+      {
+        "id": 532174,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43205",
+        "power": 120
+      },
+      {
+        "id": 532175,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43206",
+        "power": 22
+      },
+      {
+        "id": 532176,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43207",
+        "power": 43
+      }
+    ]
+  },
+  {
+    "id": 14718768,
+    "lat": 40.959718,
+    "lng": 39.963216,
+    "title": "Arsen Hotel & A.k.c Petrol",
+    "address": "Yeşilyalı Necmettin Karaduman 1  Arsin/Trabzon",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "61",
+    "districtId": "802",
+    "sockets": [
+      {
+        "id": 532177,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/5269",
+        "power": 22
+      },
+      {
+        "id": 532178,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/5270",
+        "power": 22
+      },
+      {
+        "id": 532179,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43210",
+        "power": 22
+      },
+      {
+        "id": 532180,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43211",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718773,
+    "lat": 40.977052,
+    "lng": 29.237234,
+    "title": "Suryapı Lavender Sitesi Açık Otopark",
+    "address": "Eyüp Sultan Deha 3/A  Sancaktepe/İstanbul",
+    "phone": "08502428862",
+    "reportUrl": "https://tuncmatikcharge.com/iletisim/",
+    "reservationUrl": "https://tuncmatikcharge.com/iletisim/",
+    "operatorId": "1006519",
+    "operatorTitle": "Tunçmatik Şarj Teknolojileri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "tunçmatik",
+    "cityId": "34",
+    "districtId": "442",
+    "sockets": [
+      {
+        "id": 532185,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43218",
+        "power": 120
+      },
+      {
+        "id": 532186,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43219",
+        "power": 120
+      },
+      {
+        "id": 532187,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43230",
+        "power": 120
+      },
+      {
+        "id": 532188,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43231",
+        "power": 120
+      }
+    ]
+  },
+  {
+    "id": 14718776,
+    "lat": 40.1231,
+    "lng": 26.420486,
+    "title": "Terzioğlu Vakfı Hat Eğitim Merkezi",
+    "address": "Barbaros Samyolu 17  Merkez/Çanakkale",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "17",
+    "districtId": "215",
+    "sockets": [
+      {
+        "id": 532195,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43216",
+        "power": 180
+      },
+      {
+        "id": 532196,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43217",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718777,
+    "lat": 37.395039,
+    "lng": 37.134552,
+    "title": "Opet Demgün Petrol",
+    "address": "Narlı Cumhuriyet 4  Pazarcık/Kahramanmaraş",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "46",
+    "districtId": "637",
+    "sockets": [
+      {
+        "id": 532197,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43220",
+        "power": 180
+      },
+      {
+        "id": 532198,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43221",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718778,
+    "lat": 37.590773,
+    "lng": 34.747968,
+    "title": "Ulukışla Kırkgeçit İpekyolu Tesisleri",
+    "address": "Küme1 Tarsus  Ulukışla/Niğde",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "51",
+    "districtId": "679",
+    "sockets": [
+      {
+        "id": 532199,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43228",
+        "power": 180
+      },
+      {
+        "id": 532200,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43229",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718811,
+    "lat": 37.897811,
+    "lng": 28.278837,
+    "title": "Bamboo Nazilli Avm",
+    "address": "İsabeyli 11. 34-3/C  Nazilli/Aydın",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/anasayfa",
+    "reservationUrl": "https://zes.net/anasayfa",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "9",
+    "districtId": "121",
+    "sockets": [
+      {
+        "id": 532253,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/8494",
+        "power": 22
+      },
+      {
+        "id": 532254,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/8495",
+        "power": 22
+      },
+      {
+        "id": 532255,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15392",
+        "power": 60
+      },
+      {
+        "id": 532256,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15393",
+        "power": 60
+      },
+      {
+        "id": 532257,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43241",
+        "power": 180
+      },
+      {
+        "id": 532258,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43242",
+        "power": 180
+      },
+      {
+        "id": 532259,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43243",
+        "power": 180
+      },
+      {
+        "id": 532260,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43244",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718812,
+    "lat": 39.856826,
+    "lng": 32.64508,
+    "title": "Besa Karina Ankara",
+    "address": "Yaşamkent 332.  Çankaya/Ankara",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "6",
+    "districtId": "80",
+    "sockets": [
+      {
+        "id": 532261,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43245",
+        "power": 60
+      },
+      {
+        "id": 532262,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43246",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718813,
+    "lat": 37.781743,
+    "lng": 30.542364,
+    "title": "Bladeco Iron Loft Hotel",
+    "address": "Fatih 4500 5  Merkez/Isparta",
+    "phone": "4443299",
+    "reportUrl": "https://www.bladeco.com.tr/bize-ulasin/",
+    "reservationUrl": "https://play.google.com/store/apps/details?id=com.bladeco.bladecocharge&hl=tr&pli=1",
+    "operatorId": "1037818",
+    "operatorTitle": "Bladeco Alüminyum Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "BLADECO",
+    "cityId": "32",
+    "districtId": "396",
+    "sockets": [
+      {
+        "id": 532263,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43239",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718816,
+    "lat": 40.74861,
+    "lng": 29.95451,
+    "title": "Po İzmit (karlas)",
+    "address": "Sanayi Mahallesi Bağdat Caddesi 112  İzmit/Kocaeli",
+    "phone": "08507620708",
+    "reportUrl": "https://5sarj.com/tr/contact",
+    "reservationUrl": "https://5sarj.com/tr/contact",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "41",
+    "districtId": "555",
+    "sockets": [
+      {
+        "id": 532264,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/42044",
+        "power": 180
+      },
+      {
+        "id": 532265,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/42045",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718817,
+    "lat": 41.199702,
+    "lng": 28.706178,
+    "title": "As Power Otoparkı",
+    "address": "Mehmet Akif Ersoy Egemen 117/2  Arnavutköy/İstanbul",
+    "phone": "4445831",
+    "reportUrl": "https://chargemahal.com/iletisim",
+    "reservationUrl": null,
+    "operatorId": "1202266",
+    "operatorTitle": "Charge Mahal Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "QC QUIKŞARJ",
+    "cityId": "34",
+    "districtId": "417",
+    "sockets": [
+      {
+        "id": 532266,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43249",
+        "power": 80
+      }
+    ]
+  },
+  {
+    "id": 14718827,
+    "lat": 36.683147,
+    "lng": 29.075492,
+    "title": "Fethiye Sensatori Barut Hotel",
+    "address": "Kargı 202 Manolya 4  Fethiye/Muğla",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "48",
+    "districtId": "653",
+    "sockets": [
+      {
+        "id": 532267,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/2617",
+        "power": 22
+      },
+      {
+        "id": 532268,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43250",
+        "power": 60
+      },
+      {
+        "id": 532269,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43251",
+        "power": 60
+      },
+      {
+        "id": 532270,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43252",
+        "power": 60
+      },
+      {
+        "id": 532271,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43253",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718828,
+    "lat": 38.606528,
+    "lng": 27.367331,
+    "title": "Holiday Lnn Express Manisa",
+    "address": "Keçili 5608. 5  Yunusemre/Manisa",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "45",
+    "districtId": "986",
+    "sockets": [
+      {
+        "id": 532272,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43254",
+        "power": 60
+      },
+      {
+        "id": 532273,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43255",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718829,
+    "lat": 41.102579,
+    "lng": 29.29134,
+    "title": "Ica Reşadiye Bi' Mola Dt",
+    "address": "Ömerli-kocaeli Yönü  Çekmeköy/İstanbul",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "34",
+    "districtId": "450",
+    "sockets": [
+      {
+        "id": 532274,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/1241",
+        "power": 22
+      },
+      {
+        "id": 532275,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43256",
+        "power": 180
+      },
+      {
+        "id": 532276,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43257",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718830,
+    "lat": 40.977023,
+    "lng": 28.803516,
+    "title": "Kaşıbeyaz Florya",
+    "address": "Şenlik Çatal 19  Bakırköy/İstanbul",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "34",
+    "districtId": "421",
+    "sockets": [
+      {
+        "id": 532277,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43258",
+        "power": 60
+      },
+      {
+        "id": 532278,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43259",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718831,
+    "lat": 38.196955,
+    "lng": 27.309765,
+    "title": "La Şarapçılık Torbalı",
+    "address": "Kuşçuburun Başmimar Sinan  Torbalı/İzmir",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "35",
+    "districtId": "479",
+    "sockets": [
+      {
+        "id": 532279,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43260",
+        "power": 60
+      },
+      {
+        "id": 532280,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43261",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718832,
+    "lat": 39.89934,
+    "lng": 32.865738,
+    "title": "Limak Ambassadore Hotel Ankara",
+    "address": "Gaziosman Paşa Boğaz 19  Çankaya/Ankara",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "6",
+    "districtId": "80",
+    "sockets": [
+      {
+        "id": 532777,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43477",
+        "power": 60
+      },
+      {
+        "id": 532778,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43478",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718834,
+    "lat": 37.417418,
+    "lng": 27.417192,
+    "title": "Maxeria Blue Didyma Hotel",
+    "address": "Akbük 5649 10  Didim/Aydın",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "9",
+    "districtId": "112",
+    "sockets": [
+      {
+        "id": 532285,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/13830",
+        "power": 22
+      },
+      {
+        "id": 532286,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/13831",
+        "power": 22
+      },
+      {
+        "id": 532287,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/20186",
+        "power": 22
+      },
+      {
+        "id": 532288,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/20187",
+        "power": 22
+      },
+      {
+        "id": 532289,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43264",
+        "power": 60
+      },
+      {
+        "id": 532290,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43265",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718843,
+    "lat": 40.994229,
+    "lng": 29.121401,
+    "title": "Metropol İstanbul Avm P1 Otoparkı - Yeşil Otopark H28",
+    "address": "Atatürk  Ataşehir/İstanbul",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "34",
+    "districtId": "418",
+    "sockets": [
+      {
+        "id": 532301,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43278",
+        "power": 400
+      },
+      {
+        "id": 532302,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43279",
+        "power": 400
+      },
+      {
+        "id": 532303,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43280",
+        "power": 400
+      },
+      {
+        "id": 532304,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43281",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14718844,
+    "lat": 40.997755,
+    "lng": 29.13488,
+    "title": "Metropol İstanbul Avm P2 Otoparkı - Kırmızı Otopark G20",
+    "address": "Atatürk Ertuğrulgazi 2  Ataşehir/İstanbul",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "34",
+    "districtId": "418",
+    "sockets": [
+      {
+        "id": 532305,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/19057",
+        "power": 22
+      },
+      {
+        "id": 532306,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/19058",
+        "power": 22
+      },
+      {
+        "id": 532307,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/19059",
+        "power": 22
+      },
+      {
+        "id": 532308,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/19060",
+        "power": 22
+      },
+      {
+        "id": 532310,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43282",
+        "power": 60
+      },
+      {
+        "id": 532311,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43283",
+        "power": 60
+      },
+      {
+        "id": 532312,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43284",
+        "power": 60
+      },
+      {
+        "id": 532313,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43285",
+        "power": 60
+      },
+      {
+        "id": 532314,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43286",
+        "power": 60
+      },
+      {
+        "id": 532315,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43287",
+        "power": 60
+      },
+      {
+        "id": 532316,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43288",
+        "power": 60
+      },
+      {
+        "id": 532317,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43289",
+        "power": 60
+      },
+      {
+        "id": 532318,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43291",
+        "power": 180
+      },
+      {
+        "id": 532319,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43292",
+        "power": 180
+      },
+      {
+        "id": 532320,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43293",
+        "power": 180
+      },
+      {
+        "id": 532321,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43294",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718845,
+    "lat": 36.850112,
+    "lng": 30.764702,
+    "title": "Tema Lara Apart",
+    "address": "Çağlayan 2008 11  Muratpaşa/Antalya",
+    "phone": "5412452329",
+    "reportUrl": "https://evroad.com.tr/",
+    "reservationUrl": "https://evroad.com.tr/",
+    "operatorId": "1128945",
+    "operatorTitle": "Şarjzone Enerji Ve Elektrikli Araç Şarj Sistemleri Sanayi Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "evroad",
+    "cityId": "7",
+    "districtId": "99",
+    "sockets": [
+      {
+        "id": 532309,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43290",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718846,
+    "lat": 38.738857,
+    "lng": 35.539099,
+    "title": "Migall Gross Market Kayseri",
+    "address": "Yıldırım Beyazıt 208  Melikgazi/Kayseri",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "38",
+    "districtId": "519",
+    "sockets": [
+      {
+        "id": 532322,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43295",
+        "power": 60
+      },
+      {
+        "id": 532323,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43296",
+        "power": 60
+      },
+      {
+        "id": 532324,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43297",
+        "power": 60
+      },
+      {
+        "id": 532325,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43298",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718854,
+    "lat": 38.63037,
+    "lng": 34.74364,
+    "title": "Monark Hotel Nevşehir",
+    "address": "Esentepe Ürgüp 72  Merkez/Nevşehir",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "50",
+    "districtId": "674",
+    "sockets": [
+      {
+        "id": 532326,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/25414",
+        "power": 22
+      },
+      {
+        "id": 532327,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/25415",
+        "power": 22
+      },
+      {
+        "id": 532328,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/25416",
+        "power": 22
+      },
+      {
+        "id": 532329,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43299",
+        "power": 22
+      },
+      {
+        "id": 532330,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43300",
+        "power": 22
+      },
+      {
+        "id": 532331,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43301",
+        "power": 22
+      },
+      {
+        "id": 532332,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43302",
+        "power": 22
+      },
+      {
+        "id": 532333,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43303",
+        "power": 22
+      },
+      {
+        "id": 532334,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43304",
+        "power": 22
+      },
+      {
+        "id": 532335,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43305",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718857,
+    "lat": 40.690701,
+    "lng": 30.219695,
+    "title": "Ng Hotels Sapanca Enjoy",
+    "address": "Tepebaşı Şht.cevdet Koç 73  Sapanca/Sakarya",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "54",
+    "districtId": "725",
+    "sockets": [
+      {
+        "id": 532336,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/2792",
+        "power": 22
+      },
+      {
+        "id": 532337,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/3258",
+        "power": 22
+      },
+      {
+        "id": 532338,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/3259",
+        "power": 22
+      },
+      {
+        "id": 532339,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43306",
+        "power": 60
+      },
+      {
+        "id": 532340,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43307",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718858,
+    "lat": 40.690569,
+    "lng": 30.213175,
+    "title": "Ng Sapanca Hotel",
+    "address": "Tepebaşı Şht.cevdet Koç 73  Sapanca/Sakarya",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "54",
+    "districtId": "725",
+    "sockets": [
+      {
+        "id": 532341,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/1941",
+        "power": 22
+      },
+      {
+        "id": 532342,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43308",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718859,
+    "lat": 40.272397,
+    "lng": 28.602021,
+    "title": "Oksijen O122 Muratlı İstanbul Yönü",
+    "address": "Muratlı Muratlı 119  Karacabey/Bursa",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "16",
+    "districtId": "193",
+    "sockets": [
+      {
+        "id": 532343,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43311",
+        "power": 400
+      },
+      {
+        "id": 532344,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43312",
+        "power": 400
+      },
+      {
+        "id": 532345,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43313",
+        "power": 400
+      },
+      {
+        "id": 532346,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43314",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14718860,
+    "lat": 40.273502,
+    "lng": 28.598191,
+    "title": "Oksijen O122 Muratlı İzmir Yönü",
+    "address": "Muratlı Muratlı 119  Karacabey/Bursa",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "16",
+    "districtId": "193",
+    "sockets": [
+      {
+        "id": 532347,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43315",
+        "power": 400
+      },
+      {
+        "id": 532348,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43316",
+        "power": 400
+      },
+      {
+        "id": 532349,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43317",
+        "power": 400
+      },
+      {
+        "id": 532350,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43318",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14718861,
+    "lat": 37.799535,
+    "lng": 27.840409,
+    "title": "Ops Mall",
+    "address": "Çeştepe 107  Efeler/Aydın",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "9",
+    "districtId": "975",
+    "sockets": [
+      {
+        "id": 532351,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39013",
+        "power": 400
+      },
+      {
+        "id": 532352,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39014",
+        "power": 400
+      },
+      {
+        "id": 532353,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39015",
+        "power": 400
+      },
+      {
+        "id": 532354,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39016",
+        "power": 400
+      },
+      {
+        "id": 532355,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43321",
+        "power": 22
+      },
+      {
+        "id": 532356,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43322",
+        "power": 22
+      },
+      {
+        "id": 532357,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43323",
+        "power": 22
+      },
+      {
+        "id": 532358,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43324",
+        "power": 22
+      },
+      {
+        "id": 532359,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43325",
+        "power": 22
+      },
+      {
+        "id": 532360,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43326",
+        "power": 22
+      },
+      {
+        "id": 532361,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43327",
+        "power": 22
+      },
+      {
+        "id": 532362,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43328",
+        "power": 22
+      },
+      {
+        "id": 532363,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43329",
+        "power": 22
+      },
+      {
+        "id": 532364,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43330",
+        "power": 22
+      },
+      {
+        "id": 532365,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43331",
+        "power": 22
+      },
+      {
+        "id": 532366,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43332",
+        "power": 22
+      },
+      {
+        "id": 532367,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43333",
+        "power": 22
+      },
+      {
+        "id": 532368,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43334",
+        "power": 22
+      },
+      {
+        "id": 532369,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43335",
+        "power": 22
+      },
+      {
+        "id": 532370,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43336",
+        "power": 22
+      },
+      {
+        "id": 532371,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43337",
+        "power": 22
+      },
+      {
+        "id": 532372,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43338",
+        "power": 22
+      },
+      {
+        "id": 532373,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43339",
+        "power": 22
+      },
+      {
+        "id": 532374,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43340",
+        "power": 22
+      },
+      {
+        "id": 532375,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43341",
+        "power": 22
+      },
+      {
+        "id": 532376,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43342",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718862,
+    "lat": 39.962831,
+    "lng": 32.771424,
+    "title": "Podium Avm Açık Otopark Ankara",
+    "address": "Mehmet Akif Ersoy Bağdat 286. 60  Yenimahalle/Ankara",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "6",
+    "districtId": "78",
+    "sockets": [
+      {
+        "id": 532377,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43343",
+        "power": 180
+      },
+      {
+        "id": 532378,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43344",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718863,
+    "lat": 40.973491,
+    "lng": 29.240562,
+    "title": "Rings Avm İstanbul",
+    "address": "Veysel Karani Osmangazi 158  Sancaktepe/İstanbul",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "34",
+    "districtId": "442",
+    "sockets": [
+      {
+        "id": 532379,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/27557",
+        "power": 180
+      },
+      {
+        "id": 532380,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/27558",
+        "power": 180
+      },
+      {
+        "id": 532381,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43345",
+        "power": 60
+      },
+      {
+        "id": 532382,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43346",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718864,
+    "lat": 41.66598,
+    "lng": 26.574686,
+    "title": "Rys Hotel & Restaurant Edirne",
+    "address": "1.murat Talatpaşa 82  Merkez/Edirne",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "22",
+    "districtId": "284",
+    "sockets": [
+      {
+        "id": 532383,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/1772",
+        "power": 22
+      },
+      {
+        "id": 532384,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43347",
+        "power": 60
+      },
+      {
+        "id": 532385,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43348",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718865,
+    "lat": 37.937148,
+    "lng": 32.51345,
+    "title": "Selçuklu Kongre Merkezi",
+    "address": "Horozluhan Yeni İstanbul 62  Selçuklu/Konya",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "42",
+    "districtId": "579",
+    "sockets": [
+      {
+        "id": 532386,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43349",
+        "power": 400
+      },
+      {
+        "id": 532387,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43350",
+        "power": 400
+      },
+      {
+        "id": 532388,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43351",
+        "power": 400
+      },
+      {
+        "id": 532389,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43352",
+        "power": 400
+      }
+    ]
+  },
+  {
+    "id": 14718866,
+    "lat": 41.330758,
+    "lng": 36.291561,
+    "title": "Yeşilyurt Avm Açık Otopark",
+    "address": "Mimar Sinan 114  Atakum/Samsun",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "55",
+    "districtId": "731",
+    "sockets": [
+      {
+        "id": 532390,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/20249",
+        "power": 22
+      },
+      {
+        "id": 532391,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43353",
+        "power": 180
+      },
+      {
+        "id": 532392,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43354",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718867,
+    "lat": 40.90051,
+    "lng": 31.151374,
+    "title": "Hypium Otel",
+    "address": "Çiftepınarlar Hastane Altı 10  Merkez/Düzce",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "81",
+    "districtId": "955",
+    "sockets": [
+      {
+        "id": 532393,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43309",
+        "power": 180
+      },
+      {
+        "id": 532394,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43310",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718868,
+    "lat": 36.797729,
+    "lng": 34.601185,
+    "title": "Uğur Okulları Kampüsü",
+    "address": "Hürriyet 1731 10/A  Yenişehir/Mersin",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "33",
+    "districtId": "414",
+    "sockets": [
+      {
+        "id": 532395,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43319",
+        "power": 180
+      },
+      {
+        "id": 532396,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43320",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718869,
+    "lat": 40.492018,
+    "lng": 29.311607,
+    "title": "Atakent Tıp Merkezi",
+    "address": "Muradiye Turistyolu 104  Orhangazi/Bursa",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "16",
+    "districtId": "200",
+    "sockets": [
+      {
+        "id": 532397,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43355",
+        "power": 180
+      },
+      {
+        "id": 532398,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43356",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718889,
+    "lat": 38.453936,
+    "lng": 27.198041,
+    "title": "Özgörkey Otomotiv",
+    "address": "Kazım Dirik Üniversite 66  Bornova/İzmir",
+    "phone": "02123402760",
+    "reportUrl": "https://www.borenco.com.tr/Iletisim",
+    "reservationUrl": "https://www.borenco.com.tr/Iletisim",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "35",
+    "districtId": "461",
+    "sockets": [
+      {
+        "id": 532415,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/27536",
+        "power": 180
+      },
+      {
+        "id": 532416,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/27537",
+        "power": 180
+      },
+      {
+        "id": 532417,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43370",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718890,
+    "lat": 40.306647,
+    "lng": 29.061576,
+    "title": "Teknik Oto Bursa Ovaakça",
+    "address": "Çeşmebaşı Mah İstanbul Yolu 661  Osmangazi/Bursa",
+    "phone": "02123402760",
+    "reportUrl": "https://www.borenco.com.tr/Iletisim",
+    "reservationUrl": "https://www.borenco.com.tr/Iletisim",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "16",
+    "districtId": "201",
+    "sockets": [
+      {
+        "id": 532418,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/26377",
+        "power": 180
+      },
+      {
+        "id": 532419,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/26378",
+        "power": 180
+      },
+      {
+        "id": 532420,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43371",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718892,
+    "lat": 41.04232,
+    "lng": 29.011973,
+    "title": "Four Seasons Hotel",
+    "address": "Çırağan Cd 28  Beşiktaş/İstanbul",
+    "phone": "08502415775",
+    "reportUrl": "https://solarsarj.org/",
+    "reservationUrl": "https://solarsarj.org/",
+    "operatorId": "1039122",
+    "operatorTitle": "Solar Araç Şarj Hizmetleri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "solarşarj",
+    "cityId": "34",
+    "districtId": "428",
+    "sockets": [
+      {
+        "id": 532421,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/8059",
+        "power": 21
+      },
+      {
+        "id": 532422,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/8242",
+        "power": 21
+      },
+      {
+        "id": 532423,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/9137",
+        "power": 60
+      },
+      {
+        "id": 532424,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/9138",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14718893,
+    "lat": 41.0163,
+    "lng": 29.033146,
+    "title": "Mesa Koru",
+    "address": "Barbaros Çiçekçi Bostan 14  Üsküdar/İstanbul",
+    "phone": "0850 808 86 72",
+    "reportUrl": "https://torasarj.com/",
+    "reservationUrl": null,
+    "operatorId": "952415",
+    "operatorTitle": "Tora Teknik Hizmetler İşletme Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "TORA",
+    "cityId": "34",
+    "districtId": "452",
+    "sockets": [
+      {
+        "id": 532425,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43373",
+        "power": 11
+      },
+      {
+        "id": 532426,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43374",
+        "power": 11
+      },
+      {
+        "id": 532427,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43375",
+        "power": 11
+      },
+      {
+        "id": 532428,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43376",
+        "power": 11
+      }
+    ]
+  },
+  {
+    "id": 14718894,
+    "lat": 37.811606,
+    "lng": 27.838643,
+    "title": "Lena Aydın - Volkswagen",
+    "address": "Ovaeymir Çine 4  Merkez/Aydın",
+    "phone": "444 98 77",
+    "reportUrl": "https://dcharge.com.tr/",
+    "reservationUrl": null,
+    "operatorId": "1092971",
+    "operatorTitle": "Doğuş Şarj Sistemleri Pazarlama Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "D-Charge",
+    "cityId": "9",
+    "districtId": "120",
+    "sockets": [
+      {
+        "id": 532429,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43372",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718895,
+    "lat": 37.6062,
+    "lng": 36.791,
+    "title": "Kahramanmaraş Expo-1",
+    "address": "Hasancıklı  Onikişubat/Kahramanmaraş",
+    "phone": "05494950142",
+    "reportUrl": "https://bolgem.com.tr/bolgemmobility/",
+    "reservationUrl": null,
+    "operatorId": "1037659",
+    "operatorTitle": "Bölgem Mühendislik İnşaat Elektrik Makine Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "BÖLGEM mobilite",
+    "cityId": "46",
+    "districtId": "984",
+    "sockets": [
+      {
+        "id": 532430,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/18227",
+        "power": 11
+      },
+      {
+        "id": 532431,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/18228",
+        "power": 11
+      },
+      {
+        "id": 532432,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/18229",
+        "power": 11
+      },
+      {
+        "id": 532433,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/18232",
+        "power": 11
+      },
+      {
+        "id": 532434,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/18233",
+        "power": 11
+      },
+      {
+        "id": 532435,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/18234",
+        "power": 11
+      }
+    ]
+  },
+  {
+    "id": 14718897,
+    "lat": 40.7714,
+    "lng": 29.8156,
+    "title": "Yenikent Pazar",
+    "address": "Yenikent İsmet Paşa 17  Derince/Kocaeli",
+    "phone": "05494950142",
+    "reportUrl": "https://bolgem.com.tr",
+    "reservationUrl": null,
+    "operatorId": "1037659",
+    "operatorTitle": "Bölgem Mühendislik İnşaat Elektrik Makine Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "BÖLGEM mobilite",
+    "cityId": "41",
+    "districtId": "546",
+    "sockets": [
+      {
+        "id": 532439,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43392",
+        "power": 22
+      },
+      {
+        "id": 532440,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43393",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718899,
+    "lat": 40.68269,
+    "lng": 36.56367,
+    "title": "Özgür Petrol Erbaa",
+    "address": "Kelkit 166/2  Erbaa/Tokat",
+    "phone": "4446099",
+    "reportUrl": "https://www.isarj.com/",
+    "reservationUrl": null,
+    "operatorId": "1037665",
+    "operatorTitle": "İspirli Şarj Hizmetleri Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "i-şarj",
+    "cityId": "60",
+    "districtId": "791",
+    "sockets": [
+      {
+        "id": 532441,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15629",
+        "power": 180
+      },
+      {
+        "id": 532442,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43403",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14718900,
+    "lat": 41.031965,
+    "lng": 28.883858,
+    "title": "Otojet - Güngören Park Avm",
+    "address": "Gençosman Eşref Bitlis  Esenler/İstanbul",
+    "phone": "5395195703",
+    "reportUrl": "https://www.oto-jet.com.tr/bize-ulasin.html",
+    "reservationUrl": "https://www.oto-jet.com.tr/bize-ulasin.html",
+    "operatorId": "5533",
+    "operatorTitle": "Otojet Enerji Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Otojet",
+    "cityId": "34",
+    "districtId": "430",
+    "sockets": [
+      {
+        "id": 532443,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43400",
+        "power": 120
+      },
+      {
+        "id": 532444,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43401",
+        "power": 120
+      },
+      {
+        "id": 532445,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43402",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14718995,
+    "lat": 41.0643,
+    "lng": 30.1506,
+    "title": "Po Kandıra",
+    "address": "Çarşı İzmit 49  Kandıra/Kocaeli",
+    "phone": "0850 762 07 08",
+    "reportUrl": "https://5sarj.com/tr/contact",
+    "reservationUrl": "https://5sarj.com/tr/contact",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "41",
+    "districtId": "550",
+    "sockets": [
+      {
+        "id": 532614,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43405",
+        "power": 150
+      },
+      {
+        "id": 532615,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43406",
+        "power": 150
+      }
+    ]
+  },
+  {
+    "id": 14718996,
+    "lat": 40.772945,
+    "lng": 29.968474,
+    "title": "Öztorun Oto Kocaeli",
+    "address": "Yenişehir Araç 55  İzmit/Kocaeli",
+    "phone": "02123402760",
+    "reportUrl": "https://www.borenco.com.tr/Iletisim",
+    "reservationUrl": "https://www.borenco.com.tr/Iletisim",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "41",
+    "districtId": "555",
+    "sockets": [
+      {
+        "id": 532616,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/26601",
+        "power": 180
+      },
+      {
+        "id": 532617,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/26602",
+        "power": 180
+      },
+      {
+        "id": 532618,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43407",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719003,
+    "lat": 40.948236,
+    "lng": 38.701724,
+    "title": "Ferhat Önal Petrol",
+    "address": "Esentepe 90  Espiye/Giresun",
+    "phone": "08507778658",
+    "reportUrl": "https://www.voltrun.com/",
+    "reservationUrl": null,
+    "operatorId": "1093161",
+    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "VOLTRUN",
+    "cityId": "28",
+    "districtId": "356",
+    "sockets": [
+      {
+        "id": 532623,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/36308",
+        "power": 11
+      },
+      {
+        "id": 532624,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/36309",
+        "power": 11
+      }
+    ]
+  },
+  {
+    "id": 14719005,
+    "lat": 38.256287,
+    "lng": 27.381139,
+    "title": "Antmare Otel İzmir",
+    "address": "Alaçatı 18000 28/1  Çeşme/İzmir",
+    "phone": "+90 850 777 86 58",
+    "reportUrl": "https://www.voltrun.com/iletisim/",
+    "reservationUrl": null,
+    "operatorId": "1093161",
+    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "VOLTRUN",
+    "cityId": "35",
+    "districtId": "482",
+    "sockets": [
+      {
+        "id": 532630,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/828",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719006,
+    "lat": 41.04082,
+    "lng": 28.810167,
+    "title": "Oasıs Cadde",
+    "address": "15 Temmuz Bahar 45  Bağcılar/İstanbul",
+    "phone": "+90 850 777 86 58",
+    "reportUrl": "https://www.voltrun.com/iletisim/",
+    "reservationUrl": null,
+    "operatorId": "1093161",
+    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "VOLTRUN",
+    "cityId": "34",
+    "districtId": "423",
+    "sockets": [
+      {
+        "id": 532631,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/2419",
+        "power": 22
+      },
+      {
+        "id": 532632,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/2420",
+        "power": 22
+      },
+      {
+        "id": 532633,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/2421",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719010,
+    "lat": 41.119,
+    "lng": 28.7655,
+    "title": "V-metroway Avm",
+    "address": "Kayaşehir 45  Başakşehir/İstanbul",
+    "phone": "08507778658",
+    "reportUrl": "https://www.voltrun.com/",
+    "reservationUrl": null,
+    "operatorId": "1093161",
+    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "VOLTRUN",
+    "cityId": "34",
+    "districtId": "424",
+    "sockets": [
+      {
+        "id": 532648,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41804",
+        "power": 22
+      },
+      {
+        "id": 532649,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41805",
+        "power": 22
+      },
+      {
+        "id": 532650,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41806",
+        "power": 22
+      },
+      {
+        "id": 532651,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41807",
+        "power": 22
+      },
+      {
+        "id": 532652,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41808",
+        "power": 22
+      },
+      {
+        "id": 532653,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41809",
+        "power": 22
+      },
+      {
+        "id": 532654,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41810",
+        "power": 22
+      },
+      {
+        "id": 532655,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41811",
+        "power": 22
+      },
+      {
+        "id": 532656,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41812",
+        "power": 22
+      },
+      {
+        "id": 532657,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41814",
+        "power": 22
+      },
+      {
+        "id": 532658,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/41817",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719012,
+    "lat": 40.97834,
+    "lng": 28.873425,
+    "title": "Carousel Avm",
+    "address": "Zeytinlik Fişekhane 5  Bakırköy/İstanbul",
+    "phone": "+90 850 777 86 58",
+    "reportUrl": "https://www.voltrun.com/iletisim/",
+    "reservationUrl": null,
+    "operatorId": "1093161",
+    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "VOLTRUN",
+    "cityId": "34",
+    "districtId": "421",
+    "sockets": [
+      {
+        "id": 532661,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/7297",
+        "power": 120
+      },
+      {
+        "id": 532662,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/7298",
+        "power": 120
+      },
+      {
+        "id": 532663,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/13920",
+        "power": 22
+      },
+      {
+        "id": 532664,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/13921",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719013,
+    "lat": 41.051706,
+    "lng": 28.987777,
+    "title": "Lotus Walk Avm",
+    "address": "Halaskargazi Halaskargazi 26  Şişli/İstanbul",
+    "phone": "+90 850 777 86 58",
+    "reportUrl": "https://www.voltrun.com/iletisim/",
+    "reservationUrl": null,
+    "operatorId": "1093161",
+    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "VOLTRUN",
+    "cityId": "34",
+    "districtId": "454",
+    "sockets": [
+      {
+        "id": 532665,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/6280",
+        "power": 22
+      },
+      {
+        "id": 532666,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/6281",
+        "power": 22
+      },
+      {
+        "id": 532667,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/6283",
+        "power": 22
+      },
+      {
+        "id": 532668,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/18623",
+        "power": 120
+      },
+      {
+        "id": 532669,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/18624",
+        "power": 120
+      }
+    ]
+  },
+  {
+    "id": 14719017,
+    "lat": 39.59859,
+    "lng": 26.97668,
+    "title": "Bizim Toptan Balıkesir",
+    "address": "Yolören  Edremit/Balıkesir",
+    "phone": "0850 755 98 98",
+    "reportUrl": "https://www.watmobilite.com/",
+    "reservationUrl": null,
+    "operatorId": "929436",
+    "operatorTitle": "Wat Mobilite Çözümleri Teknoloji Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "wat mobilite",
+    "cityId": "10",
+    "districtId": "133",
+    "sockets": [
+      {
+        "id": 532674,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43408",
+        "power": 60
+      },
+      {
+        "id": 532675,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43409",
+        "power": 60
+      }
+    ]
+  },
+  {
+    "id": 14719021,
+    "lat": 36.879287,
+    "lng": 30.707913,
+    "title": "Antalya Millet Bahçesi -1 Otopark",
+    "address": "Bahçelievler Tarık Akıltopu 2  Muratpaşa/Antalya",
+    "phone": "0850 755 98 98",
+    "reportUrl": "https://www.watmobilite.com/",
+    "reservationUrl": null,
+    "operatorId": "929436",
+    "operatorTitle": "Wat Mobilite Çözümleri Teknoloji Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "wat mobilite",
+    "cityId": "7",
+    "districtId": "99",
+    "sockets": [
+      {
+        "id": 532681,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/42321",
+        "power": 22
+      },
+      {
+        "id": 532682,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/42322",
+        "power": 22
+      },
+      {
+        "id": 532683,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/42323",
+        "power": 22
+      },
+      {
+        "id": 532684,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/42324",
+        "power": 22
+      },
+      {
+        "id": 532685,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/42325",
+        "power": 22
+      },
+      {
+        "id": 532686,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/42327",
+        "power": 120
+      },
+      {
+        "id": 532687,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/42328",
+        "power": 120
+      },
+      {
+        "id": 532698,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43454",
+        "power": 60
+      },
+      {
+        "id": 532699,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43455",
+        "power": 60
+      },
+      {
+        "id": 532700,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43456",
+        "power": 22
+      },
+      {
+        "id": 532701,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43457",
+        "power": 22
+      },
+      {
+        "id": 532702,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43458",
+        "power": 22
+      },
+      {
+        "id": 532703,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43459",
+        "power": 22
+      },
+      {
+        "id": 532704,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43460",
+        "power": 22
+      },
+      {
+        "id": 532705,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43461",
+        "power": 22
+      },
+      {
+        "id": 532706,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43462",
+        "power": 22
+      },
+      {
+        "id": 532707,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43463",
+        "power": 22
+      },
+      {
+        "id": 532708,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43464",
+        "power": 22
+      },
+      {
+        "id": 532709,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43465",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719022,
+    "lat": 37.020916,
+    "lng": 30.640741,
+    "title": "Vali Konaklari Sitesi",
+    "address": "Altinkale Mahallesi Selcuklu Cad. No:1  Döşemealtı/Antalya",
+    "phone": "08503099950",
+    "reportUrl": "https://www.acropolsarj.com",
+    "reservationUrl": null,
+    "operatorId": "931324",
+    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "ACROPOL",
+    "cityId": "7",
+    "districtId": "87",
+    "sockets": [
+      {
+        "id": 532689,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/27088",
+        "power": 22
+      },
+      {
+        "id": 532690,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/27090",
+        "power": 22
+      },
+      {
+        "id": 532691,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/27092",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719023,
+    "lat": 36.875846,
+    "lng": 30.622561,
+    "title": "Kadi Konaklari Sitesi",
+    "address": "Uluc 1179. 16  Konyaaltı/Antalya",
+    "phone": "08503099950",
+    "reportUrl": "https://www.acropolsarj.com",
+    "reservationUrl": null,
+    "operatorId": "931324",
+    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "ACROPOL",
+    "cityId": "7",
+    "districtId": "95",
+    "sockets": [
+      {
+        "id": 532692,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/26843",
+        "power": 60
+      },
+      {
+        "id": 532693,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/26844",
+        "power": 22
+      },
+      {
+        "id": 532694,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/26851",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719024,
+    "lat": 36.938974,
+    "lng": 30.673918,
+    "title": "Panorama 1 Evleri",
+    "address": "Cankaya Mahallesi Cem Karaca No:26  Kepez/Antalya",
+    "phone": "08503099950",
+    "reportUrl": "https://www.acropolsarj.com",
+    "reservationUrl": null,
+    "operatorId": "931324",
+    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "ACROPOL",
+    "cityId": "7",
+    "districtId": "94",
+    "sockets": [
+      {
+        "id": 532695,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/26857",
+        "power": 22
+      },
+      {
+        "id": 532696,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/26858",
+        "power": 22
+      },
+      {
+        "id": 532697,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/26859",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719035,
+    "lat": 38.366231,
+    "lng": 27.197727,
+    "title": "Üniversite Öğrenci Evi",
+    "address": "Kuruçeşme 205/12 5  Buca/İzmir",
+    "phone": "08504008277",
+    "reportUrl": "https://varr.com.tr/iletisim-6",
+    "reservationUrl": null,
+    "operatorId": "60858",
+    "operatorTitle": "Desa Enerji Elektrik Üretim Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "varr TM",
+    "cityId": "35",
+    "districtId": "462",
+    "sockets": [
+      {
+        "id": 532740,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43469",
+        "power": 180
+      },
+      {
+        "id": 532741,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43470",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14719044,
+    "lat": 40.998198,
+    "lng": 27.64481,
+    "title": "Po Süleymanpaşa (darcanlar)",
+    "address": "Bahçelievler İstanbul 179  Süleymanpaşa/Tekirdağ",
+    "phone": "0850 762 07 08",
+    "reportUrl": "https://5sarj.com/tr/contact",
+    "reservationUrl": "https://5sarj.com/tr/contact",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "59",
+    "districtId": "994",
+    "sockets": [
+      {
+        "id": 532762,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43485",
+        "power": 180
+      },
+      {
+        "id": 532763,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43486",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14719045,
+    "lat": 40.997959,
+    "lng": 29.143439,
+    "title": "Zeplin Kailyn Hotel",
+    "address": "Şerifali Kule 31  Ümraniye/İstanbul",
+    "phone": "08504740303",
+    "reportUrl": "https://zeplinenerji.com.tr/",
+    "reservationUrl": "https://zeplinenerji.com.tr/",
+    "operatorId": "993552",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ZEPLİN CAR rental",
+    "cityId": "34",
+    "districtId": "451",
+    "sockets": [
+      {
+        "id": 532764,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43495",
+        "power": 22
+      },
+      {
+        "id": 532765,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43496",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719048,
+    "lat": 41.056738,
+    "lng": 28.759452,
+    "title": "Dumankaya Miks Sitesi Ticari Kapalı Otopark",
+    "address": "Atakent 48  Küçükçekmece/İstanbul",
+    "phone": "0850 550 45 45",
+    "reportUrl": "https://www.wattarya.com/",
+    "reservationUrl": null,
+    "operatorId": "1145208",
+    "operatorTitle": "Wattarya Enerji Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Wattarya",
+    "cityId": "34",
+    "districtId": "439",
+    "sockets": [
+      {
+        "id": 532773,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43497",
+        "power": 11
+      },
+      {
+        "id": 532774,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43498",
+        "power": 11
+      }
+    ]
+  },
+  {
+    "id": 14719049,
+    "lat": 41.056738,
+    "lng": 28.759452,
+    "title": "Dumankaya Miks Sitesi Ticari Açık Otopark",
+    "address": "Atakent 48  Küçükçekmece/İstanbul",
+    "phone": "0850 550 45 45",
+    "reportUrl": "https://www.wattarya.com/",
+    "reservationUrl": null,
+    "operatorId": "1145208",
+    "operatorTitle": "Wattarya Enerji Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Wattarya",
+    "cityId": "34",
+    "districtId": "439",
+    "sockets": [
+      {
+        "id": 532775,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43501",
+        "power": 120
+      },
+      {
+        "id": 532776,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43502",
+        "power": 120
+      }
+    ]
+  },
+  {
+    "id": 14719052,
+    "lat": 37.782429,
+    "lng": 30.564396,
+    "title": "Isparta Centrum Garden",
+    "address": "Sanayi 73  Merkez/Isparta",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "32",
+    "districtId": "396",
+    "sockets": [
+      {
+        "id": 532783,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/21771",
+        "power": 180
+      },
+      {
+        "id": 532784,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/21772",
+        "power": 180
+      },
+      {
+        "id": 532785,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43503",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14719053,
+    "lat": 39.961764,
+    "lng": 32.688149,
+    "title": "Gökdemir West Sitesi A Blok",
+    "address": "Batı Sitesi 2328 Sokak 1/A  Yenimahalle/Ankara",
+    "phone": "444 02 77",
+    "reportUrl": "https://www.sarjtak.com",
+    "reservationUrl": null,
+    "operatorId": "1129136",
+    "operatorTitle": "Tayran Grup İnşaat Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ŞARJTAK",
+    "cityId": "6",
+    "districtId": "78",
+    "sockets": [
+      {
+        "id": 532786,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/29177",
+        "power": 7.4
+      }
+    ]
+  },
+  {
+    "id": 14719054,
+    "lat": 39.961579,
+    "lng": 32.687979,
+    "title": "Gökdemir West Sitesi",
+    "address": "Batı Sitesi 2328 1  Yenimahalle/Ankara",
+    "phone": "444 02 77",
+    "reportUrl": "https://www.sarjtak.com",
+    "reservationUrl": null,
+    "operatorId": "1129136",
+    "operatorTitle": "Tayran Grup İnşaat Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ŞARJTAK",
+    "cityId": "6",
+    "districtId": "78",
+    "sockets": [
+      {
+        "id": 532787,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/29200",
+        "power": 7.4
+      }
+    ]
+  },
+  {
+    "id": 14719055,
+    "lat": 39.953893,
+    "lng": 32.86076,
+    "title": "Yunus Emre Halk Pazarı /Otopark",
+    "address": "Ziraat Mahallesi 3/B  Altındağ/Ankara",
+    "phone": "444 02 77",
+    "reportUrl": "https://www.sarjtak.com",
+    "reservationUrl": null,
+    "operatorId": "1129136",
+    "operatorTitle": "Tayran Grup İnşaat Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ŞARJTAK",
+    "cityId": "6",
+    "districtId": "59",
+    "sockets": [
+      {
+        "id": 532788,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/37372",
+        "power": 3.7
+      }
+    ]
+  },
+  {
+    "id": 14719057,
+    "lat": 36.55057,
+    "lng": 32.04295,
+    "title": "Another World J Blok",
+    "address": "Ciplakli Mahallesi 3002 Sok No:4/K  Alanya/Antalya",
+    "phone": "08503099950",
+    "reportUrl": "https://www.acropolsarj.com",
+    "reservationUrl": null,
+    "operatorId": "931324",
+    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "ACROPOL",
+    "cityId": "7",
+    "districtId": "85",
+    "sockets": [
+      {
+        "id": 532790,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/40517",
+        "power": 11
+      },
+      {
+        "id": 532791,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/40518",
+        "power": 3.3
+      },
+      {
+        "id": 532792,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/40519",
+        "power": 3.3
+      }
+    ]
+  },
+  {
+    "id": 14719066,
+    "lat": 40.238293,
+    "lng": 29.1221,
+    "title": "Metsan Group",
+    "address": "Samanlı İsmetiye 51  Yıldırım/Bursa",
+    "phone": "08502428068",
+    "reportUrl": "https://mercurysarj.com.tr/iletisim/",
+    "reservationUrl": null,
+    "operatorId": "1107660",
+    "operatorTitle": "Mercury Şarj Hizmetleri Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "MERCURY",
+    "cityId": "16",
+    "districtId": "203",
+    "sockets": [
+      {
+        "id": 532815,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/33432",
+        "power": 160
+      },
+      {
+        "id": 532816,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/35319",
+        "power": 160
+      }
+    ]
+  },
+  {
+    "id": 14719067,
+    "lat": 40.094052,
+    "lng": 29.518428,
+    "title": "Novapark Avm",
+    "address": "Ertuğrulgazi Kozluca Yolu 4  İnegöl/Bursa",
+    "phone": "08502428068",
+    "reportUrl": "https://mercurysarj.com.tr/iletisim/",
+    "reservationUrl": "https://mercurysarj.com.tr/iletisim/",
+    "operatorId": "1107660",
+    "operatorTitle": "Mercury Şarj Hizmetleri Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "MERCURY",
+    "cityId": "16",
+    "districtId": "204",
+    "sockets": [
+      {
+        "id": 532817,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43166",
+        "power": 160
+      },
+      {
+        "id": 532818,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43167",
+        "power": 160
+      },
+      {
+        "id": 532819,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43360",
+        "power": 22
+      },
+      {
+        "id": 532820,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43361",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719072,
+    "lat": 37.93675,
+    "lng": 32.49961,
+    "title": "Forum Center Avm Ofis",
+    "address": "Malazgirt Eyüpsultan Ut  Selçuklu/Konya",
+    "phone": "08507778658",
+    "reportUrl": "https://www.voltrun.com/",
+    "reservationUrl": null,
+    "operatorId": "1093161",
+    "operatorTitle": "Voltrun Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "VOLTRUN",
+    "cityId": "42",
+    "districtId": "579",
+    "sockets": [
+      {
+        "id": 532825,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43534",
+        "power": 80
+      },
+      {
+        "id": 532826,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43535",
+        "power": 80
+      },
+      {
+        "id": 532827,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43536",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719082,
+    "lat": 39.9579,
+    "lng": 32.6068,
+    "title": "Elvankent Ata Konutlari",
+    "address": "Atakent 804.  Etimesgut/Ankara",
+    "phone": "08503099950",
+    "reportUrl": "https://www.acropolsarj.com",
+    "reservationUrl": null,
+    "operatorId": "931324",
+    "operatorTitle": "Greenleaf Yenilenebilir Enerji Sistemleri Sanayi Ve Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "ACROPOL",
+    "cityId": "6",
+    "districtId": "64",
+    "sockets": [
+      {
+        "id": 532838,
+        "type": "dc",
+        "subType": "dcChademo",
+        "socketNumber": "SKT/43540",
+        "power": 80
+      },
+      {
+        "id": 532839,
+        "type": "dc",
+        "subType": "dcChademo",
+        "socketNumber": "SKT/43541",
+        "power": 80
+      },
+      {
+        "id": 532840,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43542",
+        "power": 22
+      },
+      {
+        "id": 532841,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43543",
+        "power": 3
+      }
+    ]
+  },
+  {
+    "id": 14719083,
+    "lat": 38.328178,
+    "lng": 26.644588,
+    "title": "Shell Gülbahçe",
+    "address": "Güzelbahçe 529  Urla/İzmir",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "35",
+    "districtId": "481",
+    "sockets": [
+      {
+        "id": 532842,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43544",
+        "power": 180
+      },
+      {
+        "id": 532843,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43545",
+        "power": 180
+      }
+    ]
+  },
+  {
+    "id": 14719084,
+    "lat": 38.5802,
+    "lng": 42.021,
+    "title": "Güroymak Öğretmenevi",
+    "address": "Bağlar Özgürlük 29  Güroymak/Bitlis",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "13",
+    "districtId": "164",
+    "sockets": [
+      {
+        "id": 532844,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43546",
+        "power": 22
+      }
+    ]
+  },
+  {
+    "id": 14719092,
+    "lat": 40.217554,
+    "lng": 29.062325,
+    "title": "Aytekin Otomotiv",
+    "address": "Altınova Yalova Yolu 15. Demir 16  Osmangazi/Bursa",
+    "phone": "02243460290",
+    "reportUrl": "https://sarjstart.com/",
+    "reservationUrl": null,
+    "operatorId": "1107833",
+    "operatorTitle": "Koçaslanlar Akaryakıt Enerji Petrol Ürünleri Sanayi Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "ŞARJSTART",
+    "cityId": "16",
+    "districtId": "201",
+    "sockets": [
+      {
+        "id": 532845,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43548",
+        "power": 120
+      },
+      {
+        "id": 532846,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43549",
+        "power": 120
+      },
+      {
+        "id": 532847,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43550",
+        "power": 22
       }
     ]
   }
