@@ -354421,23 +354421,31 @@
     "id": 14719650,
     "lat": 39.135705,
     "lng": 34.150763,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Grand Terme Otel",
+    "address": "Kuşdili 1334. 4  Merkez/Kırşehir",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "40",
+    "districtId": "541",
     "sockets": [
       {
-        "id": 533894
+        "id": 533894,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/35945",
+        "power": 60
       },
       {
-        "id": 533895
+        "id": 533895,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/35946",
+        "power": 60
       }
     ]
   },
