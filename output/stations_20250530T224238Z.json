@@ -349755,20 +349755,24 @@
     "id": 14719384,
     "lat": 39.897879,
     "lng": 32.864514,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Şarjtak - Chef Bros",
+    "address": "Gaziosmanpaşa Halıcı 7/A  Çankaya/Ankara",
+    "phone": "444 02 77",
+    "reportUrl": "https://www.sarjtak.com",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "1129136",
+    "operatorTitle": "Tayran Grup İnşaat Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ŞARJTAK",
+    "cityId": "6",
+    "districtId": "80",
     "sockets": [
       {
-        "id": 533322
+        "id": 533322,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/36697",
+        "power": 22
       }
     ]
   },
@@ -352159,26 +352163,38 @@
     "id": 14719513,
     "lat": 36.28749,
     "lng": 32.294379,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Otojet - Gazipark Avm",
+    "address": "Beyobası Kümeevleri 11/1  Gazipaşa/Antalya",
+    "phone": "5395195703",
+    "reportUrl": "https://www.oto-jet.com.tr/bize-ulasin.html",
+    "reservationUrl": "https://www.oto-jet.com.tr/bize-ulasin.html",
+    "operatorId": "5533",
+    "operatorTitle": "Otojet Enerji Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Otojet",
+    "cityId": "7",
+    "districtId": "90",
     "sockets": [
       {
-        "id": 533625
+        "id": 533625,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44009",
+        "power": 180
       },
       {
-        "id": 533626
+        "id": 533626,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44010",
+        "power": 180
       },
       {
-        "id": 533627
+        "id": 533627,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44011",
+        "power": 11
       }
     ]
   },
@@ -354429,23 +354445,31 @@
     "id": 14719651,
     "lat": 39.130685,
     "lng": 34.128258,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Armas Otel Kırşehir",
+    "address": "Bağbaşı Şht.kerem Aydın 49  Merkez/Kırşehir",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "40",
+    "districtId": "541",
     "sockets": [
       {
-        "id": 533896
+        "id": 533896,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/1972",
+        "power": 22
       },
       {
-        "id": 533897
+        "id": 533897,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/1973",
+        "power": 22
       }
     ]
   },
@@ -356382,20 +356406,24 @@
     "id": 14719762,
     "lat": 38.684261,
     "lng": 26.740381,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Q Beach , Foça",
+    "address": "İsmetpaşa Mersinaki 362. 4  Foça/İzmir",
+    "phone": "4448303",
+    "reportUrl": "https://esarj.com/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "930848",
+    "operatorTitle": "Eşarj Elektrikli Araçlar Şarj Sistemleri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "eşarj",
+    "cityId": "35",
+    "districtId": "464",
     "sockets": [
       {
-        "id": 534114
+        "id": 534114,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44395",
+        "power": 22
       }
     ]
   },
@@ -358269,26 +358297,38 @@
     "id": 14719897,
     "lat": 41.1077,
     "lng": 29.0139,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Maslak No :1 Plaza",
+    "address": "Maslak Eski Büyükdere 1  Sarıyer/İstanbul",
+    "phone": "5333800436",
+    "reportUrl": "https://ctgelektrik.com/#iletisim",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "1052133",
+    "operatorTitle": "Ctg Elektrik Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "CTG ELEKTRİK ANONİM ŞİRKETİ",
+    "cityId": "34",
+    "districtId": "443",
     "sockets": [
       {
-        "id": 534386
+        "id": 534386,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/39519",
+        "power": 21
       },
       {
-        "id": 534387
+        "id": 534387,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39521",
+        "power": 179
       },
       {
-        "id": 534388
+        "id": 534388,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39522",
+        "power": 179
       }
     ]
   },
