@@ -329297,20 +329297,24 @@
     "id": 14708057,
     "lat": 36.995598,
     "lng": 35.271839,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Aykan Adana - Volkswagen",
+    "address": "Fevzipaşa Turhan Cemal Beriker 386/A  Seyhan/Adana",
+    "phone": "444 98 77",
+    "reportUrl": "https://dcharge.com.tr/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "1092971",
+    "operatorTitle": "Doğuş Şarj Sistemleri Pazarlama Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "D-Charge",
+    "cityId": "1",
+    "districtId": "10",
     "sockets": [
       {
-        "id": 520924
+        "id": 520924,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/42301",
+        "power": 22
       }
     ]
   },
