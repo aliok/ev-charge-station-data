@@ -359135,23 +359135,31 @@
     "id": 14740524,
     "lat": 39.975886,
     "lng": 32.580739,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Poler Bosch Car Service",
+    "address": "İstasyon Çatalca 26  Sincan/Ankara",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "6",
+    "districtId": "77",
     "sockets": [
       {
-        "id": 555333
+        "id": 555333,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/38448",
+        "power": 22
       },
       {
-        "id": 555334
+        "id": 555334,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/38449",
+        "power": 22
       }
     ]
   },
@@ -359159,29 +359167,45 @@
     "id": 14740525,
     "lat": 37.845651,
     "lng": 27.874464,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Anemon Hotel Aydın",
+    "address": "Ilıcabaşı Mah 323. 12  Merkez/Aydın",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "9",
+    "districtId": "120",
     "sockets": [
       {
-        "id": 555335
+        "id": 555335,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/28838",
+        "power": 60
       },
       {
-        "id": 555336
+        "id": 555336,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/28839",
+        "power": 60
       },
       {
-        "id": 555337
+        "id": 555337,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/28840",
+        "power": 60
       },
       {
-        "id": 555338
+        "id": 555338,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/28841",
+        "power": 60
       }
     ]
   },
@@ -359189,41 +359213,73 @@
     "id": 14740526,
     "lat": 37.897811,
     "lng": 28.278837,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Bamboo Nazilli Avm",
+    "address": "İsabeyli 11. 34-3/C  Nazilli/Aydın",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/anasayfa",
+    "reservationUrl": "https://zes.net/anasayfa",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "9",
+    "districtId": "121",
     "sockets": [
       {
-        "id": 555339
+        "id": 555339,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/8494",
+        "power": 22
       },
       {
-        "id": 555340
+        "id": 555340,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/8495",
+        "power": 22
       },
       {
-        "id": 555341
+        "id": 555341,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15392",
+        "power": 60
       },
       {
-        "id": 555342
+        "id": 555342,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15393",
+        "power": 60
       },
       {
-        "id": 555343
+        "id": 555343,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43241",
+        "power": 180
       },
       {
-        "id": 555344
+        "id": 555344,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43242",
+        "power": 180
       },
       {
-        "id": 555345
+        "id": 555345,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43243",
+        "power": 180
       },
       {
-        "id": 555346
+        "id": 555346,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43244",
+        "power": 180
       }
     ]
   },
@@ -359255,32 +359311,52 @@
     "id": 14740528,
     "lat": 37.808154,
     "lng": 27.277897,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Kuşadası Avm",
+    "address": "Yavansu Karaova 8  Kuşadası/Aydın",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "9",
+    "districtId": "118",
     "sockets": [
       {
-        "id": 555349
+        "id": 555349,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/995",
+        "power": 22
       },
       {
-        "id": 555350
+        "id": 555350,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/996",
+        "power": 22
       },
       {
-        "id": 555351
+        "id": 555351,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/15408",
+        "power": 22
       },
       {
-        "id": 555352
+        "id": 555352,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15409",
+        "power": 60
       },
       {
-        "id": 555353
+        "id": 555353,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15410",
+        "power": 60
       }
     ]
   },
@@ -359288,35 +359364,59 @@
     "id": 14740529,
     "lat": 37.417418,
     "lng": 27.417192,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Maxeria Blue Didyma Hotel",
+    "address": "Akbük 5649 10  Didim/Aydın",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "9",
+    "districtId": "112",
     "sockets": [
       {
-        "id": 555354
+        "id": 555354,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/13830",
+        "power": 22
       },
       {
-        "id": 555355
+        "id": 555355,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/13831",
+        "power": 22
       },
       {
-        "id": 555356
+        "id": 555356,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/20186",
+        "power": 22
       },
       {
-        "id": 555357
+        "id": 555357,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/20187",
+        "power": 22
       },
       {
-        "id": 555358
+        "id": 555358,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43264",
+        "power": 60
       },
       {
-        "id": 555359
+        "id": 555359,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43265",
+        "power": 60
       }
     ]
   },
@@ -367819,20 +367919,24 @@
     "id": 14751158,
     "lat": 38.601564,
     "lng": 34.686837,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Nevşehir Kral Bosch Araç Servisi",
+    "address": "Mehmet Akif Ersoy Fevzi Çakmak 201  Merkez/Nevşehir",
+    "phone": "08503399937",
+    "reportUrl": "https://zes.net/bize-ulasin",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "50",
+    "districtId": "674",
     "sockets": [
       {
-        "id": 566472
+        "id": 566472,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/2022",
+        "power": 22
       }
     ]
   },
@@ -368245,23 +368349,31 @@
     "id": 14751171,
     "lat": 41.312317,
     "lng": 36.336945,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Sheraton Grand Samsun Otel",
+    "address": "Liman  İlkadım/Samsun",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/anasayfa",
+    "reservationUrl": "https://zes.net/anasayfa",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "55",
+    "districtId": "745",
     "sockets": [
       {
-        "id": 566500
+        "id": 566500,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/36001",
+        "power": 60
       },
       {
-        "id": 566501
+        "id": 566501,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/36002",
+        "power": 60
       }
     ]
   },
@@ -368365,23 +368477,31 @@
     "id": 14751175,
     "lat": 41.468833,
     "lng": 36.107425,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Turan Usta Restoran",
+    "address": "Merkez Atatürk  19 Mayıs/Samsun",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "55",
+    "districtId": "738",
     "sockets": [
       {
-        "id": 566508
+        "id": 566508,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/14365",
+        "power": 22
       },
       {
-        "id": 566509
+        "id": 566509,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/14366",
+        "power": 22
       }
     ]
   },
@@ -368389,20 +368509,24 @@
     "id": 14751176,
     "lat": 41.329952,
     "lng": 36.28171,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Usluoğlu Mimar Sinan Şubesi",
+    "address": "Mimar Sinan 16  Atakum/Samsun",
+    "phone": "0850 339 99 37",
+    "reportUrl": "https://zes.net/bize-ulasin",
+    "reservationUrl": "https://zes.net/bize-ulasin",
+    "operatorId": "919287",
+    "operatorTitle": "Zes Dijital Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "zes",
+    "cityId": "55",
+    "districtId": "731",
     "sockets": [
       {
-        "id": 566510
+        "id": 566510,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/15327",
+        "power": 22
       }
     ]
   },
