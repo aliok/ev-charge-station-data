@@ -348139,23 +348139,31 @@
     "id": 14719761,
     "lat": 41.085778,
     "lng": 28.978472,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Elmas Otomotiv, Kağıthane",
+    "address": "Hamidiye Anadolu 2  Kağıthane/İstanbul",
+    "phone": "4448303",
+    "reportUrl": "https://esarj.com/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "930848",
+    "operatorTitle": "Eşarj Elektrikli Araçlar Şarj Sistemleri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "eşarj",
+    "cityId": "34",
+    "districtId": "438",
     "sockets": [
       {
-        "id": 534112
+        "id": 534112,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44391",
+        "power": 120
       },
       {
-        "id": 534113
+        "id": 534113,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44392",
+        "power": 120
       }
     ]
   },
@@ -348298,20 +348306,24 @@
     "id": 14719766,
     "lat": 41.564083,
     "lng": 35.888444,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Otopratik, Köseoğlu, Samsun",
+    "address": "Altınkaya Altınkaya 71  Bafra/Samsun",
+    "phone": "4448303",
+    "reportUrl": "https://esarj.com/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "930848",
+    "operatorTitle": "Eşarj Elektrikli Araçlar Şarj Sistemleri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "eşarj",
+    "cityId": "55",
+    "districtId": "733",
     "sockets": [
       {
-        "id": 534123
+        "id": 534123,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44406",
+        "power": 30
       }
     ]
   },
@@ -348319,23 +348331,31 @@
     "id": 14719767,
     "lat": 39.9493,
     "lng": 26.2928,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Troya Dinlenme Tesisleri, Çanakkale",
+    "address": "İzmir Yolu 25. Km  Merkez/Çanakkale",
+    "phone": "4448303",
+    "reportUrl": "https://esarj.com/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "930848",
+    "operatorTitle": "Eşarj Elektrikli Araçlar Şarj Sistemleri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "eşarj",
+    "cityId": "17",
+    "districtId": "215",
     "sockets": [
       {
-        "id": 534124
+        "id": 534124,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44409",
+        "power": 180
       },
       {
-        "id": 534125
+        "id": 534125,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44411",
+        "power": 180
       }
     ]
   },
@@ -348556,26 +348576,38 @@
     "id": 14719775,
     "lat": 40.961683,
     "lng": 29.112632,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Kosifler Oto Bostancı",
+    "address": "İçerenköy Askent 3b  Ataşehir/İstanbul",
+    "phone": "02123402760",
+    "reportUrl": "https://www.borenco.com.tr/Iletisim",
+    "reservationUrl": "https://www.borenco.com.tr/Iletisim",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "34",
+    "districtId": "418",
     "sockets": [
       {
-        "id": 534143
+        "id": 534143,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/23566",
+        "power": 180
       },
       {
-        "id": 534144
+        "id": 534144,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/23679",
+        "power": 180
       },
       {
-        "id": 534145
+        "id": 534145,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44426",
+        "power": 22
       }
     ]
   },
@@ -348583,23 +348615,31 @@
     "id": 14719776,
     "lat": 41.161224,
     "lng": 28.454485,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Zeytin Cafe, Çatalca /",
+    "address": "Kaleiçi Gökçeali 1  Çatalca/İstanbul",
+    "phone": "4448303",
+    "reportUrl": "https://esarj.com/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "930848",
+    "operatorTitle": "Eşarj Elektrikli Araçlar Şarj Sistemleri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "eşarj",
+    "cityId": "34",
+    "districtId": "449",
     "sockets": [
       {
-        "id": 534146
+        "id": 534146,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44427",
+        "power": 90
       },
       {
-        "id": 534147
+        "id": 534147,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44428",
+        "power": 90
       }
     ]
   },
@@ -349068,23 +349108,31 @@
     "id": 14719813,
     "lat": 40.981357,
     "lng": 29.081015,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Po Atatürk Caddesi",
+    "address": "Sahrayıcedid Atatürk 17  Kadıköy/İstanbul",
+    "phone": "08507620708",
+    "reportUrl": "https://5sarj.com/tr/contact",
+    "reservationUrl": "https://5sarj.com/tr/contact",
+    "operatorId": "1040808",
+    "operatorTitle": "Borenco Şarj Teknoloji Yatırımları Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "5 şarj",
+    "cityId": "34",
+    "districtId": "436",
     "sockets": [
       {
-        "id": 534220
+        "id": 534220,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44504",
+        "power": 180
       },
       {
-        "id": 534221
+        "id": 534221,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44505",
+        "power": 180
       }
     ]
   },
@@ -349156,23 +349204,31 @@
     "id": 14719829,
     "lat": 41.156645,
     "lng": 29.027115,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Sarıyer Hamidiye Etfal Devlet Hastanesi Açık Otopark",
+    "address": "Kazım Karabekir Paşa Bahçeköy  Sarıyer/İstanbul",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "34",
+    "districtId": "443",
     "sockets": [
       {
-        "id": 534244
+        "id": 534244,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44535",
+        "power": 180
       },
       {
-        "id": 534245
+        "id": 534245,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44536",
+        "power": 180
       }
     ]
   },
@@ -349389,32 +349445,52 @@
     "id": 14719839,
     "lat": 38.7686,
     "lng": 35.4057,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Şeker Mh. (şehir Hastanesi Arkası)",
+    "address": "Şeker 3169  Kocasinan/Kayseri",
+    "phone": "08508118638",
+    "reportUrl": "https://ksarj.com/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "992908",
+    "operatorTitle": "Hunat Enerji Yatırım Ve Danışmanlık Sanayi Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "K-ŞARJ",
+    "cityId": "38",
+    "districtId": "518",
     "sockets": [
       {
-        "id": 534273
+        "id": 534273,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44556",
+        "power": 180
       },
       {
-        "id": 534274
+        "id": 534274,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44557",
+        "power": 180
       },
       {
-        "id": 534275
+        "id": 534275,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44558",
+        "power": 22
       },
       {
-        "id": 534276
+        "id": 534276,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44559",
+        "power": 22
       },
       {
-        "id": 534277
+        "id": 534277,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44560",
+        "power": 22
       }
     ]
   },
@@ -349454,23 +349530,31 @@
     "id": 14719846,
     "lat": 39.828948,
     "lng": 32.660933,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Türkkonut",
+    "address": "Dodurga Odabaşı Kümeevler  Çankaya/Ankara",
+    "phone": "05497334179",
+    "reportUrl": "https://www.ecoboxsarj.com/",
+    "reservationUrl": "https://www.ecoboxsarj.com/",
+    "operatorId": "952678",
+    "operatorTitle": "Atay Güç Ve Enerji Sistemleri İmalat Sanayi Ticaret Limited Şirketi",
+    "serviceType": "public",
+    "brand": "ECOBOX",
+    "cityId": "6",
+    "districtId": "80",
     "sockets": [
       {
-        "id": 534282
+        "id": 534282,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44565",
+        "power": 22
       },
       {
-        "id": 534283
+        "id": 534283,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44566",
+        "power": 22
       }
     ]
   },
@@ -349478,26 +349562,38 @@
     "id": 14719866,
     "lat": 36.799953,
     "lng": 28.235252,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Otojet - Faros Otel",
+    "address": "İçmeler Kayabal 61  Marmaris/Muğla",
+    "phone": "5395195703",
+    "reportUrl": "https://www.oto-jet.com.tr/bize-ulasin.html",
+    "reservationUrl": "https://www.oto-jet.com.tr/bize-ulasin.html",
+    "operatorId": "5533",
+    "operatorTitle": "Otojet Enerji Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Otojet",
+    "cityId": "48",
+    "districtId": "656",
     "sockets": [
       {
-        "id": 534331
+        "id": 534331,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44577",
+        "power": 60
       },
       {
-        "id": 534332
+        "id": 534332,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44578",
+        "power": 60
       },
       {
-        "id": 534333
+        "id": 534333,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/44579",
+        "power": 22
       }
     ]
   },
