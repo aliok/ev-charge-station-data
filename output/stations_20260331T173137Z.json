@@ -439625,29 +439625,45 @@
     "id": 14803637,
     "lat": 40.841368,
     "lng": 33.167027,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Şekerler Dinlenme Tesisi Elektrikli Araç Şarj İstasyonu",
+    "address": "Hürriyet Kaplıca 41  Kurşunlu/Çankırı",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr",
+    "reservationUrl": "https://www.astorsarj.com.tr",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "18",
+    "districtId": "224",
     "sockets": [
       {
-        "id": 632605
+        "id": 632605,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15245",
+        "power": 300
       },
       {
-        "id": 632606
+        "id": 632606,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15246",
+        "power": 300
       },
       {
-        "id": 632607
+        "id": 632607,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15247",
+        "power": 300
       },
       {
-        "id": 632608
+        "id": 632608,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/15248",
+        "power": 300
       }
     ]
   },
@@ -439655,29 +439671,45 @@
     "id": 14803638,
     "lat": 40.041405,
     "lng": 28.219431,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj O167 Mustafa Kemal Paşa İzmir Yönü",
+    "address": "Çeltik İsrahim Şahin  Mustafakemalpaşa/Bursa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "16",
+    "districtId": "197",
     "sockets": [
       {
-        "id": 632609
+        "id": 632609,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43419",
+        "power": 300
       },
       {
-        "id": 632610
+        "id": 632610,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43420",
+        "power": 300
       },
       {
-        "id": 632611
+        "id": 632611,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43446",
+        "power": 300
       },
       {
-        "id": 632612
+        "id": 632612,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43448",
+        "power": 300
       }
     ]
   },
@@ -439685,29 +439717,45 @@
     "id": 14803639,
     "lat": 40.040793,
     "lng": 28.221616,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj O167 Mustafa Kemal Paşa İstanbul Yönü",
+    "address": "Çeltikçi, İsrahim Şahin  Mustafakemalpaşa/Bursa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "16",
+    "districtId": "197",
     "sockets": [
       {
-        "id": 632613
+        "id": 632613,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43428",
+        "power": 300
       },
       {
-        "id": 632614
+        "id": 632614,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43430",
+        "power": 300
       },
       {
-        "id": 632615
+        "id": 632615,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43438",
+        "power": 300
       },
       {
-        "id": 632616
+        "id": 632616,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43440",
+        "power": 300
       }
     ]
   },
@@ -439715,23 +439763,31 @@
     "id": 14803640,
     "lat": 39.755899,
     "lng": 27.962491,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj O204 Balıkesir Kuzey İstanbul Yönü",
+    "address": "İbirler 46999 31  Karesi/Balıkesir",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "10",
+    "districtId": "977",
     "sockets": [
       {
-        "id": 632617
+        "id": 632617,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43471",
+        "power": 300
       },
       {
-        "id": 632618
+        "id": 632618,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43472",
+        "power": 300
       }
     ]
   },
@@ -439739,23 +439795,31 @@
     "id": 14803641,
     "lat": 39.757869,
     "lng": 27.961499,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj O204 Balıkesir Kuzey İzmir Yönü",
+    "address": "İbirler 46999 31  Karesi/Balıkesir",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "10",
+    "districtId": "977",
     "sockets": [
       {
-        "id": 632619
+        "id": 632619,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43473",
+        "power": 180
       },
       {
-        "id": 632620
+        "id": 632620,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43474",
+        "power": 180
       }
     ]
   },
@@ -439763,23 +439827,31 @@
     "id": 14803642,
     "lat": 40.281535,
     "lng": 28.996002,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj O86 Bursa Kuzey İstanbul Yönü",
+    "address": "Köy 4. Dilek 65/1  Osmangazi/Bursa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "16",
+    "districtId": "201",
     "sockets": [
       {
-        "id": 632621
+        "id": 632621,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43475",
+        "power": 300
       },
       {
-        "id": 632622
+        "id": 632622,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43476",
+        "power": 300
       }
     ]
   },
@@ -439787,23 +439859,31 @@
     "id": 14803643,
     "lat": 40.282593,
     "lng": 28.994612,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj O86 Bursa Kuzey İzmir Yönü",
+    "address": "Köy 4. Dilek 65/1  Osmangazi/Bursa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "16",
+    "districtId": "201",
     "sockets": [
       {
-        "id": 632623
+        "id": 632623,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43479",
+        "power": 300
       },
       {
-        "id": 632624
+        "id": 632624,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43480",
+        "power": 300
       }
     ]
   },
@@ -439811,23 +439891,31 @@
     "id": 14803644,
     "lat": 40.250626,
     "lng": 28.452874,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj O135 Karacabey İstanbul Yönü",
+    "address": "Seyran Seyran 600  Karacabey/Bursa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr",
+    "reservationUrl": "https://www.astorsarj.com.tr",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "16",
+    "districtId": "193",
     "sockets": [
       {
-        "id": 632625
+        "id": 632625,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43481",
+        "power": 300
       },
       {
-        "id": 632626
+        "id": 632626,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43482",
+        "power": 300
       }
     ]
   },
@@ -439835,23 +439923,31 @@
     "id": 14803645,
     "lat": 40.252436,
     "lng": 28.451991,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj O135 Karacabey İzmir Yönü",
+    "address": "Seyran Seyran 600  Karacabey/Bursa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "16",
+    "districtId": "193",
     "sockets": [
       {
-        "id": 632627
+        "id": 632627,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43483",
+        "power": 300
       },
       {
-        "id": 632628
+        "id": 632628,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43484",
+        "power": 300
       }
     ]
   },
@@ -439859,26 +439955,38 @@
     "id": 14803646,
     "lat": 40.06805,
     "lng": 32.92875,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Pursaklar Vip Tower",
+    "address": "Saray Osmangazi Sarsılmaz 2/1  Pursaklar/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "76",
     "sockets": [
       {
-        "id": 632629
+        "id": 632629,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/43616",
+        "power": 22
       },
       {
-        "id": 632630
+        "id": 632630,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43617",
+        "power": 300
       },
       {
-        "id": 632631
+        "id": 632631,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43618",
+        "power": 300
       }
     ]
   },
@@ -439886,23 +439994,31 @@
     "id": 14803647,
     "lat": 37.09849,
     "lng": 38.18927,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Birecik Park Mirkelam Güney",
+    "address": "Kocaeli Kulaksız E90  Birecik/Şanlıurfa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "63",
+    "districtId": "828",
     "sockets": [
       {
-        "id": 632632
+        "id": 632632,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43921",
+        "power": 300
       },
       {
-        "id": 632633
+        "id": 632633,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43922",
+        "power": 300
       }
     ]
   },
@@ -439910,23 +440026,31 @@
     "id": 14803648,
     "lat": 37.100489,
     "lng": 38.187692,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Birecik Park Mirkelam Kuzey",
+    "address": "Kocaeli Kulaksız E90  Birecik/Şanlıurfa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "63",
+    "districtId": "828",
     "sockets": [
       {
-        "id": 632634
+        "id": 632634,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43923",
+        "power": 300
       },
       {
-        "id": 632635
+        "id": 632635,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/43924",
+        "power": 300
       }
     ]
   },
@@ -439934,23 +440058,31 @@
     "id": 14803649,
     "lat": 39.951167,
     "lng": 33.061145,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Mamak Gökçeyurt Akaryakıt",
+    "address": "Gökçeyurt 330  Mamak/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "73",
     "sockets": [
       {
-        "id": 632636
+        "id": 632636,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44059",
+        "power": 300
       },
       {
-        "id": 632637
+        "id": 632637,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44060",
+        "power": 300
       }
     ]
   },
@@ -439958,23 +440090,31 @@
     "id": 14803650,
     "lat": 41.02542,
     "lng": 27.724883,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Eriş Un Dinlenme Tesisi",
+    "address": "Yenice 229  Çorlu/Tekirdağ",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "59",
+    "districtId": "786",
     "sockets": [
       {
-        "id": 632638
+        "id": 632638,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44062",
+        "power": 240
       },
       {
-        "id": 632639
+        "id": 632639,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44063",
+        "power": 240
       }
     ]
   },
@@ -439982,29 +440122,45 @@
     "id": 14803651,
     "lat": 39.988094,
     "lng": 32.690935,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Çakırlar Astim Skypark",
+    "address": "Yenibatı 1940 2430 1/D/2  Yenimahalle/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "78",
     "sockets": [
       {
-        "id": 632640
+        "id": 632640,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45093",
+        "power": 180
       },
       {
-        "id": 632641
+        "id": 632641,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45094",
+        "power": 180
       },
       {
-        "id": 632642
+        "id": 632642,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/45095",
+        "power": 22
       },
       {
-        "id": 632643
+        "id": 632643,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/45096",
+        "power": 22
       }
     ]
   },
@@ -440012,26 +440168,38 @@
     "id": 14803652,
     "lat": 41.04633,
     "lng": 29.181866,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj İnventist Otel",
+    "address": "Merkez Atlas 11  Çekmeköy/İstanbul",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "34",
+    "districtId": "450",
     "sockets": [
       {
-        "id": 632644
+        "id": 632644,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45097",
+        "power": 180
       },
       {
-        "id": 632645
+        "id": 632645,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45098",
+        "power": 180
       },
       {
-        "id": 632646
+        "id": 632646,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/45099",
+        "power": 22
       }
     ]
   },
@@ -440039,23 +440207,31 @@
     "id": 14803653,
     "lat": 41.272886,
     "lng": 31.432483,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Ereğli Yazıcıoğlu",
+    "address": "Müftü Şehit Ömer Halisdemir 34  Ereğli/Zonguldak",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "67",
+    "districtId": "871",
     "sockets": [
       {
-        "id": 632647
+        "id": 632647,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45100",
+        "power": 300
       },
       {
-        "id": 632648
+        "id": 632648,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45101",
+        "power": 300
       }
     ]
   },
@@ -440063,26 +440239,38 @@
     "id": 14803654,
     "lat": 39.953947,
     "lng": 32.759181,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Yenimahalle Nevgross",
+    "address": "Macun 204 74/A  Yenimahalle/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "78",
     "sockets": [
       {
-        "id": 632649
+        "id": 632649,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45102",
+        "power": 300
       },
       {
-        "id": 632650
+        "id": 632650,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45103",
+        "power": 300
       },
       {
-        "id": 632651
+        "id": 632651,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/45104",
+        "power": 22
       }
     ]
   },
@@ -440090,23 +440278,31 @@
     "id": 14803655,
     "lat": 40.79106,
     "lng": 30.372935,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Adapazarı As Plaza",
+    "address": "Ozanlar 18  Adapazarı/Sakarya",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "54",
+    "districtId": "713",
     "sockets": [
       {
-        "id": 632652
+        "id": 632652,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45107",
+        "power": 300
       },
       {
-        "id": 632653
+        "id": 632653,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45108",
+        "power": 300
       }
     ]
   },
@@ -440114,23 +440310,31 @@
     "id": 14803656,
     "lat": 40.52307,
     "lng": 34.915997,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Çorum Karataş Otomotiv",
+    "address": "Mimar Sinan  Merkez/Çorum",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "19",
+    "districtId": "237",
     "sockets": [
       {
-        "id": 632654
+        "id": 632654,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45109",
+        "power": 240
       },
       {
-        "id": 632655
+        "id": 632655,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/45110",
+        "power": 240
       }
     ]
   },
@@ -440138,23 +440342,31 @@
     "id": 14803657,
     "lat": 39.85755,
     "lng": 32.64535,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Yaşamkent Gözüm Park",
+    "address": "Yaşamkent 3297 1  Çankaya/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "80",
     "sockets": [
       {
-        "id": 632656
+        "id": 632656,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/48803",
+        "power": 180
       },
       {
-        "id": 632657
+        "id": 632657,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/48804",
+        "power": 180
       }
     ]
   },
@@ -440162,23 +440374,31 @@
     "id": 14803658,
     "lat": 40.907974,
     "lng": 29.19699,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Kartal Senyıka Dc",
+    "address": "Esentepe Füsun 3  Kartal/İstanbul",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "34",
+    "districtId": "437",
     "sockets": [
       {
-        "id": 632658
+        "id": 632658,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/48805",
+        "power": 120
       },
       {
-        "id": 632659
+        "id": 632659,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/48806",
+        "power": 120
       }
     ]
   },
@@ -440186,23 +440406,31 @@
     "id": 14803659,
     "lat": 38.503411,
     "lng": 42.22063,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Tatvan Adabağlı Dinlenme Tesisi",
+    "address": "Fatih Bitlis Yolu 399  Tatvan/Bitlis",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "13",
+    "districtId": "168",
     "sockets": [
       {
-        "id": 632660
+        "id": 632660,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/48808",
+        "power": 180
       },
       {
-        "id": 632661
+        "id": 632661,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/48809",
+        "power": 180
       }
     ]
   },
@@ -440210,23 +440438,31 @@
     "id": 14803660,
     "lat": 40.5745,
     "lng": 43.1067,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Kars Hyundai Dc",
+    "address": "30 Ekim Alparslan Türkeş 20/1  Merkez/Kars",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "36",
+    "districtId": "489",
     "sockets": [
       {
-        "id": 632662
+        "id": 632662,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/53985",
+        "power": 180
       },
       {
-        "id": 632663
+        "id": 632663,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/53986",
+        "power": 180
       }
     ]
   },
@@ -440234,26 +440470,38 @@
     "id": 14803661,
     "lat": 39.963733,
     "lng": 32.748873,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Yıldız Sanayi",
+    "address": "Ostim 1579  Yenimahalle/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr",
+    "reservationUrl": "https://www.astorsarj.com.tr",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "78",
     "sockets": [
       {
-        "id": 632664
+        "id": 632664,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58547",
+        "power": 22
       },
       {
-        "id": 632665
+        "id": 632665,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58548",
+        "power": 22
       },
       {
-        "id": 632666
+        "id": 632666,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58549",
+        "power": 22
       }
     ]
   },
@@ -440261,23 +440509,31 @@
     "id": 14803662,
     "lat": 37.055263,
     "lng": 36.164302,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Osmaniye Enfes Kuruyemiş",
+    "address": "Kumarlı 64  Toprakkale/Osmaniye",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr",
+    "reservationUrl": "https://www.astorsarj.com.tr",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "80",
+    "districtId": "949",
     "sockets": [
       {
-        "id": 632667
+        "id": 632667,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58552",
+        "power": 180
       },
       {
-        "id": 632668
+        "id": 632668,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58553",
+        "power": 180
       }
     ]
   },
@@ -440285,23 +440541,31 @@
     "id": 14803663,
     "lat": 39.827968,
     "lng": 32.709512,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Rota İncek",
+    "address": "Alacaatlı 139  Çankaya/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "80",
     "sockets": [
       {
-        "id": 632669
+        "id": 632669,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58556",
+        "power": 300
       },
       {
-        "id": 632670
+        "id": 632670,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58557",
+        "power": 300
       }
     ]
   },
@@ -440309,23 +440573,31 @@
     "id": 14803664,
     "lat": 40.978895,
     "lng": 27.534482,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Süleymanpaşa Sevinçler Akaryakıt",
+    "address": "Zafer Hayri Mumcuoğlu 1  Süleymanpaşa/Tekirdağ",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "59",
+    "districtId": "994",
     "sockets": [
       {
-        "id": 632671
+        "id": 632671,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58562",
+        "power": 120
       },
       {
-        "id": 632672
+        "id": 632672,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58563",
+        "power": 120
       }
     ]
   },
@@ -440333,23 +440605,31 @@
     "id": 14803665,
     "lat": 39.659788,
     "lng": 27.908294,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Karesi Kırcal Akaryakıt",
+    "address": "Paşaalanı Bandırma 89  Karesi/Balıkesir",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "10",
+    "districtId": "977",
     "sockets": [
       {
-        "id": 632673
+        "id": 632673,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58567",
+        "power": 150
       },
       {
-        "id": 632674
+        "id": 632674,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58568",
+        "power": 150
       }
     ]
   },
@@ -440357,23 +440637,31 @@
     "id": 14803666,
     "lat": 40.885374,
     "lng": 26.918253,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Malkara Ünal Peynircilik",
+    "address": "Gazibey Londra Asfaltı 73  Malkara/Tekirdağ",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "59",
+    "districtId": "780",
     "sockets": [
       {
-        "id": 632675
+        "id": 632675,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58571",
+        "power": 180
       },
       {
-        "id": 632676
+        "id": 632676,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58573",
+        "power": 180
       }
     ]
   },
@@ -440381,23 +440669,31 @@
     "id": 14803667,
     "lat": 39.6667,
     "lng": 33.6137,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Keskin Q Plus Akaryakıt",
+    "address": "Bozkurt 5/2  Keskin/Kırıkkale",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "71",
+    "districtId": "895",
     "sockets": [
       {
-        "id": 632677
+        "id": 632677,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58721",
+        "power": 180
       },
       {
-        "id": 632678
+        "id": 632678,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58722",
+        "power": 180
       }
     ]
   },
@@ -440405,23 +440701,31 @@
     "id": 14803668,
     "lat": 38.40663,
     "lng": 33.977465,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Aksaray Has Döner",
+    "address": "Yenimahalle Recep Tayyip Erdoğan 115  Merkez/Aksaray",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "68",
+    "districtId": "879",
     "sockets": [
       {
-        "id": 632679
+        "id": 632679,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58723",
+        "power": 240
       },
       {
-        "id": 632680
+        "id": 632680,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58724",
+        "power": 240
       }
     ]
   },
@@ -440429,23 +440733,31 @@
     "id": 14803669,
     "lat": 39.120174,
     "lng": 34.196379,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Kırşehir Hyundai Çağ",
+    "address": "Kındam 6/1  Merkez/Kırşehir",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "40",
+    "districtId": "541",
     "sockets": [
       {
-        "id": 632681
+        "id": 632681,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58727",
+        "power": 120
       },
       {
-        "id": 632682
+        "id": 632682,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58728",
+        "power": 120
       }
     ]
   },
@@ -440453,26 +440765,38 @@
     "id": 14803670,
     "lat": 39.969425,
     "lng": 32.742901,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Ostim Teknopark",
+    "address": "Ostim 53/1  Yenimahalle/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "78",
     "sockets": [
       {
-        "id": 632683
+        "id": 632683,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58735",
+        "power": 22
       },
       {
-        "id": 632684
+        "id": 632684,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58736",
+        "power": 22
       },
       {
-        "id": 632685
+        "id": 632685,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58737",
+        "power": 22
       }
     ]
   },
@@ -440480,26 +440804,38 @@
     "id": 14803671,
     "lat": 39.909938,
     "lng": 32.799659,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Medicana İnternational Ankara Hastanesi",
+    "address": "Söğütözü 2165 6  Çankaya/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "80",
     "sockets": [
       {
-        "id": 632686
+        "id": 632686,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58738",
+        "power": 180
       },
       {
-        "id": 632687
+        "id": 632687,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58739",
+        "power": 180
       },
       {
-        "id": 632688
+        "id": 632688,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58740",
+        "power": 22
       }
     ]
   },
@@ -440507,59 +440843,115 @@
     "id": 14803672,
     "lat": 40.990277,
     "lng": 28.715029,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Avcılar Pelican Avm",
+    "address": "Üniversite Londra Asfaltı 42  Avcılar/İstanbul",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "34",
+    "districtId": "419",
     "sockets": [
       {
-        "id": 632689
+        "id": 632689,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58794",
+        "power": 400
       },
       {
-        "id": 632690
+        "id": 632690,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58795",
+        "power": 400
       },
       {
-        "id": 632691
+        "id": 632691,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58796",
+        "power": 400
       },
       {
-        "id": 632692
+        "id": 632692,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58797",
+        "power": 400
       },
       {
-        "id": 632693
+        "id": 632693,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58798",
+        "power": 400
       },
       {
-        "id": 632694
+        "id": 632694,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58799",
+        "power": 400
       },
       {
-        "id": 632695
+        "id": 632695,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58800",
+        "power": 400
       },
       {
-        "id": 632696
+        "id": 632696,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58801",
+        "power": 400
       },
       {
-        "id": 632697
+        "id": 632697,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58802",
+        "power": 400
       },
       {
-        "id": 632698
+        "id": 632698,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58803",
+        "power": 400
       },
       {
-        "id": 632699
+        "id": 632699,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58804",
+        "power": 400
       },
       {
-        "id": 632700
+        "id": 632700,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58805",
+        "power": 400
       },
       {
-        "id": 632701
+        "id": 632701,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58806",
+        "power": 400
       },
       {
-        "id": 632702
+        "id": 632702,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58807",
+        "power": 400
       }
     ]
   },
@@ -440567,23 +440959,31 @@
     "id": 14803673,
     "lat": 37.9008,
     "lng": 31.911427,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Beyşehir Hunt Group Akaryakıt",
+    "address": "Çukurağıl Konya  Beyşehir/Konya",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "42",
+    "districtId": "560",
     "sockets": [
       {
-        "id": 632703
+        "id": 632703,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58808",
+        "power": 240
       },
       {
-        "id": 632704
+        "id": 632704,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58809",
+        "power": 240
       }
     ]
   },
@@ -440591,23 +440991,31 @@
     "id": 14803674,
     "lat": 37.56402,
     "lng": 36.951808,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Kahramanmaraş Şirikciler Akaryakıt",
+    "address": "Mehmet Akif 108/B  Dulkadiroğlu/Kahramanmaraş",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "46",
+    "districtId": "983",
     "sockets": [
       {
-        "id": 632705
+        "id": 632705,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58577",
+        "power": 95
       },
       {
-        "id": 632706
+        "id": 632706,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58579",
+        "power": 95
       }
     ]
   },
@@ -440615,23 +441023,31 @@
     "id": 14803676,
     "lat": 40.85637,
     "lng": 26.32087,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj İpsala Uygar Grup Akaryakıt",
+    "address": "Paşaköy  İpsala/Edirne",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr",
+    "reservationUrl": "https://www.astorsarj.com.tr",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "22",
+    "districtId": "288",
     "sockets": [
       {
-        "id": 632711
+        "id": 632711,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58904",
+        "power": 100
       },
       {
-        "id": 632712
+        "id": 632712,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58905",
+        "power": 100
       }
     ]
   },
@@ -440639,29 +441055,45 @@
     "id": 14803677,
     "lat": 41.117939,
     "lng": 28.656575,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Arnavutköy Teskop İş Merkezi",
+    "address": "Deliklikaya Deliklikaya Altınşehir Yolu 13/2  Arnavutköy/İstanbul",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "34",
+    "districtId": "417",
     "sockets": [
       {
-        "id": 632713
+        "id": 632713,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58906",
+        "power": 180
       },
       {
-        "id": 632714
+        "id": 632714,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58907",
+        "power": 180
       },
       {
-        "id": 632715
+        "id": 632715,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58908",
+        "power": 22
       },
       {
-        "id": 632716
+        "id": 632716,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58909",
+        "power": 22
       }
     ]
   },
@@ -440669,23 +441101,31 @@
     "id": 14803679,
     "lat": 38.36391,
     "lng": 34.003554,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Aksaray Hyundai Çağ",
+    "address": "Tacin 5/Konya 36  Merkez/Aksaray",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "68",
+    "districtId": "879",
     "sockets": [
       {
-        "id": 632720
+        "id": 632720,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58913",
+        "power": 120
       },
       {
-        "id": 632721
+        "id": 632721,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58914",
+        "power": 120
       }
     ]
   },
@@ -440693,23 +441133,31 @@
     "id": 14803680,
     "lat": 40.265228,
     "lng": 28.061218,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Bandırma Akaryakıt",
+    "address": "Akçapınar  Bandırma/Balıkesir",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "10",
+    "districtId": "129",
     "sockets": [
       {
-        "id": 632722
+        "id": 632722,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58925",
+        "power": 400
       },
       {
-        "id": 632723
+        "id": 632723,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58926",
+        "power": 400
       }
     ]
   },
@@ -440717,29 +441165,45 @@
     "id": 14803681,
     "lat": 37.186239,
     "lng": 27.614937,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Milas Class Akaryakıt",
+    "address": "Dörttepe  Milas/Muğla",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "48",
+    "districtId": "658",
     "sockets": [
       {
-        "id": 632724
+        "id": 632724,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58992",
+        "power": 180
       },
       {
-        "id": 632725
+        "id": 632725,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58993",
+        "power": 180
       },
       {
-        "id": 632726
+        "id": 632726,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58996",
+        "power": 180
       },
       {
-        "id": 632727
+        "id": 632727,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58997",
+        "power": 180
       }
     ]
   },
@@ -440747,23 +441211,31 @@
     "id": 14803682,
     "lat": 37.670992,
     "lng": 28.016234,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Çine Dinçler Akaryakıt",
+    "address": "Bucak  Çine/Aydın",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "9",
+    "districtId": "125",
     "sockets": [
       {
-        "id": 632728
+        "id": 632728,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58994",
+        "power": 360
       },
       {
-        "id": 632729
+        "id": 632729,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58995",
+        "power": 360
       }
     ]
   },
@@ -440771,23 +441243,31 @@
     "id": 14803683,
     "lat": 41.23461,
     "lng": 28.888007,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Ica Odeyeri Bi Mola",
+    "address": "Kuzey Marmara Otoyolu  Eyüpsultan/İstanbul",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "34",
+    "districtId": "432",
     "sockets": [
       {
-        "id": 632730
+        "id": 632730,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59019",
+        "power": 180
       },
       {
-        "id": 632731
+        "id": 632731,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59020",
+        "power": 180
       }
     ]
   },
@@ -440795,23 +441275,31 @@
     "id": 14803685,
     "lat": 41.139695,
     "lng": 27.868024,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Çorlu Hyundai Atmaş",
+    "address": "E-5 Karayolu Üzeri  Çorlu/Tekirdağ",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "59",
+    "districtId": "786",
     "sockets": [
       {
-        "id": 632736
+        "id": 632736,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59092",
+        "power": 300
       },
       {
-        "id": 632737
+        "id": 632737,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59093",
+        "power": 300
       }
     ]
   },
@@ -440819,32 +441307,52 @@
     "id": 14803686,
     "lat": 40.679006,
     "lng": 30.363465,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Arifiye Class Akaryakıt",
+    "address": "Ahmediye 777  Arifiye/Sakarya",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "54",
+    "districtId": "715",
     "sockets": [
       {
-        "id": 632738
+        "id": 632738,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59094",
+        "power": 300
       },
       {
-        "id": 632739
+        "id": 632739,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59095",
+        "power": 300
       },
       {
-        "id": 632740
+        "id": 632740,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/59096",
+        "power": 22
       },
       {
-        "id": 632741
+        "id": 632741,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59097",
+        "power": 300
       },
       {
-        "id": 632742
+        "id": 632742,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59098",
+        "power": 300
       }
     ]
   },
@@ -440852,23 +441360,31 @@
     "id": 14803687,
     "lat": 38.48437,
     "lng": 27.823482,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Turgutlu Muzafferoğulları Akaryakıt",
+    "address": "Akçapınar 11  Turgutlu/Manisa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "45",
+    "districtId": "629",
     "sockets": [
       {
-        "id": 632743
+        "id": 632743,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59099",
+        "power": 300
       },
       {
-        "id": 632744
+        "id": 632744,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59100",
+        "power": 300
       }
     ]
   },
@@ -440876,23 +441392,31 @@
     "id": 14803688,
     "lat": 40.943997,
     "lng": 32.074699,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Mengen Şenyürek Akaryakıt",
+    "address": "Türkbeyli Zonguldak 121  Mengen/Bolu",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "14",
+    "districtId": "173",
     "sockets": [
       {
-        "id": 632745
+        "id": 632745,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59101",
+        "power": 160
       },
       {
-        "id": 632746
+        "id": 632746,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59102",
+        "power": 160
       }
     ]
   },
@@ -440900,23 +441424,31 @@
     "id": 14803689,
     "lat": 36.932083,
     "lng": 30.646812,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Kepez Emr Orman",
+    "address": "Kepez 5069 44  Kepez/Antalya",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "7",
+    "districtId": "94",
     "sockets": [
       {
-        "id": 632747
+        "id": 632747,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59115",
+        "power": 60
       },
       {
-        "id": 632748
+        "id": 632748,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59116",
+        "power": 60
       }
     ]
   },
@@ -440924,23 +441456,31 @@
     "id": 14803690,
     "lat": 37.311352,
     "lng": 37.15111,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Gülsedef Dinlenme Tesisi",
+    "address": "Karabıyıklı 130  Pazarcık/Kahramanmaraş",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "46",
+    "districtId": "637",
     "sockets": [
       {
-        "id": 632749
+        "id": 632749,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59119",
+        "power": 300
       },
       {
-        "id": 632750
+        "id": 632750,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59120",
+        "power": 300
       }
     ]
   },
@@ -440948,29 +441488,45 @@
     "id": 14803691,
     "lat": 39.875387,
     "lng": 32.65179,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Elya Center",
+    "address": "Koru Dumlupınar 399  Çankaya/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "80",
     "sockets": [
       {
-        "id": 632751
+        "id": 632751,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59088",
+        "power": 300
       },
       {
-        "id": 632752
+        "id": 632752,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59089",
+        "power": 300
       },
       {
-        "id": 632753
+        "id": 632753,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59090",
+        "power": 300
       },
       {
-        "id": 632754
+        "id": 632754,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59091",
+        "power": 300
       }
     ]
   },
@@ -440978,23 +441534,31 @@
     "id": 14803692,
     "lat": 40.975345,
     "lng": 37.923179,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Ordu Hyundai Ateş",
+    "address": "Karapınar 1127 Og-1/Tic  Altınordu/Ordu",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "52",
+    "districtId": "998",
     "sockets": [
       {
-        "id": 632755
+        "id": 632755,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59203",
+        "power": 180
       },
       {
-        "id": 632756
+        "id": 632756,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59204",
+        "power": 180
       }
     ]
   },
@@ -441002,23 +441566,31 @@
     "id": 14803693,
     "lat": 41.530086,
     "lng": 35.951132,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Bafra Değirmenci Akaryakıt",
+    "address": "Tütüncüler  Bafra/Samsun",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "55",
+    "districtId": "733",
     "sockets": [
       {
-        "id": 632757
+        "id": 632757,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59205",
+        "power": 240
       },
       {
-        "id": 632758
+        "id": 632758,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59206",
+        "power": 240
       }
     ]
   },
@@ -441026,23 +441598,31 @@
     "id": 14803694,
     "lat": 37.854391,
     "lng": 32.663934,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Hasan Kulu Orman Ürünleri",
+    "address": "Tatlıcak 117/C  Karatay/Konya",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "42",
+    "districtId": "575",
     "sockets": [
       {
-        "id": 632759
+        "id": 632759,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59207",
+        "power": 180
       },
       {
-        "id": 632760
+        "id": 632760,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59208",
+        "power": 180
       }
     ]
   },
@@ -441050,23 +441630,31 @@
     "id": 14803695,
     "lat": 39.558885,
     "lng": 27.029655,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Edremit Egedeneve Ahşap Store",
+    "address": "Bostancı 7  Edremit/Balıkesir",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "10",
+    "districtId": "133",
     "sockets": [
       {
-        "id": 632761
+        "id": 632761,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58923",
+        "power": 180
       },
       {
-        "id": 632762
+        "id": 632762,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58924",
+        "power": 180
       }
     ]
   },
@@ -441074,23 +441662,31 @@
     "id": 14803696,
     "lat": 38.679392,
     "lng": 29.378516,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Uşak Sheraton Hotel",
+    "address": "Dikilitaş  Merkez/Uşak",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "64",
+    "districtId": "840",
     "sockets": [
       {
-        "id": 632763
+        "id": 632763,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59603",
+        "power": 480
       },
       {
-        "id": 632764
+        "id": 632764,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59604",
+        "power": 480
       }
     ]
   },
@@ -441098,23 +441694,31 @@
     "id": 14803697,
     "lat": 39.671335,
     "lng": 27.883687,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Karesi The Mıllenıum Resıdence",
+    "address": "Karesi  Karesi/Balıkesir",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "10",
+    "districtId": "977",
     "sockets": [
       {
-        "id": 632765
+        "id": 632765,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59605",
+        "power": 160
       },
       {
-        "id": 632766
+        "id": 632766,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59606",
+        "power": 160
       }
     ]
   },
@@ -441122,29 +441726,45 @@
     "id": 14803698,
     "lat": 37.916656,
     "lng": 32.520206,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Konya Hyundaı Öntur",
+    "address": "Fevziçakmak  Karatay/Konya",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "42",
+    "districtId": "575",
     "sockets": [
       {
-        "id": 632767
+        "id": 632767,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59607",
+        "power": 400
       },
       {
-        "id": 632768
+        "id": 632768,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59608",
+        "power": 400
       },
       {
-        "id": 632769
+        "id": 632769,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59609",
+        "power": 400
       },
       {
-        "id": 632770
+        "id": 632770,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59610",
+        "power": 400
       }
     ]
   },
@@ -441152,29 +441772,45 @@
     "id": 14803699,
     "lat": 39.947447,
     "lng": 32.581639,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Sincan Milat 2 Konutları",
+    "address": "Osmanlı  Sincan/Ankara",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "6",
+    "districtId": "77",
     "sockets": [
       {
-        "id": 632771
+        "id": 632771,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59635",
+        "power": 180
       },
       {
-        "id": 632772
+        "id": 632772,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59636",
+        "power": 180
       },
       {
-        "id": 632773
+        "id": 632773,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/59637",
+        "power": 22
       },
       {
-        "id": 632774
+        "id": 632774,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/59638",
+        "power": 22
       }
     ]
   },
@@ -441182,23 +441818,31 @@
     "id": 14803700,
     "lat": 39.740854,
     "lng": 39.51574,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Erzincan Hilton Garden Inn",
+    "address": "Karadiğin  Merkez/Erzincan",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "24",
+    "districtId": "302",
     "sockets": [
       {
-        "id": 632775
+        "id": 632775,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59671",
+        "power": 240
       },
       {
-        "id": 632776
+        "id": 632776,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59672",
+        "power": 240
       }
     ]
   },
@@ -441206,29 +441850,45 @@
     "id": 14803701,
     "lat": 38.7222,
     "lng": 37.259897,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Gölpınar Dinlenme Tesisleri",
+    "address": "Karayar Pembe Gül  Gürün/Sivas",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "58",
+    "districtId": "768",
     "sockets": [
       {
-        "id": 632777
+        "id": 632777,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59766",
+        "power": 300
       },
       {
-        "id": 632778
+        "id": 632778,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59767",
+        "power": 300
       },
       {
-        "id": 632779
+        "id": 632779,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59768",
+        "power": 300
       },
       {
-        "id": 632780
+        "id": 632780,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59769",
+        "power": 300
       }
     ]
   },
@@ -441236,23 +441896,31 @@
     "id": 14803702,
     "lat": 40.215842,
     "lng": 28.879458,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Nilüfer Çavdarlı Byd",
+    "address": "Ürünlü Ürkek 21/1  Nilüfer/Bursa",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "16",
+    "districtId": "198",
     "sockets": [
       {
-        "id": 632781
+        "id": 632781,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59997",
+        "power": 160
       },
       {
-        "id": 632782
+        "id": 632782,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59998",
+        "power": 160
       }
     ]
   },
@@ -441260,23 +441928,31 @@
     "id": 14803703,
     "lat": 40.33442,
     "lng": 36.592024,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Tokat Melek Bahçesi Restoran",
+    "address": "Doğancıbağları Talip Yener 1/0  Merkez/Tokat",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "60",
+    "districtId": "792",
     "sockets": [
       {
-        "id": 632783
+        "id": 632783,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60165",
+        "power": 180
       },
       {
-        "id": 632784
+        "id": 632784,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60166",
+        "power": 180
       }
     ]
   },
@@ -441284,20 +441960,24 @@
     "id": 14803704,
     "lat": 41.109344,
     "lng": 28.986532,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Radisson Collection",
+    "address": "Ayazağa Cendere  Sarıyer/İstanbul",
+    "phone": "02125711355",
+    "reportUrl": "https://www.efish.com.tr/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "1039920",
+    "operatorTitle": "Artaş Enerji Yatırımları Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "efish",
+    "cityId": "34",
+    "districtId": "443",
     "sockets": [
       {
-        "id": 632785
+        "id": 632785,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60856",
+        "power": 22
       }
     ]
   },
@@ -441305,32 +441985,52 @@
     "id": 14803706,
     "lat": 40.200225,
     "lng": 29.21439,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Kestel Meydan Ve Katlı Otopark",
+    "address": "Ahmetvefikpaşa Cumhuriyet Meydan Kestel Meydan Ve Katlı Otopark  Kestel/Bursa",
+    "phone": "02165930050",
+    "reportUrl": "https://www.g-charge.com.tr",
+    "reservationUrl": "https://www.g-charge.com.tr",
+    "operatorId": "1006417",
+    "operatorTitle": "Gersan Şarj Sistemleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "G-Charge",
+    "cityId": "16",
+    "districtId": "195",
     "sockets": [
       {
-        "id": 632786
+        "id": 632786,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60857",
+        "power": 22
       },
       {
-        "id": 632787
+        "id": 632787,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60858",
+        "power": 22
       },
       {
-        "id": 632788
+        "id": 632788,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60859",
+        "power": 22
       },
       {
-        "id": 632789
+        "id": 632789,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60860",
+        "power": 22
       },
       {
-        "id": 632790
+        "id": 632790,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60861",
+        "power": 22
       }
     ]
   },
@@ -441338,23 +442038,31 @@
     "id": 14803719,
     "lat": 40.791082,
     "lng": 29.427705,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Gebze Happy Inn Hotel",
+    "address": "Osman Yılmaz 633/2 55  Gebze/Kocaeli",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr/",
+    "reservationUrl": "https://www.astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "41",
+    "districtId": "548",
     "sockets": [
       {
-        "id": 632791
+        "id": 632791,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58733",
+        "power": 180
       },
       {
-        "id": 632792
+        "id": 632792,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58734",
+        "power": 180
       }
     ]
   },
@@ -441362,23 +442070,31 @@
     "id": 14803720,
     "lat": 36.87692,
     "lng": 30.70821,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Muratpaşa Ramada By Wyndham",
+    "address": "Gençlik Fevzi Çakmak 22  Muratpaşa/Antalya",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr",
+    "reservationUrl": "https://www.astorsarj.com.tr",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "7",
+    "districtId": "99",
     "sockets": [
       {
-        "id": 632793
+        "id": 632793,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/30260",
+        "power": 300
       },
       {
-        "id": 632794
+        "id": 632794,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/30261",
+        "power": 300
       }
     ]
   },
@@ -441386,23 +442102,31 @@
     "id": 14803721,
     "lat": 40.99625,
     "lng": 28.90943,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Zeytinburnu Olivium Avm",
+    "address": "Beştelsiz Prof. Muammer Aksoy 30  Zeytinburnu/İstanbul",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://www.astorsarj.com.tr",
+    "reservationUrl": "https://www.astorsarj.com.tr",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "34",
+    "districtId": "448",
     "sockets": [
       {
-        "id": 632795
+        "id": 632795,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/25027",
+        "power": 180
       },
       {
-        "id": 632796
+        "id": 632796,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/25028",
+        "power": 180
       }
     ]
   },
@@ -441410,53 +442134,101 @@
     "id": 14803722,
     "lat": 38.456987,
     "lng": 27.247477,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Park Bornova Avm",
+    "address": "Doğanlar Ankara 192  Bornova/İzmir",
+    "phone": "0850 755 98 98",
+    "reportUrl": "https://www.watmobilite.com",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "929436",
+    "operatorTitle": "Wat Mobilite Çözümleri Teknoloji Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "wat mobilite",
+    "cityId": "35",
+    "districtId": "461",
     "sockets": [
       {
-        "id": 632797
+        "id": 632797,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/53193",
+        "power": 11
       },
       {
-        "id": 632798
+        "id": 632798,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/53194",
+        "power": 11
       },
       {
-        "id": 632799
+        "id": 632799,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/53195",
+        "power": 100
       },
       {
-        "id": 632800
+        "id": 632800,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/53196",
+        "power": 100
       },
       {
-        "id": 632801
+        "id": 632801,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/53197",
+        "power": 100
       },
       {
-        "id": 632802
+        "id": 632802,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/53198",
+        "power": 100
       },
       {
-        "id": 632803
+        "id": 632803,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/53199",
+        "power": 100
       },
       {
-        "id": 632804
+        "id": 632804,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/53200",
+        "power": 100
       },
       {
-        "id": 632805
+        "id": 632805,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60862",
+        "power": 180
       },
       {
-        "id": 632806
+        "id": 632806,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60863",
+        "power": 180
       },
       {
-        "id": 632807
+        "id": 632807,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60864",
+        "power": 180
       },
       {
-        "id": 632808
+        "id": 632808,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60865",
+        "power": 180
       }
     ]
   },
@@ -441464,23 +442236,31 @@
     "id": 14803751,
     "lat": 38.465313,
     "lng": 27.189972,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Paten Park",
+    "address": "Manavkuyu Yüzbaşı İbrahim Hakkı  Bayraklı/İzmir",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "35",
+    "districtId": "458",
     "sockets": [
       {
-        "id": 632832
+        "id": 632832,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60887",
+        "power": 180
       },
       {
-        "id": 632833
+        "id": 632833,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60888",
+        "power": 180
       }
     ]
   },
@@ -441488,23 +442268,31 @@
     "id": 14803752,
     "lat": 38.487244,
     "lng": 27.573829,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Oksijen O375 İzmir  Yönü",
+    "address": "Sancaklı Iğdecik 33  Şehzadeler/Manisa",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "45",
+    "districtId": "985",
     "sockets": [
       {
-        "id": 632834
+        "id": 632834,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60891",
+        "power": 320
       },
       {
-        "id": 632835
+        "id": 632835,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60892",
+        "power": 320
       }
     ]
   },
@@ -441512,23 +442300,31 @@
     "id": 14803753,
     "lat": 38.487265,
     "lng": 27.575011,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Oksijen O375 İstanbul Yönü",
+    "address": "Sancakli İğdecik 33  Şehzadeler/Manisa",
+    "phone": "08502020251",
+    "reportUrl": "https://www.enyakit.com.tr/iletisim",
+    "reservationUrl": "https://onelink.to/nqfxmu",
+    "operatorId": "918383",
+    "operatorTitle": "En Yakıt Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "EN YAKIT",
+    "cityId": "45",
+    "districtId": "985",
     "sockets": [
       {
-        "id": 632836
+        "id": 632836,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60894",
+        "power": 320
       },
       {
-        "id": 632837
+        "id": 632837,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60895",
+        "power": 320
       }
     ]
   },
@@ -441536,26 +442332,38 @@
     "id": 14803755,
     "lat": 36.557114,
     "lng": 31.989502,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Başaran Alanya - Volkswagen",
+    "address": "Sugözü 11  Alanya/Antalya",
+    "phone": "444 98 77",
+    "reportUrl": "https://dcharge.com.tr/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "1092971",
+    "operatorTitle": "Doğuş Şarj Sistemleri Pazarlama Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "D-Charge",
+    "cityId": "7",
+    "districtId": "85",
     "sockets": [
       {
-        "id": 632839
+        "id": 632839,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60900",
+        "power": 22
       },
       {
-        "id": 632840
+        "id": 632840,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60901",
+        "power": 180
       },
       {
-        "id": 632841
+        "id": 632841,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60902",
+        "power": 180
       }
     ]
   },
@@ -441563,26 +442371,38 @@
     "id": 14803756,
     "lat": 39.996428,
     "lng": 32.7524,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Ankara Teknopark Tekn.gel.böl.yönetici A.ş.",
+    "address": "Teknopark İvedik O.s.b. 32(2224) 1  Yenimahalle/Ankara",
+    "phone": "02165930050",
+    "reportUrl": "https://www.g-charge.com.tr",
+    "reservationUrl": "https://www.g-charge.com.tr",
+    "operatorId": "1006417",
+    "operatorTitle": "Gersan Şarj Sistemleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "G-Charge",
+    "cityId": "6",
+    "districtId": "78",
     "sockets": [
       {
-        "id": 632842
+        "id": 632842,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60897",
+        "power": 90
       },
       {
-        "id": 632843
+        "id": 632843,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60898",
+        "power": 90
       },
       {
-        "id": 632844
+        "id": 632844,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60899",
+        "power": 22
       }
     ]
   },
@@ -441590,23 +442410,31 @@
     "id": 14803758,
     "lat": 36.622908,
     "lng": 29.121651,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Astorşarj Fethiye Orman İşletme Müdürlüğü",
+    "address": "Tuzla 1/1  Fethiye/Muğla",
+    "phone": "0850 400 00 00",
+    "reportUrl": "https://astorsarj.com.tr/",
+    "reservationUrl": "https://astorsarj.com.tr/",
+    "operatorId": "919121",
+    "operatorTitle": "Astor Enerji Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ASTOR",
+    "cityId": "48",
+    "districtId": "653",
     "sockets": [
       {
-        "id": 632845
+        "id": 632845,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60903",
+        "power": 22
       },
       {
-        "id": 632846
+        "id": 632846,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60904",
+        "power": 22
       }
     ]
   },
@@ -441614,32 +442442,52 @@
     "id": 14803759,
     "lat": 41.095108,
     "lng": 28.862795,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Ayhan Mühendislik Dc",
+    "address": "Sultançiftliği 10 13  Sultangazi/İstanbul",
+    "phone": "0850 811 33 18",
+    "reportUrl": "https://aostechnology.com.tr/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "1040166",
+    "operatorTitle": "Ayhan Teknoloji Ve Otomasyon Çözümleri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "AOSTECHNOLOGY",
+    "cityId": "34",
+    "districtId": "445",
     "sockets": [
       {
-        "id": 632847
+        "id": 632847,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44189",
+        "power": 180
       },
       {
-        "id": 632848
+        "id": 632848,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44190",
+        "power": 180
       },
       {
-        "id": 632849
+        "id": 632849,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/44191",
+        "power": 22
       },
       {
-        "id": 632850
+        "id": 632850,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59934",
+        "power": 60
       },
       {
-        "id": 632851
+        "id": 632851,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/59935",
+        "power": 60
       }
     ]
   },
@@ -441647,26 +442495,38 @@
     "id": 14803787,
     "lat": 40.958507,
     "lng": 29.289418,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Üçay Mühendislik Anadolu Şube",
+    "address": "Mecidiye Demokrasi 261  Sultanbeyli/İstanbul",
+    "phone": "0850 255 35 77",
+    "reportUrl": "https://elaris.com.tr/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "930711",
+    "operatorTitle": "Elaris Enerji Yatırımları Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Elaris Elektrikli Araç Şarj Hizmetleri",
+    "cityId": "34",
+    "districtId": "444",
     "sockets": [
       {
-        "id": 632853
+        "id": 632853,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/5795",
+        "power": 11
       },
       {
-        "id": 632854
+        "id": 632854,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60905",
+        "power": 11
       },
       {
-        "id": 632855
+        "id": 632855,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60906",
+        "power": 11
       }
     ]
   },
@@ -441674,26 +442534,38 @@
     "id": 14803790,
     "lat": 38.675259,
     "lng": 39.211336,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
+    "title": "Elazığ Valiliği",
+    "address": "Kültür Zübeyde Hanım 1  Merkez/Elazığ",
+    "phone": "4440810",
+    "reportUrl": "https://www.aksasarj.com.tr/",
     "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "operatorId": "952581",
+    "operatorTitle": "Aksa Müşteri Çözümleri Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "AKSA ŞARJ",
+    "cityId": "23",
+    "districtId": "297",
     "sockets": [
       {
-        "id": 632885
+        "id": 632885,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60908",
+        "power": 60
       },
       {
-        "id": 632886
+        "id": 632886,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60909",
+        "power": 60
       },
       {
-        "id": 632887
+        "id": 632887,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60910",
+        "power": 22
       }
     ]
   },
@@ -441701,23 +442573,31 @@
     "id": 14803805,
     "lat": 40.005553,
     "lng": 32.648322,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Zeplin Lenora Göksu",
+    "address": "Susuz Akıncılar 18/1  Yenimahalle/Ankara",
+    "phone": "08504740303",
+    "reportUrl": "https://zeplinenerji.com.tr/",
+    "reservationUrl": "https://zeplinenerji.com.tr/",
+    "operatorId": "993552",
+    "operatorTitle": "Zeplin Turizm Araç Kiralama Mobilite Ve Enerji Yatırımları Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "ZEPLİN CAR rental",
+    "cityId": "6",
+    "districtId": "78",
     "sockets": [
       {
-        "id": 632900
+        "id": 632900,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60935",
+        "power": 80
       },
       {
-        "id": 632901
+        "id": 632901,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60938",
+        "power": 80
       }
     ]
   },
@@ -441725,41 +442605,73 @@
     "id": 14803810,
     "lat": 39.757721,
     "lng": 27.960519,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "O204 Oksijen İzmir Yönü",
+    "address": "İbirler 31  Karesi/Balıkesir",
+    "phone": "0850 808 78 46",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "10",
+    "districtId": "977",
     "sockets": [
       {
-        "id": 632971
+        "id": 632971,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39203",
+        "power": 180
       },
       {
-        "id": 632972
+        "id": 632972,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39204",
+        "power": 180
       },
       {
-        "id": 632973
+        "id": 632973,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39205",
+        "power": 180
       },
       {
-        "id": 632974
+        "id": 632974,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39206",
+        "power": 180
       },
       {
-        "id": 632975
+        "id": 632975,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39207",
+        "power": 180
       },
       {
-        "id": 632976
+        "id": 632976,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39208",
+        "power": 300
       },
       {
-        "id": 632977
+        "id": 632977,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39209",
+        "power": 300
       },
       {
-        "id": 632978
+        "id": 632978,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39210",
+        "power": 300
       }
     ]
   },
@@ -441767,26 +442679,38 @@
     "id": 14803811,
     "lat": 41.015235,
     "lng": 29.038186,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Üsküdar Devlet Hastanesi",
+    "address": "Barbaros Veysipaşa 14/3a  Üsküdar/İstanbul",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "34",
+    "districtId": "452",
     "sockets": [
       {
-        "id": 632979
+        "id": 632979,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58538",
+        "power": 240
       },
       {
-        "id": 632980
+        "id": 632980,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/58539",
+        "power": 240
       },
       {
-        "id": 632981
+        "id": 632981,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/58540",
+        "power": 22
       }
     ]
   },
@@ -441794,23 +442718,31 @@
     "id": 14803812,
     "lat": 38.722164,
     "lng": 37.259598,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Gölpınar Dinlenme Tesisi",
+    "address": "Kavakköy  Gürün/Sivas",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "58",
+    "districtId": "768",
     "sockets": [
       {
-        "id": 632982
+        "id": 632982,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/50479",
+        "power": 180
       },
       {
-        "id": 632983
+        "id": 632983,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/50480",
+        "power": 180
       }
     ]
   },
@@ -441818,23 +442750,31 @@
     "id": 14803814,
     "lat": 39.920065,
     "lng": 41.263846,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Kombina Parkı",
+    "address": "Ömer Nasuhi Bilmen Korg. Zekai Aksakallı 16/B  Yakutiye/Erzurum",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "25",
+    "districtId": "325",
     "sockets": [
       {
-        "id": 633108
+        "id": 633108,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60233",
+        "power": 200
       },
       {
-        "id": 633109
+        "id": 633109,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60234",
+        "power": 200
       }
     ]
   },
@@ -441842,23 +442782,31 @@
     "id": 14803815,
     "lat": 37.888772,
     "lng": 32.539631,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Togg Store Konya",
+    "address": "Emirgazi Adana Çevreyolu 72  Karatay/Konya",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "42",
+    "districtId": "575",
     "sockets": [
       {
-        "id": 633110
+        "id": 633110,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/49828",
+        "power": 180
       },
       {
-        "id": 633111
+        "id": 633111,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/49830",
+        "power": 180
       }
     ]
   },
@@ -441866,23 +442814,31 @@
     "id": 14803816,
     "lat": 40.94722,
     "lng": 40.2743,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Of Belediyesi Sanayi Caddesi",
+    "address": "Yenimahalle  Of/Trabzon",
+    "phone": "0850 808 78 46",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "61",
+    "districtId": "810",
     "sockets": [
       {
-        "id": 633112
+        "id": 633112,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/22608",
+        "power": 180
       },
       {
-        "id": 633113
+        "id": 633113,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/22609",
+        "power": 180
       }
     ]
   },
@@ -441890,35 +442846,59 @@
     "id": 14803817,
     "lat": 41.051983,
     "lng": 28.940849,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Haliç Kongre Merkezi Açık Otopark",
+    "address": "Sütlüce Akdağ  Beyoğlu/İstanbul",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "34",
+    "districtId": "427",
     "sockets": [
       {
-        "id": 633114
+        "id": 633114,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/47237",
+        "power": 180
       },
       {
-        "id": 633115
+        "id": 633115,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/47238",
+        "power": 180
       },
       {
-        "id": 633116
+        "id": 633116,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/47239",
+        "power": 180
       },
       {
-        "id": 633117
+        "id": 633117,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/47240",
+        "power": 180
       },
       {
-        "id": 633118
+        "id": 633118,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/47242",
+        "power": 22
       },
       {
-        "id": 633119
+        "id": 633119,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/47243",
+        "power": 22
       }
     ]
   },
@@ -441926,29 +442906,45 @@
     "id": 14803818,
     "lat": 39.849894,
     "lng": 32.826158,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Monec Hotel",
+    "address": "Oran Esat Özoğuz 5  Çankaya/Ankara",
+    "phone": "08508087846",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "6",
+    "districtId": "80",
     "sockets": [
       {
-        "id": 633120
+        "id": 633120,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/59543",
+        "power": 22
       },
       {
-        "id": 633121
+        "id": 633121,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60595",
+        "power": 160
       },
       {
-        "id": 633122
+        "id": 633122,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60596",
+        "power": 160
       },
       {
-        "id": 633123
+        "id": 633123,
+        "type": "ac",
+        "subType": "acType2",
+        "socketNumber": "SKT/60597",
+        "power": 22
       }
     ]
   },
@@ -441956,53 +442952,101 @@
     "id": 14803823,
     "lat": 38.38677,
     "lng": 33.99354,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "Shell Ağaçlı",
+    "address": "Çiftlik  Merkez/Aksaray",
+    "phone": "0850 808 78 46",
+    "reportUrl": "https://trugo.com.tr/contact",
+    "reservationUrl": "https://bit.ly/3Zn9rva",
+    "operatorId": "929964",
+    "operatorTitle": "Trugo Akıllı Şarj Çözümleri Sanayi Ve Ticaret Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "Trugo",
+    "cityId": "68",
+    "districtId": "879",
     "sockets": [
       {
-        "id": 633137
+        "id": 633137,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32381",
+        "power": 180
       },
       {
-        "id": 633138
+        "id": 633138,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32382",
+        "power": 180
       },
       {
-        "id": 633139
+        "id": 633139,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32383",
+        "power": 180
       },
       {
-        "id": 633140
+        "id": 633140,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32384",
+        "power": 180
       },
       {
-        "id": 633141
+        "id": 633141,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32385",
+        "power": 180
       },
       {
-        "id": 633142
+        "id": 633142,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32386",
+        "power": 180
       },
       {
-        "id": 633143
+        "id": 633143,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32387",
+        "power": 180
       },
       {
-        "id": 633144
+        "id": 633144,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32388",
+        "power": 180
       },
       {
-        "id": 633145
+        "id": 633145,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32389",
+        "power": 180
       },
       {
-        "id": 633146
+        "id": 633146,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/32390",
+        "power": 180
       },
       {
-        "id": 633147
+        "id": 633147,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39496",
+        "power": 100
       },
       {
-        "id": 633148
+        "id": 633148,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/39497",
+        "power": 100
       }
     ]
   },
@@ -442010,29 +443054,45 @@
     "id": 14803839,
     "lat": 38.486866,
     "lng": 27.573492,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "O 375 Oksijen Manisa Oht Batı",
+    "address": "Sancaklıiğdecik 33  Şehzadeler/Manisa",
+    "phone": "02167060010",
+    "reportUrl": "https://oncharge.com.tr/",
+    "reservationUrl": "https://oncharge.com.tr/",
+    "operatorId": "918339",
+    "operatorTitle": "Kalyon Electrıcal Vehıcle Enerji Yatırım Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "oncharge",
+    "cityId": "45",
+    "districtId": "985",
     "sockets": [
       {
-        "id": 633151
+        "id": 633151,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60955",
+        "power": 320
       },
       {
-        "id": 633152
+        "id": 633152,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60956",
+        "power": 320
       },
       {
-        "id": 633153
+        "id": 633153,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60957",
+        "power": 320
       },
       {
-        "id": 633154
+        "id": 633154,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60958",
+        "power": 320
       }
     ]
   },
@@ -442040,29 +443100,45 @@
     "id": 14803840,
     "lat": 38.487331,
     "lng": 27.575014,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "O 375 Oksijen Manisa Oht Doğu",
+    "address": "Sancaklıiğdecik  Şehzadeler/Manisa",
+    "phone": "02167060010",
+    "reportUrl": "https://oncharge.com.tr/",
+    "reservationUrl": "https://oncharge.com.tr/",
+    "operatorId": "918339",
+    "operatorTitle": "Kalyon Electrıcal Vehıcle Enerji Yatırım Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "oncharge",
+    "cityId": "45",
+    "districtId": "985",
     "sockets": [
       {
-        "id": 633155
+        "id": 633155,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60959",
+        "power": 320
       },
       {
-        "id": 633156
+        "id": 633156,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60960",
+        "power": 320
       },
       {
-        "id": 633157
+        "id": 633157,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60961",
+        "power": 320
       },
       {
-        "id": 633158
+        "id": 633158,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60962",
+        "power": 320
       }
     ]
   },
@@ -442070,20 +443146,24 @@
     "id": 14803841,
     "lat": 40.970963,
     "lng": 28.805891,
-    "title": null,
-    "address": null,
-    "phone": null,
-    "reportUrl": null,
-    "reservationUrl": null,
-    "operatorId": null,
-    "operatorTitle": null,
-    "serviceType": null,
-    "brand": null,
-    "cityId": null,
-    "districtId": null,
+    "title": "İüc - Prof. Dr. Murat Dilmaner Hastanesi",
+    "address": "Yeşilköy Yeşil Zeytin 1/0  Bakırköy/İstanbul",
+    "phone": "02167060010",
+    "reportUrl": "https://oncharge.com.tr/",
+    "reservationUrl": "https://oncharge.com.tr/",
+    "operatorId": "918339",
+    "operatorTitle": "Kalyon Electrıcal Vehıcle Enerji Yatırım Anonim Şirketi",
+    "serviceType": "public",
+    "brand": "oncharge",
+    "cityId": "34",
+    "districtId": "421",
     "sockets": [
       {
-        "id": 633159
+        "id": 633159,
+        "type": "dc",
+        "subType": "dcCcs",
+        "socketNumber": "SKT/60963",
+        "power": 80
       }
     ]
   }
