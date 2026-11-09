@@ -1479531,10 +1479531,10 @@
       }
     ],
     "fetchStatus": "failed",
-    "fetchAttempts": 4,
-    "lastAttemptTimestamp": "2026-11-08T23:01:04.407Z",
+    "fetchAttempts": 5,
+    "lastAttemptTimestamp": "2026-11-09T02:54:04.345Z",
     "details": null,
-    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-08T23:01:02.982+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14850510/2026-11-08%2023%3A01%3A03\"}"
+    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-09T02:54:02.621+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14850510/2026-11-09%2002%3A54%3A03\"}"
   },
   {
     "id": 14850511,
@@ -1626530,10 +1626530,10 @@
       }
     ],
     "fetchStatus": "failed",
-    "fetchAttempts": 3,
-    "lastAttemptTimestamp": "2026-11-08T23:01:05.095Z",
+    "fetchAttempts": 4,
+    "lastAttemptTimestamp": "2026-11-09T02:54:05.043Z",
     "details": null,
-    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-08T23:01:03.674+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853300/2026-11-08%2023%3A01%3A04\"}"
+    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-09T02:54:03.324+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853300/2026-11-09%2002%3A54%3A04\"}"
   },
   {
     "id": 14853301,
@@ -1627429,10 +1627429,10 @@
       }
     ],
     "fetchStatus": "failed",
-    "fetchAttempts": 3,
-    "lastAttemptTimestamp": "2026-11-08T23:01:05.787Z",
+    "fetchAttempts": 4,
+    "lastAttemptTimestamp": "2026-11-09T02:54:05.742Z",
     "details": null,
-    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-08T23:01:04.364+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853315/2026-11-08%2023%3A01%3A05\"}"
+    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-09T02:54:04.023+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853315/2026-11-09%2002%3A54%3A05\"}"
   },
   {
     "id": 14853316,
@@ -1628298,10 +1628298,10 @@
       }
     ],
     "fetchStatus": "failed",
-    "fetchAttempts": 3,
-    "lastAttemptTimestamp": "2026-11-08T23:01:06.477Z",
+    "fetchAttempts": 4,
+    "lastAttemptTimestamp": "2026-11-09T02:54:06.437Z",
     "details": null,
-    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-08T23:01:05.057+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853327/2026-11-08%2023%3A01%3A06\"}"
+    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-09T02:54:04.720+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853327/2026-11-09%2002%3A54%3A06\"}"
   },
   {
     "id": 14853328,
@@ -1644992,10 +1644992,10 @@
       }
     ],
     "fetchStatus": "failed",
-    "fetchAttempts": 3,
-    "lastAttemptTimestamp": "2026-11-08T23:01:07.167Z",
+    "fetchAttempts": 4,
+    "lastAttemptTimestamp": "2026-11-09T02:54:07.136Z",
     "details": null,
-    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-08T23:01:05.745+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853599/2026-11-08%2023%3A01%3A06\"}"
+    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-09T02:54:05.416+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853599/2026-11-09%2002%3A54%3A06\"}"
   },
   {
     "id": 14853601,
