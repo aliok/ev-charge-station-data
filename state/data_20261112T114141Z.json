@@ -1475480,10 +1475480,10 @@
       }
     ],
     "fetchStatus": "failed",
-    "fetchAttempts": 3,
-    "lastAttemptTimestamp": "2026-11-16T00:12:16.455Z",
+    "fetchAttempts": 4,
+    "lastAttemptTimestamp": "2026-11-16T07:06:08.570Z",
     "details": null,
-    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-16T00:12:15.096+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14850387/2026-11-16%2000%3A12%3A16\"}"
+    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-16T07:06:08.164+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14850387/2026-11-16%2007%3A06%3A07\"}"
   },
   {
     "id": 14850388,
