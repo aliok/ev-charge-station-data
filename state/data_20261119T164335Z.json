@@ -1645162,10 +1645162,10 @@
       }
     ],
     "fetchStatus": "failed",
-    "fetchAttempts": 4,
-    "lastAttemptTimestamp": "2026-11-25T00:01:09.396Z",
+    "fetchAttempts": 5,
+    "lastAttemptTimestamp": "2026-11-25T08:16:43.511Z",
     "details": null,
-    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-25T00:01:08.315+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853999/2026-11-25%2000%3A01%3A09\"}"
+    "errorInfo": "HTTP error 500  - Body: {\"timestamp\":\"2026-11-25T08:16:43.004+00:00\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/sarjet/api/stations/id/14853999/2026-11-25%2008%3A16%3A42\"}"
   },
   {
     "id": 14854001,
